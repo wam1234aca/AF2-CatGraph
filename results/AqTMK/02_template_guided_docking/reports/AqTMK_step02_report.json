@@ -1,0 +1,32 @@
+{
+  "target_id": "AqTMK",
+  "step": "02_template_guided_docking",
+  "mode": "dock_py_mirror",
+  "workflow_profile": "standard",
+  "alignment_mode_configured": "auto",
+  "n_dock_py_exact": 320,
+  "n_sequence_aware": 0,
+  "input_source": "table:results/AqTMK/01_af2_prepare/tables/AqTMK_step01_passed_structure_index.csv",
+  "template_protein_pdb": "/home/wms/AF2-test/AF2-CatGraph/data/AqTMK/02_templates/template.pdb",
+  "ligand_pdbs": [
+    "/home/wms/AF2-test/AF2-CatGraph/data/AqTMK/02_templates/ATP.pdb",
+    "/home/wms/AF2-test/AF2-CatGraph/data/AqTMK/02_templates/TMP.pdb",
+    "/home/wms/AF2-test/AF2-CatGraph/data/AqTMK/02_templates/MG.pdb"
+  ],
+  "ligand_order_manifest": "results/AqTMK/02_template_guided_docking/tables/AqTMK_step02_ligand_order_manifest.csv",
+  "ligand_input_branch": "untrimmed_input",
+  "n_input_structures": 320,
+  "n_complexes_written": 320,
+  "n_failed_or_skipped": 0,
+  "output_dir": "results/AqTMK/02_template_guided_docking",
+  "complex_dir": "results/AqTMK/02_template_guided_docking/complexes",
+  "main_outputs": {
+    "summary_table": "results/AqTMK/02_template_guided_docking/tables/AqTMK_step02_template_guided_docking_summary.csv",
+    "complex_index_table": "results/AqTMK/02_template_guided_docking/tables/AqTMK_step02_complex_index.csv",
+    "failed_table": "results/AqTMK/02_template_guided_docking/tables/AqTMK_step02_failed_structures.csv",
+    "complex_list": "results/AqTMK/02_template_guided_docking/lists/AqTMK_step02_complex_pdbs.txt"
+  },
+  "naming_rule": "short_pdb_rank default: <PDB>_<rank_or_index>_complex.pdb; set step02.output_naming: source_stem for old dock.py basename filenames",
+  "multi_ligand_rule": "inputs.ligand_pdbs are docked sequentially by default: ligand 1 -> ligand 2 -> ligand 3, preserving dock.py rigid_docking calls and user-defined ligand order. Set step02.multi_ligand_mode: rigid_assembly only for intentional one-piece assemblies.",
+  "multi_ligand_mode": "sequential"
+}

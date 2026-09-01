@@ -1,0 +1,30 @@
+{
+  "target_id": "GAC",
+  "step": "02_template_guided_docking",
+  "mode": "dock_py_mirror",
+  "workflow_profile": "standard",
+  "alignment_mode_configured": "auto",
+  "n_dock_py_exact": 264,
+  "n_sequence_aware": 0,
+  "input_source": "table:results/GAC/01_af2_prepare/tables/GAC_step01_passed_structure_index.csv",
+  "template_protein_pdb": "/home/wms/AF2-test/AF2-CatGraph-test5/data/GAC/02_templates/template.pdb",
+  "ligand_pdbs": [
+    "/home/wms/AF2-test/AF2-CatGraph-test5/data/GAC/02_templates/ligand.pdb"
+  ],
+  "ligand_order_manifest": "results/GAC/02_template_guided_docking/tables/GAC_step02_ligand_order_manifest.csv",
+  "ligand_input_branch": "untrimmed_input",
+  "n_input_structures": 264,
+  "n_complexes_written": 264,
+  "n_failed_or_skipped": 0,
+  "output_dir": "results/GAC/02_template_guided_docking",
+  "complex_dir": "results/GAC/02_template_guided_docking/complexes",
+  "main_outputs": {
+    "summary_table": "results/GAC/02_template_guided_docking/tables/GAC_step02_template_guided_docking_summary.csv",
+    "complex_index_table": "results/GAC/02_template_guided_docking/tables/GAC_step02_complex_index.csv",
+    "failed_table": "results/GAC/02_template_guided_docking/tables/GAC_step02_failed_structures.csv",
+    "complex_list": "results/GAC/02_template_guided_docking/lists/GAC_step02_complex_pdbs.txt"
+  },
+  "naming_rule": "short_pdb_rank default: <PDB>_<rank_or_index>_complex.pdb; set step02.output_naming: source_stem for old dock.py basename filenames",
+  "multi_ligand_rule": "inputs.ligand_pdbs are docked sequentially by default: ligand 1 -> ligand 2 -> ligand 3, preserving dock.py rigid_docking calls and user-defined ligand order. Set step02.multi_ligand_mode: rigid_assembly only for intentional one-piece assemblies.",
+  "multi_ligand_mode": "sequential"
+}

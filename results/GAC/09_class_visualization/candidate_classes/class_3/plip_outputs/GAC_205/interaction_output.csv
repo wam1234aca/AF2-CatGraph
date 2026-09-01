@@ -1,0 +1,12 @@
+type,ligand_node,ligand_node_key,ligand_node_label,protein_node,ligand_atom_serial,source_xml_group,source_xml_tag,ligand_residue_name,ligand_chain_id,ligand_residue_number
+hydrophobic_interactions,C2,GLC:B:1:C2,C2,PHE247A,2319,hydrophobic_interactions,hydrophobic_interaction,GLC,B,1
+hydrophobic_interactions,C2,GLC:B:1:C2,C2,VAL413A,2319,hydrophobic_interactions,hydrophobic_interaction,GLC,B,1
+hydrogen_bonds,O1,GLC:B:1:O1,O1,SER215A,2318,hydrogen_bonds,hydrogen_bond,GLC,B,1
+hydrogen_bonds,O2,GLC:B:1:O2,O2,ASN264A,2324,hydrogen_bonds,hydrogen_bond,GLC,B,1
+hydrogen_bonds,O3,GLC:B:1:O3,O3,GLU310A,2325,hydrogen_bonds,hydrogen_bond,GLC,B,1
+hydrogen_bonds,N2,GLC:B:1:N2,N2,GLU310A,2322,hydrogen_bonds,hydrogen_bond,GLC,B,1
+hydrogen_bonds,O2,GLC:B:1:O2,O2,ASN317A,2324,hydrogen_bonds,hydrogen_bond,GLC,B,1
+hydrogen_bonds,O2,GLC:B:1:O2,O2,TYR343A,2324,hydrogen_bonds,hydrogen_bond,GLC,B,1
+hydrogen_bonds,O1,GLC:B:1:O1,O1,TYR395A,2318,hydrogen_bonds,hydrogen_bond,GLC,B,1
+hydrogen_bonds,N1,GLC:B:1:N1,N1,TYR395A,2316,hydrogen_bonds,hydrogen_bond,GLC,B,1
+hydrogen_bonds,O1,GLC:B:1:O1,O1,VAL413A,2318,hydrogen_bonds,hydrogen_bond,GLC,B,1

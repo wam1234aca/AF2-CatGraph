@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+build_check/
+build_check*/
+pytest-of-*/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Environments
+.env
+.venv/
+venv/
+conda-env/
+.gui_test_env/
+.conda_package_cache/
+
+# AF2-CatGraph runtime outputs
+results/
+data/
+!data/.gitkeep
+!results/.gitkeep
+projects/*/
+!projects/.gitkeep
+!projects/README.md
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.zip
+
+# Local configuration and scientific inputs
+*.local.yaml
+*.local.yml
+downloaded_data/
+external/Graph_Edit_Distance/ged
+external/Graph_Edit_Distance/.obj/
+release_v*/
+
+# Local Streamlit GUI single-instance record (never commit runtime state)
+.catcongraph/

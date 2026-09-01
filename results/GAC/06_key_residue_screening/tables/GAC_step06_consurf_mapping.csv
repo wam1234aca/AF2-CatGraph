@@ -1,0 +1,528 @@
+chain,resseq,icode,seq,resname,consurf_score,consurf_grade,buried_exposed,functional_structural,msa_data,residue_variety,consurf_position,pdb_residue_annotation,residue_mapping_source,residue_key,source_residue_key,source_chain,source_resseq,source_icode,consurf_mapping_status,consurf_mapping_method,consurf_mapping_identity
+A,1,,L,LEU,-0.668,9,e,f,3/150,L,1,,alignment_position,,LEU1A,A,1,,missing,unmapped,
+A,2,,S,SER,-0.668,9,e,f,3/150,S,2,,alignment_position,,SER2A,A,2,,missing,unmapped,
+A,3,,S,SER,4.136,1,e,,3/150,"S 66%, G 33%",3,,alignment_position,,SER3A,A,3,,missing,unmapped,
+A,4,,S,SER,-0.668,9,e,f,3/150,S,4,,alignment_position,,SER4A,A,4,,missing,unmapped,
+A,5,,P,PRO,-0.668,9,e,f,3/150,P,5,,alignment_position,,PRO5A,A,5,,missing,unmapped,
+A,6,,S,SER,-0.668,9,e,f,3/150,S,6,,alignment_position,,SER6A,A,6,,missing,unmapped,
+A,7,,E,GLU,-0.668,9,e,f,3/150,E,7,,alignment_position,,GLU7A,A,7,,missing,unmapped,
+A,8,,I,ILE,-0.668,9,b,s,4/150,I,8,,alignment_position,,ILE8A,A,8,,missing,unmapped,
+A,9,,L,LEU,-0.668,9,b,s,4/150,L,9,,alignment_position,,LEU9A,A,9,,missing,unmapped,
+A,10,,Q,GLN,3.333,2,e,,4/150,"Q 75%, D 25%",10,,alignment_position,,GLN10A,A,10,,missing,unmapped,
+A,11,,E,GLU,-0.668,9,e,f,4/150,E,11,,alignment_position,,GLU11A,A,11,,missing,unmapped,
+A,12,,L,LEU,3.324,2,e,,4/150,"L 75%, P 25%",12,,alignment_position,,LEU12A,A,12,,missing,unmapped,
+A,13,,G,GLY,-0.668,9,e,f,4/150,G,13,,alignment_position,,GLY13A,A,13,,missing,unmapped,
+A,14,,K,LYS,-0.668,9,e,f,4/150,K,14,,alignment_position,,LYS14A,A,14,,missing,unmapped,
+A,15,,G,GLY,-0.668,9,e,f,4/150,G,15,,alignment_position,,GLY15A,A,15,,missing,unmapped,
+A,16,,S,SER,5.054,1,e,,4/150,"G 50%, S 25%, P 25%",16,,alignment_position,,SER16A,A,16,,missing,unmapped,
+A,17,,T,THR,1.901,3,e,,4/150,"T 50%, P 50%",17,,alignment_position,,THR17A,A,17,,missing,unmapped,
+A,18,,H,HIS,5.054,1,e,,4/150,"Q 50%, H 25%, P 25%",18,,alignment_position,,HIS18A,A,18,,missing,unmapped,
+A,19,,P,PRO,2.488,3,e,,4/150,"P 75%, Q 25%",19,,alignment_position,,PRO19A,A,19,,missing,unmapped,
+A,20,,Q,GLN,-0.668,9,e,f,4/150,Q,20,,alignment_position,,GLN20A,A,20,,missing,unmapped,
+A,21,,P,PRO,5.054,1,e,,4/150,"P 75%, D 25%",21,,alignment_position,,PRO21A,A,21,,missing,unmapped,
+A,22,,G,GLY,3.495,2,e,,4/150,"G 75%, E 25%",22,,alignment_position,,GLY22A,A,22,,missing,unmapped,
+A,23,,V,VAL,3.398,2,e,,4/150,"A 75%, V 25%",23,,alignment_position,,VAL23A,A,23,,missing,unmapped,
+A,24,,S,SER,1.101,4,e,,4/150,"S 75%, A 25%",24,,alignment_position,,SER24A,A,24,,missing,unmapped,
+A,25,,P,PRO,-0.668,9,e,f,4/150,P,25,,alignment_position,,PRO25A,A,25,,missing,unmapped,
+A,26,,P,PRO,2.751,3,e,,5/150,"P 60%, S 20%, R 20%",26,,alignment_position,,PRO26A,A,26,,missing,unmapped,
+A,27,,A,ALA,-0.097,6,e,,6/150,"A 83%, G 16%",27,,alignment_position,,ALA27A,A,27,,missing,unmapped,
+A,28,,A,ALA,1.554,4,b,,6/150,"A 66%, F 16%, L 16%",28,,alignment_position,,ALA28A,A,28,,missing,unmapped,
+A,29,,P,PRO,0.683,4,e,,7/150,"P 57%, H 28%, V 14%",29,,alignment_position,,PRO29A,A,29,,missing,unmapped,
+A,30,,A,ALA,5.054,1,e,,7/150,"A 28%, S 14%, E 14%, D 14%, P 14%, K 14%",30,,alignment_position,,ALA30A,A,30,,missing,unmapped,
+A,31,,A,ALA,2.281,3,e,,8/150,"A 37%, Q 25%, K 12%, E 12%, G 12%",31,,alignment_position,,ALA31A,A,31,,missing,unmapped,
+A,32,,P,PRO,-0.063,5,e,,8/150,"P 87%, T 12%",32,,alignment_position,,PRO32A,A,32,,missing,unmapped,
+A,33,,G,GLY,2.11,3,e,,7/150,"G 71%, T 14%, C 14%",33,,alignment_position,,GLY33A,A,33,,missing,unmapped,
+A,34,,P,PRO,1.307,4,e,,7/150,"P 71%, A 14%, E 14%",34,,alignment_position,,PRO34A,A,34,,missing,unmapped,
+A,35,,K,LYS,1.26,4,e,,5/150,"K 40%, E 40%, Q 20%",35,,alignment_position,,LYS35A,A,35,,missing,unmapped,
+A,36,,D,ASP,-0.668,9,e,f,3/150,D,36,,alignment_position,,ASP36A,A,36,,missing,unmapped,
+A,37,,G,GLY,5.054,1,e,,3/150,"G 66%, S 33%",37,,alignment_position,,GLY37A,A,37,,missing,unmapped,
+A,38,,P,PRO,-0.668,9,e,f,3/150,P,38,,alignment_position,,PRO38A,A,38,,missing,unmapped,
+A,39,,G,GLY,-0.668,9,e,f,3/150,G,39,,alignment_position,,GLY39A,A,39,,missing,unmapped,
+A,40,,E,GLU,-0.668,9,e,f,4/150,E,40,,alignment_position,,GLU40A,A,40,,missing,unmapped,
+A,41,,T,THR,5.054,1,b,,4/150,"T 50%, A 25%, L 25%",41,,alignment_position,,THR41A,A,41,,missing,unmapped,
+A,42,,D,ASP,-0.668,9,e,f,4/150,D,42,,alignment_position,,ASP42A,A,42,,missing,unmapped,
+A,43,,A,ALA,1.408,4,e,,4/150,"A 75%, E 25%",43,,alignment_position,,ALA43A,A,43,,missing,unmapped,
+A,44,,F,PHE,1.731,3,b,,4/150,"F 75%, L 25%",44,,alignment_position,,PHE44A,A,44,,missing,unmapped,
+A,45,,G,GLY,5.054,1,e,,10/150,"G 20%, N 20%, L 20%, A 20%, V 10%, R 10%",45,,alignment_position,,GLY45A,A,45,,missing,unmapped,
+A,46,,N,ASN,0.629,4,e,,11/150,"N 36%, K 18%, C 18%, G  9%, S  9%, D  9%",46,,alignment_position,,ASN46A,A,46,,missing,unmapped,
+A,47,,S,SER,0.79,4,e,,12/150,"S 25%, K 25%, E 25%, N  8%, L  8%, R  8%",47,,alignment_position,,SER47A,A,47,,missing,unmapped,
+A,48,,E,GLU,1.354,4,e,,12/150,"E 41%, D 16%, H  8%, T  8%, G  8%, V  8%, I  8%",48,,alignment_position,,GLU48A,A,48,,missing,unmapped,
+A,49,,G,GLY,2.263,3,e,,11/150,"G 36%, E 27%, S 18%, D 18%",49,,alignment_position,,GLY49A,A,49,,missing,unmapped,
+A,50,,K,LYS,0.784,4,e,,7/150,"K 42%, A 42%, S 14%",50,,alignment_position,,LYS50A,A,50,,missing,unmapped,
+A,51,,E,GLU,1.946,3,e,,7/150,"E 57%, S 28%, V 14%",51,,alignment_position,,GLU51A,A,51,,missing,unmapped,
+A,52,,L,LEU,5.054,1,e,,7/150,"L 42%, A 14%, Q 14%, S 14%, K 14%",52,,alignment_position,,LEU52A,A,52,,missing,unmapped,
+A,53,,V,VAL,2.192,3,e,,10/150,"V 30%, E 20%, I 20%, G 10%, D 10%, K 10%",53,,alignment_position,,VAL53A,A,53,,missing,unmapped,
+A,54,,A,ALA,0.059,5,e,,14/150,"A 71%, S 14%, G  7%, K  7%",54,,alignment_position,,ALA54A,A,54,,missing,unmapped,
+A,55,,S,SER,3.498,2,e,,17/150,"A 23%, S 17%, T 11%, L 11%, E 11%, M  5%, K  5%, Q  5%, G  5%",55,,alignment_position,,SER55A,A,55,,missing,unmapped,
+A,56,,G,GLY,2.986,2,e,,20/150,"G 25%, A 20%, D 15%, E 10%, S 10%, H 10%, T  5%, N  5%",56,,alignment_position,,GLY56A,A,56,,missing,unmapped,
+A,57,,E,GLU,2.635,3,e,,20/150,"E 30%, D 20%, Q 10%, T 10%, V 10%, P  5%, I  5%, K  5%, L  5%",57,,alignment_position,,GLU57A,A,57,,missing,unmapped,
+A,58,,N,ASN,2.135,3,e,,24/150,"K 33%, N 20%, E  8%, R  8%, G  4%, P  4%, H  4%, Q  4%, V  4%, T  4%, Y  4%",58,,alignment_position,,ASN58A,A,58,,missing,unmapped,
+A,59,,K,LYS,0.244,5,e,,33/150,"R 57%, K 24%, Q  6%, P  6%, H  3%, E  3%",59,,alignment_position,,LYS59A,A,59,,missing,unmapped,
+A,60,,I,ILE,0.491,5,e,,37/150,"R 32%, T 18%, I 13%, H  5%, S  5%, D  5%, E  5%, N  2%, P  2%, V  2%, Q  2%, K  2%",60,,alignment_position,,ILE60A,A,60,,missing,unmapped,
+A,61,,K,LYS,0.048,5,e,,38/150,"K 47%, N 18%, A 10%, R  5%, V  5%, S  5%, Q  5%, G  2%",61,,alignment_position,,LYS61A,A,61,,missing,unmapped,
+A,62,,Q,GLN,0.668,4,e,,39/150,"A 33%, E 17%, Q 15%, P 10%, S  7%, K  5%, H  5%, R  2%, N  2%",62,,alignment_position,,GLN62A,A,62,,missing,unmapped,
+A,63,,G,GLY,-0.445,8,e,f,42/150,"G 85%, R  9%, V  2%, S  2%",63,,alignment_position,,GLY63A,A,63,,missing,unmapped,
+A,64,,L,LEU,0.182,5,e,,51/150,"L 37%, I 29%, M  9%, S  7%, R  5%, V  3%, H  1%, G  1%, Q  1%",64,,alignment_position,,LEU64A,A,64,,missing,unmapped,
+A,65,,L,LEU,0.143,5,e,,59/150,"L 57%, M 10%, F  8%, D  8%, H  3%, E  3%, V  1%, I  1%, N  1%, Q  1%, S  1%",65,,alignment_position,,LEU65A,A,65,,missing,unmapped,
+A,66,,P,PRO,0.306,5,e,,64/150,"P 39%, S 21%, K 10%, Q  4%, T  3%, L  3%, E  3%, H  3%, N  3%, F  1%, V  1%, I  1%, A  1%, R  1%",66,,alignment_position,,PRO66A,A,66,,missing,unmapped,
+A,67,,S,SER,-0.183,6,e,,74/150,"S 47%, N 13%, G 12%, H  8%, R  5%, T  4%, D  4%, Q  2%, V  1%, A  1%",67,,alignment_position,,SER67A,A,67,,missing,unmapped,
+A,68,,L,LEU,0.087,5,b,,81/150,"L 48%, V 16%, M  9%, A  4%, P  4%, T  3%, S  3%, I  2%, Q  2%, C  1%, F  1%, R  1%",68,,alignment_position,,LEU68A,A,68,,missing,unmapped,
+A,69,,E,GLU,-0.353,7,e,,91/150,"E 79%, A  5%, S  4%, D  4%, Q  2%, V  1%, I  1%, G  1%, L  1%",69,,alignment_position,,GLU69A,A,69,,missing,unmapped,
+A,70,,D,ASP,-0.309,7,e,,98/150,"D 79%, N  5%, E  5%, T  2%, A  2%, S  2%, R  2%, Y  1%, Q  1%",70,,alignment_position,,ASP70A,A,70,,missing,unmapped,
+A,71,,L,LEU,0.221,5,b,,101/150,"L 48%, M 12%, V  8%, R  5%, A  4%, Q  4%, I  2%, K  2%, S  2%, F  1%, H <1%, T <1%, E <1%",71,,alignment_position,,LEU71A,A,71,,missing,unmapped,
+A,72,,L,LEU,-0.387,8,b,,110/150,"L 79%, I 14%, V  4%, T <1%, F <1%",72,,alignment_position,,LEU72A,A,72,,missing,unmapped,
+A,73,,F,PHE,-0.525,9,b,s,111/150,"F 90%, Y  8%, C  1%",73,,alignment_position,,PHE73A,A,73,,missing,unmapped,
+A,74,,Y,TYR,0.033,5,e,,112/150,"Y 41%, D 19%, E 13%, N  8%, Q  3%, R  3%, T  2%, H  1%, K  1%, A  1%, G <1%, S <1%",74,,alignment_position,,TYR74A,A,74,,missing,unmapped,
+A,75,,T,THR,-0.344,7,b,,112/150,"T 42%, L 16%, S 13%, M 12%, A  4%, I  3%, Y  1%, H  1%, N <1%, Q <1%, V <1%",75,,alignment_position,,THR75A,A,75,,missing,unmapped,
+A,76,,I,ILE,-0.302,7,b,,112/150,"I 36%, F 34%, L 13%, V  9%, Y  3%, C  1%",76,,alignment_position,,ILE76A,A,76,,missing,unmapped,
+A,77,,A,ALA,0.161,5,e,,103/150,"A 27%, T 19%, S  9%, N  7%, K  6%, D  6%, I  5%, C  2%, L  2%, E  2%, M  1%, P  1%, R <1%, Q <1%, H <1%, V <1%",77,,alignment_position,,ALA77A,A,77,,missing,unmapped,
+A,78,,E,GLU,0.062,5,e,,116/150,"E 38%, D 18%, P  8%, Q  7%, N  6%, A  6%, S  5%, K  3%, T  1%, H <1%, I <1%",78,,alignment_position,,GLU78A,A,78,,missing,unmapped,
+A,79,,G,GLY,0.22,5,e,,116/150,"G 44%, E 12%, K  9%, D  7%, N  7%, S  6%, T  3%, A  3%, P <1%, Q <1%, R <1%, C <1%, V <1%",79,,alignment_position,,GLY79A,A,79,,missing,unmapped,
+A,80,,Q,GLN,0.05,5,e,,118/150,"Q 27%, K 21%, E 13%, D 11%, T  9%, N  5%, S  3%, R  2%, A  1%, G  1%, V <1%, P <1%",80,,alignment_position,,GLN80A,A,80,,missing,unmapped,
+A,81,,E,GLU,0.004,5,e,,118/150,"E 39%, G 29%, D 12%, N  9%, P  2%, S  1%, K  1%, A  1%, Q <1%",81,,alignment_position,,GLU81A,A,81,,missing,unmapped,
+A,82,,K,LYS,0.357,5,e,,119/150,"K 27%, R 14%, T 12%, E  9%, Q  8%, M  5%, N  4%, V  4%, S  3%, L  3%, Y  1%, I  1%, F  1%, C <1%, P <1%",82,,alignment_position,,LYS82A,A,82,,missing,unmapped,
+A,83,,I,ILE,-0.307,7,b,,119/150,"I 48%, V 27%, A 10%, L  9%, T  3%, G <1%",83,,alignment_position,,ILE83A,A,83,,missing,unmapped,
+A,84,,P,PRO,-0.09,6,e,,120/150,"P 35%, S 25%, N 11%, T  7%, A  4%, R  3%, D  3%, C  1%, Y  1%, G  1%, K  1%, H <1%, W <1%",84,,alignment_position,,PRO84A,A,84,,missing,unmapped,
+A,85,,V,VAL,0.034,5,b,,121/150,"V 27%, I 23%, A 14%, L  9%, M  4%, T  4%, P  4%, K  3%, R  3%, S  2%, F  1%, G <1%",85,,alignment_position,,VAL85A,A,85,,missing,unmapped,
+A,86,,H,HIS,0.308,5,e,,121/150,"H 19%, S 17%, G 15%, A  9%, N  7%, T  5%, P  4%, K  3%, R  3%, E  2%, D  2%, W  2%, Y  1%, V  1%, Q  1%, L <1%, F <1%",86,,alignment_position,,HIS86A,A,86,,missing,unmapped,
+A,87,,K,LYS,-0.019,5,e,,122/150,"K 50%, R 11%, Q  9%, T  5%, H  4%, E  4%, A  4%, D  3%, N  1%, F <1%, V <1%, S <1%, L <1%, G <1%",87,,alignment_position,,LYS87A,A,87,,missing,unmapped,
+A,88,,F,PHE,-0.466,8,b,,123/150,"F 68%, L 24%, I  5%, M <1%, V <1%",88,,alignment_position,,PHE88A,A,88,,missing,unmapped,
+A,89,,I,ILE,0.117,5,b,,123/150,"L 32%, I 30%, T 10%, F  8%, K  7%, V  3%, M  1%, Q  1%, A  1%, R <1%, W <1%, E <1%",89,,alignment_position,,ILE89A,A,89,,missing,unmapped,
+A,90,,T,THR,0.268,5,e,,125/150,"T 21%, S 21%, A 14%, E 12%, N  8%, K  6%, R  4%, Q  3%, D  2%, G  1%, Y  1%, M <1%, F <1%, L <1%",90,,alignment_position,,THR90A,A,90,,missing,unmapped,
+A,91,,A,ALA,-0.248,7,e,,126/150,"A 56%, V 10%, R  6%, T  4%, S  3%, L  3%, E  3%, I  2%, M  1%, G  1%, H  1%, K  1%, Q <1%, Y <1%, F <1%",91,,alignment_position,,ALA91A,A,91,,missing,unmapped,
+A,92,,L,LEU,-0.435,8,b,,128/150,"L 86%, I  7%, V  2%, F  2%, M <1%",92,,alignment_position,,LEU92A,A,92,,missing,unmapped,
+A,93,,K,LYS,0.512,5,e,,128/150,"K 39%, R 21%, A  6%, W  4%, H  4%, S  3%, F  2%, E  2%, T  2%, L  2%, I  2%, Q  1%, D  1%, N  1%, G  1%, Y <1%, M <1%",93,,alignment_position,,LYS93A,A,93,,missing,unmapped,
+A,94,,S,SER,0.248,5,e,,128/150,"S 29%, A 15%, E 11%, K  9%, T  8%, R  7%, N  4%, Q  3%, G  2%, F  1%, L  1%, D  1%, C <1%, M <1%, V <1%",94,,alignment_position,,SER94A,A,94,,missing,unmapped,
+A,95,,T,THR,-0.173,6,e,,128/150,"T 50%, S 14%, A  8%, F  7%, N  3%, Y  3%, K  3%, Q  2%, I  1%, V  1%, R  1%, M  1%, L <1%, H <1%, E <1%",95,,alignment_position,,THR95A,A,95,,missing,unmapped,
+A,96,,G,GLY,-0.653,9,e,f,128/150,"G 99%, V <1%",96,,alignment_position,,GLY96A,A,96,,missing,unmapped,
+A,97,,L,LEU,-0.311,7,b,,128/150,"L 67%, I 26%, F  3%, V  1%, H <1%",97,,alignment_position,,LEU97A,A,97,,missing,unmapped,
+A,98,,R,ARG,0.111,5,e,,128/150,"R 41%, L 23%, Q  7%, H  3%, K  3%, M  3%, W  2%, D  2%, A  2%, S  2%, C  1%, E  1%, P  1%, T  1%, N <1%, I <1%",98,,alignment_position,,ARG98A,A,98,,missing,unmapped,
+A,99,,T,THR,0.314,5,e,,128/150,"T 28%, E 17%, K 10%, P  7%, R  7%, D  4%, S  3%, Q  3%, V  2%, A  2%, L  2%, I  1%, M  1%, H  1%, G  1%, N  1%, F <1%",99,,alignment_position,,THR99A,A,99,,missing,unmapped,
+A,100,,S,SER,-0.228,7,e,,128/150,"S 32%, D 25%, T 14%, G 11%, N  8%, K  3%, R  1%, A <1%, Q <1%, Y <1%, E <1%",100,,alignment_position,,SER100A,A,100,,missing,unmapped,
+A,101,,D,ASP,-0.639,9,e,f,128/150,"D 97%, N  1%, S <1%",101,,alignment_position,,ASP101A,A,101,,missing,unmapped,
+A,102,,P,PRO,-0.384,8,e,f,128/150,"P 86%, F  3%, I  2%, N  1%, H <1%, Q <1%, R <1%, L <1%, K <1%, S <1%, G <1%",102,,alignment_position,,PRO102A,A,102,,missing,unmapped,
+A,103,,R,ARG,-0.638,9,e,f,128/150,"R 97%, S <1%, D <1%, K <1%",103,,alignment_position,,ARG103A,A,103,,missing,unmapped,
+A,104,,L,LEU,-0.359,7,b,,128/150,"L 80%, I 11%, V  3%, M  2%, T  1%, F <1%",104,,alignment_position,,LEU104A,A,104,,missing,unmapped,
+A,105,,K,LYS,0.318,5,e,,128/150,"K 42%, R 23%, Q  7%, S  6%, A  4%, T  3%, H  3%, N  2%, V  2%, G  1%, D <1%, E <1%, P <1%",105,,alignment_position,,LYS105A,A,105,,missing,unmapped,
+A,106,,E,GLU,-0.001,5,e,,128/150,"E 45%, D 22%, P  6%, K  4%, G  3%, Q  3%, S  3%, H  2%, N  2%, A  1%, T  1%, Y <1%, I <1%, C <1%, V <1%",106,,alignment_position,,GLU106A,A,106,,missing,unmapped,
+A,107,,C,CYS,-0.066,5,b,,128/150,"C 45%, M 17%, T 10%, L  9%, F  4%, V  3%, I  3%, S  2%, G  1%, A  1%",107,,alignment_position,,CYS107A,A,107,,missing,unmapped,
+A,108,,M,MET,-0.036,5,b,,130/150,"M 52%, V  9%, L  9%, I  8%, F  8%, R  4%, Y  3%, K  1%, W  1%, G <1%, H <1%",108,,alignment_position,,MET108A,A,108,,missing,unmapped,
+A,109,,D,ASP,1.02,4,e,,130/150,"D 23%, E 17%, K  7%, R  7%, A  7%, Q  6%, H  5%, S  5%, T  5%, N  3%, L  3%, G  1%, F  1%, Y <1%, M <1%, I <1%, V <1%",109,,alignment_position,,ASP109A,A,109,,missing,unmapped,
+A,110,,M,MET,0.195,5,e,,129/150,"K 19%, N 16%, M 11%, Q 10%, R  8%, L  6%, A  6%, T  6%, H  4%, S  3%, E  2%, V  2%, G <1%",110,,alignment_position,,MET110A,A,110,,missing,unmapped,
+A,111,,L,LEU,-0.181,6,b,,130/150,"L 59%, M 13%, I 10%, F  7%, V  6%, Q <1%, T <1%, D <1%",111,,alignment_position,,LEU111A,A,111,,missing,unmapped,
+A,112,,R,ARG,0.356,5,e,,129/150,"R 37%, K 23%, Q  7%, E  7%, N  4%, A  3%, H  3%, T  2%, D  2%, L  1%, V  1%, Y <1%, M <1%, S <1%, C <1%, P <1%, G <1%",112,,alignment_position,,ARG112A,A,112,,missing,unmapped,
+A,113,,L,LEU,0.652,4,e,,129/150,"Q 20%, E 15%, K 11%, R  7%, N  7%, S  6%, D  6%, L  5%, V  3%, T  3%, A  3%, G  2%, H  1%, F  1%, C <1%, W <1%",113,,alignment_position,,LEU113A,A,113,,missing,unmapped,
+A,114,,T,THR,0.348,5,e,,129/150,"T 17%, A 15%, L 13%, S 10%, V 10%, I  7%, Y  4%, F  4%, G  3%, H  2%, E  2%, N  1%, D  1%, C <1%, K <1%, R <1%, M <1%, Q <1%",114,,alignment_position,,THR114A,A,114,,missing,unmapped,
+A,115,,L,LEU,0.156,5,e,,110/150,"L 20%, V 16%, Q 13%, E 11%, H  8%, T  4%, S  4%, I  3%, R  3%, A  3%, K  1%, F  1%, D  1%, G  1%, M <1%, P <1%",115,,alignment_position,,LEU115A,A,115,,missing,unmapped,
+A,116,,Q,GLN,0.73,4,e,,111/150,"K 23%, Q 22%, R 15%, N  7%, S  5%, D  5%, E  4%, T  3%, L  2%, H  1%, G  1%, V  1%, F <1%, A <1%, M <1%, I <1%, P <1%",116,,alignment_position,,GLN116A,A,116,,missing,unmapped,
+A,117,,T,THR,0.879,4,e,,99/150,"E 29%, D 12%, T 10%, S  9%, K  8%, L  6%, Q  6%, R  5%, N  5%, I  3%, G  2%, A  2%, Y  1%, P  1%",117,,alignment_position,,THR117A,A,117,,missing,unmapped,
+A,118,,T,THR,0.41,5,e,,98/150,"S 34%, T 20%, A  7%, K  6%, D  5%, I  4%, V  4%, N  3%, E  3%, Q  3%, L  2%, C  2%, P  2%, M  1%, G  1%, H  1%",118,,alignment_position,,THR118A,A,118,,missing,unmapped,
+A,119,,S,SER,0.575,4,e,,95/150,"S 25%, A 11%, E 11%, N 11%, V  9%, T  7%, G  5%, D  5%, P  3%, L  2%, Q  2%, I  2%, M  1%, F  1%, Y  1%",119,,alignment_position,,SER119A,A,119,,missing,unmapped,
+A,120,,D,ASP,0.444,5,e,,118/150,"D 23%, G 21%, E 10%, K  7%, N  5%, Q  5%, S  4%, H  4%, R  4%, A  3%, F  2%, P  2%, T  1%, L  1%, I <1%, M <1%, V <1%",120,,alignment_position,,ASP120A,A,120,,missing,unmapped,
+A,121,,G,GLY,0.279,5,e,,126/150,"G 26%, D 14%, S 11%, P 10%, E  9%, T  7%, H  6%, N  5%, A  1%, K  1%, R  1%, L <1%, F <1%, Q <1%, I <1%",121,,alignment_position,,GLY121A,A,121,,missing,unmapped,
+A,122,,V,VAL,0.492,5,e,,123/150,"V 30%, L 10%, A  8%, G  7%, W  6%, Q  5%, I  4%, R  4%, T  4%, N  3%, D  3%, P  2%, S  2%, C  1%, F  1%, K <1%, E <1%",122,,alignment_position,,VAL122A,A,122,,missing,unmapped,
+A,123,,M,MET,0.728,4,e,,129/150,"M 24%, T  9%, K  8%, A  7%, Q  6%, E  6%, L  6%, S  4%, R  3%, F  3%, Y  3%, N  2%, I  2%, G  2%, P  2%, V  1%, C  1%, W <1%, D <1%",123,,alignment_position,,MET123A,A,123,,missing,unmapped,
+A,124,,L,LEU,-0.288,7,b,,129/150,"L 47%, M 20%, I 14%, V 12%, F  3%, R <1%, S <1%",124,,alignment_position,,LEU124A,A,124,,missing,unmapped,
+A,125,,D,ASP,-0.288,7,e,,129/150,"D 65%, S 14%, N 10%, T  2%, E  2%, A  2%, G  1%, Y <1%, R <1%",125,,alignment_position,,ASP125A,A,125,,missing,unmapped,
+A,126,,K,LYS,-0.077,6,e,,129/150,"R 39%, K 24%, F 10%, E  6%, Q  5%, L  3%, Y  3%, V  2%, H  1%, A  1%, S <1%",126,,alignment_position,,LYS126A,A,126,,missing,unmapped,
+A,127,,D,ASP,0.365,5,e,,129/150,"E 32%, D 19%, H 11%, K 11%, A  8%, Q  3%, S  3%, T  2%, N  2%, L  1%, Y <1%, V <1%, P <1%, G <1%",127,,alignment_position,,ASP127A,A,127,,missing,unmapped,
+A,128,,L,LEU,0.078,5,e,,129/150,"L 34%, T 18%, Q 13%, D  6%, K  5%, S  3%, E  3%, R  3%, A  2%, V  1%, I  1%, G  1%, M <1%, P <1%, Y <1%, H <1%, N <1%",128,,alignment_position,,LEU128A,A,128,,missing,unmapped,
+A,129,,F,PHE,-0.637,9,b,s,130/150,"F 97%, Y  1%, L <1%",129,,alignment_position,,PHE129A,A,129,,missing,unmapped,
+A,130,,K,LYS,0.107,5,e,,130/150,"K 39%, R 23%, H  6%, Q  6%, A  3%, V  3%, I  3%, L  2%, M  1%, T  1%, S  1%, N  1%, C  1%, F <1%, Y <1%, D <1%, E <1%",130,,alignment_position,,LYS130A,A,130,,missing,unmapped,
+A,131,,K,LYS,0.293,5,e,,132/150,"K 30%, R 18%, E 16%, S  8%, A  6%, Q  3%, G  3%, D  3%, Y  2%, H  1%, T  1%, I  1%, L <1%, M <1%, N <1%",131,,alignment_position,,LYS131A,A,131,,missing,unmapped,
+A,132,,C,CYS,-0.091,6,b,,133/150,"C 56%, L 13%, I 10%, V  9%, F  2%, S  2%, A  2%, Y  1%, M <1%, E <1%, T <1%",132,,alignment_position,,CYS132A,A,132,,missing,unmapped,
+A,133,,V,VAL,-0.273,7,b,,133/150,"V 48%, I 30%, L  5%, T  4%, A  3%, F  1%, M  1%, N  1%, C  1%, S <1%, G <1%, K <1%",133,,alignment_position,,VAL133A,A,133,,missing,unmapped,
+A,134,,Q,GLN,0.181,5,e,,133/150,"Q 25%, G 20%, S 15%, R  6%, T  5%, A  4%, K  4%, D  4%, E  3%, N  3%, H  2%, M  1%, P  1%, C <1%, V <1%, F <1%",134,,alignment_position,,GLN134A,A,134,,missing,unmapped,
+A,135,,S,SER,0.1,5,e,,133/150,"S 30%, P 12%, E 11%, G 10%, D  9%, N  7%, A  3%, Q  3%, K  3%, T  2%, R  1%, V <1%, L <1%, H <1%, Y <1%",135,,alignment_position,,SER135A,A,135,,missing,unmapped,
+A,136,,N,ASN,-0.319,7,e,,133/150,"N 62%, S 10%, G  4%, C  3%, D  3%, E  3%, F  3%, A  2%, I  1%, T  1%, K  1%, H <1%",136,,alignment_position,,ASN136A,A,136,,missing,unmapped,
+A,137,,I,ILE,-0.239,7,b,,129/150,"I 63%, L 10%, V  5%, T  3%, M  2%, S  2%, R  2%, P  2%, G  1%, A  1%, D  1%, C <1%, E <1%, N <1%, F <1%",137,,alignment_position,,ILE137A,A,137,,missing,unmapped,
+A,138,,V,VAL,0.043,5,b,,134/150,"V 44%, M  7%, G  7%, S  5%, I  5%, L  4%, T  4%, D  4%, N  3%, E  2%, A  2%, P  2%, H  2%, Q  1%",138,,alignment_position,,VAL138A,A,138,,missing,unmapped,
+A,139,,L,LEU,-0.351,7,b,,135/150,"L 75%, I 11%, F  6%, V  3%, M  2%",139,,alignment_position,,LEU139A,A,139,,missing,unmapped,
+A,140,,L,LEU,-0.41,8,b,,135/150,"L 45%, I 37%, V 13%, F  2%, M <1%, Y <1%",140,,alignment_position,,LEU140A,A,140,,missing,unmapped,
+A,141,,T,THR,-0.079,6,e,,135/150,"T 37%, S 19%, E 10%, A  5%, I  5%, L  3%, V  2%, N  2%, Q  2%, K  2%, G  2%, D  1%, R  1%, H <1%, C <1%",141,,alignment_position,,THR141A,A,141,,missing,unmapped,
+A,142,,Q,GLN,-0.327,7,e,,135/150,"Q 38%, K 27%, R 27%, N  3%, D  1%, L <1%, E <1%",142,,alignment_position,,GLN142A,A,142,,missing,unmapped,
+A,143,,A,ALA,-0.46,8,b,,135/150,"A 82%, T  5%, I  4%, S  2%, V  2%, L <1%, C <1%, Y <1%",143,,alignment_position,,ALA143A,A,143,,missing,unmapped,
+A,144,,F,PHE,-0.155,6,b,,135/150,"F 51%, L 34%, V  4%, M  2%, A  2%, I  1%, G <1%, S <1%, N <1%",144,,alignment_position,,PHE144A,A,144,,missing,unmapped,
+A,145,,R,ARG,-0.263,7,e,,135/150,"R 57%, Q 12%, K  9%, T  7%, S  5%, A  2%, C  1%, E  1%, N  1%, Y <1%",145,,alignment_position,,ARG145A,A,145,,missing,unmapped,
+A,146,,R,ARG,-0.212,6,e,,136/150,"K 34%, G 23%, N 16%, R 10%, H  7%, S  2%, D  2%, T <1%, E <1%, Q <1%",146,,alignment_position,,ARG146A,A,146,,missing,unmapped,
+A,147,,K,LYS,0.274,5,e,,136/150,"K 36%, Q 16%, D 13%, R 10%, E  6%, N  5%, A  2%, S  2%, H  2%, M  1%, G  1%, L <1%",147,,alignment_position,,LYS147A,A,147,,missing,unmapped,
+A,148,,F,PHE,-0.424,8,b,,136/150,"F 58%, L 37%, M  3%, D <1%",148,,alignment_position,,PHE148A,A,148,,missing,unmapped,
+A,149,,V,VAL,-0.268,7,b,,138/150,"V 49%, I 35%, A  8%, T  2%, S  1%, E  1%, P <1%",149,,alignment_position,,VAL149A,A,149,,missing,unmapped,
+A,150,,I,ILE,-0.528,9,b,s,139/150,"I 84%, V 11%, L  2%, S <1%, T <1%",150,,alignment_position,,ILE150A,A,150,,missing,unmapped,
+A,151,,P,PRO,-0.555,9,e,f,142/150,"P 92%, A  1%, T  1%, K  1%, S  1%, G <1%, R <1%",151,,alignment_position,,PRO151A,A,151,,missing,unmapped,
+A,152,,D,ASP,-0.234,7,e,,140/150,"D 57%, E 16%, N 10%, S  5%, Q  2%, C  1%, T  1%, A  1%, R  1%, H <1%, L <1%, P <1%",152,,alignment_position,,ASP152A,A,152,,missing,unmapped,
+A,153,,F,PHE,-0.365,7,b,,141/150,"F 77%, W 16%, P  1%, Y <1%, S <1%, A <1%, L <1%, H <1%, N <1%, I <1%",153,,alignment_position,PHE153A,PHE153A,A,153,,mapped,sequence_alignment,1.0
+A,154,,M,MET,0.689,4,e,,141/150,"E 21%, Q 20%, S  9%, D  6%, G  6%, P  5%, K  5%, A  4%, R  4%, M  2%, V  2%, T  2%, H  2%, N  2%, L  1%, Y <1%",154,,alignment_position,MET154A,MET154A,A,154,,mapped,sequence_alignment,1.0
+A,155,,S,SER,0.669,4,e,,141/150,"S 17%, E 17%, D 12%, T 12%, A  9%, P  7%, Q  7%, G  6%, V  2%, N  2%, K  2%, I  1%, H  1%, R <1%",155,,alignment_position,SER155A,SER155A,A,155,,mapped,sequence_alignment,1.0
+A,156,,F,PHE,-0.522,9,b,s,140/150,"F 91%, L  6%, S <1%, I <1%, V <1%",156,,alignment_position,PHE156A,PHE156A,A,156,,mapped,sequence_alignment,1.0
+A,157,,T,THR,0.091,5,e,,142/150,"T 39%, C 19%, A  9%, S  9%, V  9%, R  3%, I  2%, K  2%, G  1%, L <1%, Q <1%",157,,alignment_position,THR157A,THR157A,A,157,,mapped,sequence_alignment,1.0
+A,158,,S,SER,0.527,5,e,,146/150,"S 21%, Q 14%, K 13%, A 12%, E  8%, D  6%, G  5%, T  4%, R  3%, N  3%, H  2%, L  2%, F <1%, C <1%",158,,alignment_position,SER158A,SER158A,A,158,,mapped,sequence_alignment,1.0
+A,159,,H,HIS,0.204,5,e,,147/150,"H 24%, E 15%, D 10%, Q  8%, K  8%, Y  7%, R  6%, N  4%, V  3%, I  2%, L  2%, S  2%, A  1%, T <1%, F <1%, P <1%",159,,alignment_position,HIS159A,HIS159A,A,159,,mapped,sequence_alignment,1.0
+A,160,,I,ILE,-0.339,7,b,,148/150,"I 60%, L 18%, V 12%, T  4%, M  2%, F <1%, A <1%, N <1%, Y <1%",160,,alignment_position,ILE160A,ILE160A,A,160,,mapped,sequence_alignment,1.0
+A,161,,D,ASP,0.171,5,e,,148/150,"D 29%, E 19%, N 16%, Q  7%, R  6%, K  4%, T  4%, S  3%, A  3%, I  2%, H  1%, G <1%, Y <1%",161,,alignment_position,ASP161A,ASP161A,A,161,,mapped,sequence_alignment,1.0
+A,162,,E,GLU,0.374,5,e,,148/150,"E 32%, R 14%, Q 12%, K 11%, D 11%, A  4%, T  4%, H  2%, G  2%, S  1%, N  1%, L <1%, P <1%",162,,alignment_position,GLU162A,GLU162A,A,162,,mapped,sequence_alignment,1.0
+A,163,,L,LEU,-0.29,7,b,,149/150,"I 44%, L 36%, M  8%, F  4%, V  3%, T <1%, H <1%, A <1%",163,,alignment_position,LEU163A,LEU163A,A,163,,mapped,sequence_alignment,1.0
+A,164,,Y,TYR,-0.157,6,b,,149/150,"Y 60%, F 27%, H  4%, R  2%, L  2%, V  1%, T <1%, M <1%",164,,alignment_position,TYR164A,TYR164A,A,164,,mapped,sequence_alignment,1.0
+A,165,,E,GLU,0.396,5,e,,148/150,"E 39%, D 12%, N  8%, W  8%, H  4%, K  4%, R  4%, Y  3%, A  3%, S  2%, Q  2%, L  2%, G  1%, V  1%, I <1%, M <1%, T <1%",165,,alignment_position,GLU165A,GLU165A,A,165,,mapped,sequence_alignment,1.0
+A,166,,S,SER,0.558,5,e,,148/150,"E 16%, S 15%, K 15%, R 12%, N 10%, T  7%, D  6%, Q  6%, H  3%, L  2%, I  1%, A  1%, C <1%, Y <1%, V <1%",166,,alignment_position,SER166A,SER166A,A,166,,mapped,sequence_alignment,1.0
+A,167,,A,ALA,0.065,5,b,,148/150,"A 33%, C 24%, V 16%, T  7%, L  7%, F  2%, G  2%, I  2%, H  2%, S  1%, Y <1%",167,,alignment_position,ALA167A,ALA167A,A,167,,mapped,sequence_alignment,1.0
+A,168,,K,LYS,0.27,5,e,,148/150,"K 40%, Q 16%, R 14%, A  6%, E  5%, S  4%, L  3%, N  2%, I  2%, G  1%, T <1%, H <1%, Y <1%, C <1%, M <1%, V <1%",168,,alignment_position,LYS168A,LYS168A,A,168,,mapped,sequence_alignment,1.0
+A,169,,K,LYS,1.202,4,e,,147/150,"K 12%, Q 11%, S 11%, D 10%, R  6%, N  6%, A  6%, E  6%, T  6%, P  5%, G  4%, H  2%, V  2%, L  2%, M  1%, I <1%",169,,alignment_position,LYS169A,LYS169A,A,169,,mapped,sequence_alignment,1.0
+A,170,,Q,GLN,-0.103,6,e,,146/150,"N 28%, L 19%, Q 18%, I  8%, V  4%, E  3%, D  2%, T  2%, M  2%, C  2%, K  1%, Y  1%, A  1%, H <1%, F <1%, S <1%, R <1%",170,,alignment_position,GLN170A,GLN170A,A,170,,mapped,sequence_alignment,1.0
+A,171,,S,SER,0.59,4,e,,146/150,"T 21%, S 17%, E 12%, K  9%, R  9%, N  6%, D  6%, H  4%, Q  4%, G  2%, C  1%, F  1%, P  1%, I <1%, V <1%, L <1%",171,,alignment_position,SER171A,SER171A,A,171,,mapped,sequence_alignment,1.0
+A,172,,G,GLY,0.317,5,e,,146/150,"G 27%, D 24%, E 16%, S 13%, N  5%, A  2%, K  2%, R  1%, P  1%, Q  1%, T <1%, M <1%, L <1%, H <1%",172,,alignment_position,GLY172A,GLY172A,A,172,,mapped,sequence_alignment,1.0
+A,173,,G,GLY,-0.601,9,e,f,146/150,"G 95%, V  2%, F  1%, A <1%, D <1%",173,,alignment_position,GLY173A,GLY173A,A,173,,mapped,sequence_alignment,1.0
+A,174,,K,LYS,0.318,5,e,,142/150,"K 30%, Q 22%, E 14%, A  8%, H  5%, R  5%, N  4%, D  2%, S  2%, T  1%, L <1%, Y <1%",174,,alignment_position,LYS174A,LYS174A,A,174,,mapped,sequence_alignment,1.0
+A,175,,V,VAL,-0.39,8,b,,143/150,"V 75%, L  6%, I  4%, P  4%, N  4%, A  1%, T <1%, C <1%, M <1%",175,,alignment_position,VAL175A,VAL175A,A,175,,mapped,sequence_alignment,1.0
+A,176,,A,ALA,-0.632,9,b,s,143/150,"A 95%, P  2%, K <1%, T <1%, C <1%",176,,alignment_position,ALA176A,ALA176A,A,176,,mapped,sequence_alignment,1.0
+A,177,,D,ASP,0.024,5,e,,143/150,"D 45%, T 18%, S 16%, N  9%, A  3%, H  1%, V <1%, Q <1%, C <1%, R <1%, G <1%, Y <1%, K <1%",177,,alignment_position,ASP177A,ASP177A,A,177,,mapped,sequence_alignment,1.0
+A,178,,Y,TYR,-0.625,9,e,f,143/150,"Y 97%, F  1%, I <1%",178,,alignment_position,TYR178A,TYR178A,A,178,,mapped,sequence_alignment,1.0
+A,179,,I,ILE,-0.633,9,b,s,147/150,"I 95%, L  1%, E  1%, D  1%, Y <1%",179,,alignment_position,ILE179A,ILE179A,A,179,,mapped,sequence_alignment,1.0
+A,180,,P,PRO,-0.575,9,e,f,148/150,"P 94%, S  1%, C <1%, R <1%, L <1%, K <1%, Q <1%, T <1%",180,,alignment_position,PRO180A,PRO180A,A,180,,mapped,sequence_alignment,1.0
+A,181,,Q,GLN,-0.459,8,e,f,148/150,"Q 75%, E 12%, H  3%, I  2%, T  1%, L <1%, K <1%, V <1%, N <1%, G <1%, P <1%, S <1%",181,,alignment_position,GLN181A,GLN181A,A,181,,mapped,sequence_alignment,1.0
+A,182,,L,LEU,-0.525,9,b,s,149/150,"L 93%, M  1%, T  1%, F <1%, I <1%, D <1%, C <1%, P <1%, R <1%",182,,alignment_position,LEU182A,LEU182A,A,182,,mapped,sequence_alignment,1.0
+A,183,,A,ALA,-0.379,8,e,f,149/150,"A 72%, S  8%, G  5%, K  4%, E  4%, R  2%, D  1%, Q <1%, V <1%",183,,alignment_position,ALA183A,ALA183A,A,183,,mapped,sequence_alignment,1.0
+A,184,,K,LYS,-0.288,7,e,,149/150,"R 43%, K 39%, N  6%, D  2%, E  2%, S  2%, L  1%, Y <1%, M <1%, T <1%, H <1%",184,,alignment_position,LYS184A,LYS184A,A,184,,mapped,sequence_alignment,1.0
+A,185,,F,PHE,-0.272,7,e,,149/150,"F 36%, V 28%, A 12%, Q  7%, Y  6%, M  2%, S  2%, E  2%, L  1%, K <1%, I <1%",185,,alignment_position,PHE185A,PHE185A,A,185,,mapped,sequence_alignment,1.0
+A,186,,S,SER,-0.202,6,e,,150/150,"S 35%, D 31%, N 22%, P  2%, R  1%, H  1%, E  1%, C <1%, K <1%, G <1%, A <1%, V <1%, Q <1%",186,,alignment_position,SER186A,SER186A,A,186,,mapped,sequence_alignment,1.0
+A,187,,P,PRO,-0.428,8,e,f,150/150,"P 84%, S  6%, A  4%, H  1%, K <1%, E <1%, G <1%, D <1%, R <1%, Q <1%",187,,alignment_position,PRO187A,PRO187A,A,187,,mapped,sequence_alignment,1.0
+A,188,,D,ASP,0.147,5,e,,150/150,"D 49%, E 18%, N 10%, K  4%, S  4%, R  2%, G  2%, A  2%, T  2%, H  1%, Q  1%, W <1%, M <1%",188,,alignment_position,ASP188A,ASP188A,A,188,,mapped,sequence_alignment,1.0
+A,189,,L,LEU,0.583,4,e,,150/150,"L 42%, K 15%, Y 10%, H  4%, Q  4%, S  3%, A  3%, R  2%, D  2%, M  2%, I  2%, F  1%, W  1%, G  1%, N <1%, T <1%, E <1%",189,,alignment_position,LEU189A,LEU189A,A,189,,mapped,sequence_alignment,1.0
+A,190,,W,TRP,-0.383,8,b,,150/150,"W 69%, F 24%, L  3%, Y  2%, M <1%",190,,alignment_position,TRP190A,TRP190A,A,190,,mapped,sequence_alignment,1.0
+A,191,,G,GLY,-0.373,8,b,,150/150,"G 73%, A 24%, S  2%",191,,alignment_position,GLY191A,GLY191A,A,191,,mapped,sequence_alignment,1.0
+A,192,,V,VAL,-0.346,7,b,,150/150,"V 64%, I 16%, L 12%, M  4%, A  2%, F <1%, G <1%, S <1%",192,,alignment_position,VAL192A,VAL192A,A,192,,mapped,sequence_alignment,1.0
+A,193,,S,SER,-0.47,8,b,,150/150,"S 70%, A 24%, T  1%, G  1%, C  1%, V <1%, Y <1%",193,,alignment_position,SER193A,SER193A,A,193,,mapped,sequence_alignment,1.0
+A,194,,V,VAL,-0.269,7,b,,150/150,"L 44%, I 27%, V 23%, M  2%, F  1%, G <1%, H <1%",194,,alignment_position,VAL194A,VAL194A,A,194,,mapped,sequence_alignment,1.0
+A,195,,C,CYS,-0.502,8,b,,150/150,"C 91%, V  2%, T  2%, A  2%, I <1%, S <1%",195,,alignment_position,CYS195A,CYS195A,A,195,,mapped,sequence_alignment,1.0
+A,196,,T,THR,-0.564,9,b,s,150/150,"T 88%, S 10%, V <1%, M <1%",196,,alignment_position,THR196A,THR196A,A,196,,mapped,sequence_alignment,1.0
+A,197,,A,ALA,-0.442,8,b,,150/150,"V 68%, I 22%, A  3%, M  2%, S  1%, T <1%, R <1%, L <1%",197,,alignment_position,ALA197A,ALA197A,A,197,,mapped,sequence_alignment,1.0
+A,198,,D,ASP,-0.635,9,e,f,150/150,"D 97%, Y <1%, S <1%, H <1%, E <1%",198,,alignment_position,ASP198A,ASP198A,A,198,,mapped,sequence_alignment,1.0
+A,199,,G,GLY,-0.63,9,e,f,150/150,"G 98%, S  1%, A <1%",199,,alignment_position,GLY199A,GLY199A,A,199,,mapped,sequence_alignment,1.0
+A,200,,Q,GLN,-0.56,9,e,f,150/150,"Q 90%, R  3%, H  2%, F  1%, S <1%, M <1%, A <1%, K <1%",200,,alignment_position,GLN200A,GLN200A,A,200,,mapped,sequence_alignment,1.0
+A,201,,R,ARG,-0.456,8,e,f,150/150,"R 81%, V  5%, Q  3%, C  2%, I  2%, M  1%, K  1%, S <1%, G <1%, T <1%, L <1%",201,,alignment_position,ARG201A,ARG201A,A,201,,mapped,sequence_alignment,1.0
+A,202,,H,HIS,-0.072,5,b,,149/150,"H 32%, F 24%, Y 23%, L  5%, A  3%, I  3%, V  2%, M  2%, R <1%, K <1%, C <1%, W <1%",202,,alignment_position,HIS202A,HIS202A,A,202,,mapped,sequence_alignment,1.0
+A,203,,S,SER,-0.402,8,e,f,149/150,"S 64%, T 10%, A  8%, E  4%, N  3%, Q  2%, H  1%, C  1%, G  1%, D <1%, R <1%",203,,alignment_position,SER203A,SER203A,A,203,,mapped,sequence_alignment,1.0
+A,204,,T,THR,-0.023,5,e,,149/150,"V 32%, I 25%, L 15%, A  6%, F  5%, S  4%, T  3%, W  3%, M  1%, Y  1%, H <1%, K <1%",204,,alignment_position,THR204A,THR204A,A,204,,mapped,sequence_alignment,1.0
+A,205,,G,GLY,-0.655,9,e,f,149/150,"G 99%, M <1%",205,,alignment_position,GLY205A,GLY205A,A,205,,mapped,sequence_alignment,1.0
+A,206,,D,ASP,-0.565,9,e,f,149/150,"D 90%, N  2%, H  1%, E  1%, T  1%, S  1%, V <1%, R <1%, A <1%",206,,alignment_position,ASP206A,ASP206A,A,206,,mapped,sequence_alignment,1.0
+A,207,,T,THR,-0.134,6,e,,149/150,"T 44%, A 15%, S 12%, V 10%, C  2%, D  2%, F  2%, Y  2%, W  2%, I  2%, H <1%, E <1%",207,,alignment_position,THR207A,THR207A,A,207,,mapped,sequence_alignment,1.0
+A,208,,K,LYS,0.14,5,e,,149/150,"K 45%, D 13%, N  6%, E  6%, A  6%, R  4%, S  3%, T  3%, H  2%, Q  2%, G  2%, L  2%, F <1%",208,,alignment_position,LYS208A,LYS208A,A,208,,mapped,sequence_alignment,1.0
+A,209,,V,VAL,0.2,5,e,,149/150,"V 46%, I 12%, D  8%, T  6%, Q  6%, A  4%, E  4%, K  4%, S  2%, H  1%, R  1%, G  1%, L <1%, M <1%",209,,alignment_position,VAL209A,VAL209A,A,209,,mapped,sequence_alignment,1.0
+A,210,,P,PRO,0.04,5,e,,149/150,"P 68%, N  5%, E  4%, H  3%, Y  3%, S  2%, A  2%, D  2%, R  2%, T  1%, K  1%, L  1%, G <1%",210,,alignment_position,PRO210A,PRO210A,A,210,,mapped,sequence_alignment,1.0
+A,211,,F,PHE,-0.446,8,b,,149/150,"F 88%, Y  2%, H  2%, V  2%, L  1%, C  1%, I <1%, Q <1%, R <1%",211,,alignment_position,PHE211A,PHE211A,A,211,,mapped,sequence_alignment,1.0
+A,212,,C,CYS,-0.453,8,b,,149/150,"C 65%, T 22%, S  8%, V  2%, L  1%, G <1%",212,,alignment_position,CYS212A,CYS212A,A,212,,mapped,sequence_alignment,1.0
+A,213,,L,LEU,-0.297,7,b,,149/150,"L 55%, I 23%, V 13%, M  4%, A  2%, F <1%, P <1%",213,,alignment_position,LEU213A,LEU213A,A,213,,mapped,sequence_alignment,1.0
+A,214,,Q,GLN,-0.634,9,e,f,149/150,"Q 95%, G  2%, H <1%, A <1%, E <1%",214,,alignment_position,GLN214A,GLN214A,A,214,,mapped,sequence_alignment,1.0
+A,215,,S,SER,-0.656,9,e,f,149/150,"S 95%, E  3%, Q <1%",215,,alignment_position,SER215A,SER215A,A,215,,mapped,sequence_alignment,1.0
+A,216,,C,CYS,-0.223,7,b,,149/150,"C 50%, V 22%, I  9%, T  8%, S  4%, M  2%, L  2%, P <1%",216,,alignment_position,CYS216A,CYS216A,A,216,,mapped,sequence_alignment,1.0
+A,217,,V,VAL,-0.528,9,e,f,149/150,"S 48%, V 35%, C  6%, G  2%, I  2%, A  2%, M  1%, T  1%",217,,alignment_position,VAL217A,VAL217A,A,217,,mapped,sequence_alignment,1.0
+A,218,,K,LYS,-0.637,9,e,f,149/150,"K 95%, W  3%, N <1%, S <1%",218,,alignment_position,LYS218A,LYS218A,A,218,,mapped,sequence_alignment,1.0
+A,219,,P,PRO,-0.461,8,e,f,150/150,"P 78%, A 13%, T  4%, V  2%, C  1%, S <1%",219,,alignment_position,PRO219A,PRO219A,A,219,,mapped,sequence_alignment,1.0
+A,220,,L,LEU,-0.453,8,b,,150/150,"L 52%, F 22%, I 17%, V  4%, M  2%, P  1%, Y <1%",220,,alignment_position,LEU220A,LEU220A,A,220,,mapped,sequence_alignment,1.0
+A,221,,K,LYS,-0.263,7,e,,150/150,"T 20%, N 18%, K 17%, E 12%, S  7%, V  6%, I  3%, L  3%, Q  2%, M  2%, A  2%, G  2%, H  1%",221,,alignment_position,LYS221A,LYS221A,A,221,,mapped,sequence_alignment,1.0
+A,222,,Y,TYR,-0.641,9,b,s,150/150,"Y 98%, F  1%",222,,alignment_position,TYR222A,TYR222A,A,222,,mapped,sequence_alignment,1.0
+A,223,,A,ALA,-0.428,8,b,,150/150,"A 67%, C 14%, G  8%, S  6%, V  1%, P  1%, L  1%",223,,alignment_position,ALA223A,ALA223A,A,223,,mapped,sequence_alignment,1.0
+A,224,,I,ILE,-0.109,6,b,,150/150,"I 46%, L 24%, V 14%, M  8%, A  2%, Y  1%, F  1%, E <1%, Q <1%",224,,alignment_position,ILE224A,ILE224A,A,224,,mapped,sequence_alignment,1.0
+A,225,,A,ALA,-0.53,9,b,s,150/150,"A 82%, V 12%, S  2%, T  1%, I <1%, N <1%, G <1%, L <1%",225,,alignment_position,ALA225A,ALA225A,A,225,,mapped,sequence_alignment,1.0
+A,226,,V,VAL,-0.352,7,b,,150/150,"V 38%, L 38%, A  8%, I  4%, C  4%, S  1%, H  1%, Q <1%, M <1%, R <1%, T <1%",226,,alignment_position,VAL226A,VAL226A,A,226,,mapped,sequence_alignment,1.0
+A,227,,N,ASN,-0.316,7,e,,150/150,"E 24%, H 23%, N 15%, S 14%, D  8%, T  4%, A  4%, G  1%, K  1%, Q  1%, R <1%",227,,alignment_position,ASN227A,ASN227A,A,227,,mapped,sequence_alignment,1.0
+A,228,,D,ASP,-0.169,6,e,,150/150,"E 46%, D 31%, L  6%, Q  4%, K  4%, R  3%, A  2%, T  1%, S <1%",228,,alignment_position,ASP228A,ASP228A,A,228,,mapped,sequence_alignment,1.0
+A,229,,L,LEU,0.045,5,e,,150/150,"L 45%, H 17%, A  6%, Y  4%, F  4%, N  4%, I  4%, R  3%, V  2%, K  2%, Q  2%, E  2%, S  1%, D  1%, T <1%, C <1%",229,,alignment_position,LEU229A,LEU229A,A,229,,mapped,sequence_alignment,1.0
+A,230,,G,GLY,-0.49,8,e,f,150/150,"G 89%, S  4%, T  2%, A  1%, N  1%, D <1%",230,,alignment_position,GLY230A,GLY230A,A,230,,mapped,sequence_alignment,1.0
+A,231,,T,THR,0.042,5,e,,150/150,"T 30%, A 16%, S 11%, E  9%, P  8%, V  6%, L  5%, M  2%, Q  2%, G  2%, I  1%, R  1%, N <1%, D <1%, Y <1%, K <1%, H <1%, F <1%",231,,alignment_position,THR231A,THR231A,A,231,,mapped,sequence_alignment,1.0
+A,232,,E,GLU,-0.131,6,e,,150/150,"E 52%, D 35%, Q  2%, A  2%, K  2%, N  2%, H <1%, L <1%, Y <1%, P <1%",232,,alignment_position,GLU232A,GLU232A,A,232,,mapped,sequence_alignment,1.0
+A,233,,Y,TYR,0.852,4,e,,150/150,"Y 26%, H 12%, V 12%, K  8%, E  6%, F  5%, R  5%, T  5%, L  4%, I  4%, A  3%, N  2%, M  1%, S  1%, G <1%, P <1%",233,,alignment_position,TYR233A,TYR233A,A,233,,mapped,sequence_alignment,1.0
+A,234,,V,VAL,-0.548,9,b,s,150/150,"V 88%, L  4%, I  3%, T  3%, M <1%",234,,alignment_position,VAL234A,VAL234A,A,234,,mapped,sequence_alignment,1.0
+A,235,,H,HIS,-0.587,9,e,f,150/150,"H 89%, L  4%, S  2%, Q <1%, N <1%, R <1%, T <1%, A <1%, D <1%",235,,alignment_position,HIS235A,HIS235A,A,235,,mapped,sequence_alignment,1.0
+A,236,,R,ARG,0.144,5,e,,150/150,"R 28%, Q 22%, K 16%, S 14%, H  4%, A  3%, E  3%, N  2%, T  2%, F  1%, Y <1%, D <1%",236,,alignment_position,ARG236A,ARG236A,A,236,,mapped,sequence_alignment,1.0
+A,237,,Y,TYR,-0.289,7,b,,150/150,"Y 51%, F 26%, H 12%, R  4%, W  2%, K  2%, V <1%, S <1%",237,,alignment_position,TYR237A,TYR237A,A,237,,mapped,sequence_alignment,1.0
+A,238,,V,VAL,-0.481,8,b,,150/150,"V 72%, I 24%, M  3%, Q <1%",238,,alignment_position,VAL238A,VAL238A,A,238,,mapped,sequence_alignment,1.0
+A,239,,G,GLY,-0.643,9,e,f,150/150,"G 98%, S <1%, D <1%",239,,alignment_position,GLY239A,GLY239A,A,239,,mapped,sequence_alignment,1.0
+A,240,,K,LYS,-0.293,7,e,,150/150,"K 33%, Q 18%, R 14%, V  9%, H  8%, M  6%, T  2%, A  2%, F  2%, C  1%, L <1%, I <1%, Y <1%",240,,alignment_position,LYS240A,LYS240A,A,240,,mapped,sequence_alignment,1.0
+A,241,,E,GLU,-0.668,9,e,f,150/150,E,241,,alignment_position,GLU241A,GLU241A,A,241,,mapped,sequence_alignment,1.0
+A,242,,P,PRO,-0.609,9,e,f,150/150,"P 94%, E  2%, A  1%, Q  1%, D <1%",242,,alignment_position,PRO242A,PRO242A,A,242,,mapped,sequence_alignment,1.0
+A,243,,S,SER,-0.632,9,e,f,150/150,"S 94%, Y  2%, T  2%, F  1%, N <1%",243,,alignment_position,SER243A,SER243A,A,243,,mapped,sequence_alignment,1.0
+A,244,,G,GLY,-0.631,9,e,f,150/150,"G 96%, S  2%, A  1%",244,,alignment_position,GLY244A,GLY244A,A,244,,mapped,sequence_alignment,1.0
+A,245,,L,LEU,-0.232,7,e,,150/150,"R 34%, L 29%, F  6%, K  6%, Q  5%, E  4%, D  4%, V  2%, N  1%, H  1%, S  1%, G  1%, C <1%, I <1%, T <1%",245,,alignment_position,LEU245A,LEU245A,A,245,,mapped,sequence_alignment,1.0
+A,246,,R,ARG,-0.191,6,e,,150/150,"R 22%, K 16%, L 10%, S 10%, A  8%, N  6%, P  5%, G  4%, T  4%, M  4%, Y  3%, F  2%, E  1%, H <1%, Q <1%, V <1%",246,,alignment_position,ARG246A,ARG246A,A,246,,mapped,sequence_alignment,1.0
+A,247,,F,PHE,-0.583,9,b,s,150/150,"F 94%, Y  2%, D  2%, H <1%, E <1%, Q <1%",247,,alignment_position,PHE247A,PHE247A,A,247,,mapped,sequence_alignment,1.0
+A,248,,N,ASN,-0.642,9,e,f,150/150,"N 94%, S  3%, D  2%",248,,alignment_position,ASN248A,ASN248A,A,248,,mapped,sequence_alignment,1.0
+A,249,,K,LYS,-0.293,7,e,,150/150,"E 38%, K 30%, A  8%, M  5%, S  5%, D  5%, P  2%, Y  1%, V <1%, T <1%, Q <1%, H <1%, N <1%",249,,alignment_position,LYS249A,LYS249A,A,249,,mapped,sequence_alignment,1.0
+A,250,,L,LEU,-0.482,8,b,,150/150,"L 66%, I 26%, F  4%, V  2%, A <1%",250,,alignment_position,LEU250A,LEU250A,A,250,,mapped,sequence_alignment,1.0
+A,251,,F,PHE,-0.253,7,b,,150/150,"S 31%, F 16%, C 16%, T 13%, V  9%, A  4%, E  2%, I  1%, Y  1%, H  1%, G <1%, M <1%, D <1%, L <1%, R <1%",251,,alignment_position,PHE251A,PHE251A,A,251,,mapped,sequence_alignment,1.0
+A,252,,L,LEU,-0.618,9,b,s,150/150,"L 97%, V  1%, F  1%",252,,alignment_position,LEU252A,LEU252A,A,252,,mapped,sequence_alignment,1.0
+A,253,,N,ASN,-0.399,8,e,f,150/150,"D 45%, N 40%, L  4%, E  3%, S  2%, K  2%, T  2%, R <1%",253,,alignment_position,ASN253A,ASN253A,A,253,,mapped,sequence_alignment,1.0
+A,254,,E,GLU,0.472,5,e,,149/150,"E 27%, D 10%, H  8%, S  7%, K  6%, Y  6%, A  5%, R  5%, P  4%, G  4%, N  4%, T  2%, Q  2%, F  1%, L  1%, C <1%, M <1%",254,,alignment_position,GLU254A,GLU254A,A,254,,mapped,sequence_alignment,1.0
+A,255,,D,ASP,0.097,5,e,,150/150,"E 28%, D 18%, N 18%, T  8%, K  8%, Q  6%, A  2%, S  2%, H  2%, L  1%, G <1%, M <1%, R <1%, F <1%, I <1%, Y <1%",255,,alignment_position,ASP255A,ASP255A,A,255,,mapped,sequence_alignment,1.0
+A,256,,D,ASP,-0.117,6,e,,150/150,"D 31%, G 31%, N 13%, K  8%, R  4%, E  2%, H  2%, M  2%, Q  1%, L <1%, P <1%, S <1%, T <1%",256,,alignment_position,ASP256A,ASP256A,A,256,,mapped,sequence_alignment,1.0
+A,257,,K,LYS,-0.31,7,e,,150/150,"K 59%, R 15%, L 10%, I  6%, Q  2%, E  2%, T  2%, V  1%, M <1%, A <1%",257,,alignment_position,LYS257A,LYS257A,A,257,,mapped,sequence_alignment,1.0
+A,258,,P,PRO,-0.657,9,e,f,148/150,"P 99%, A <1%",258,,alignment_position,PRO258A,PRO258A,A,258,,mapped,sequence_alignment,1.0
+A,259,,H,HIS,-0.585,9,e,f,148/150,"H 88%, F  4%, L  2%, R  1%, A  1%, P <1%, K <1%, E <1%",259,,alignment_position,HIS259A,HIS259A,A,259,,mapped,sequence_alignment,1.0
+A,260,,N,ASN,-0.655,9,e,f,148/150,"N 96%, S  2%, T <1%",260,,alignment_position,ASN260A,ASN260A,A,260,,mapped,sequence_alignment,1.0
+A,261,,P,PRO,-0.657,9,e,f,148/150,"P 98%, A  1%",261,,alignment_position,PRO261A,PRO261A,A,261,,mapped,sequence_alignment,1.0
+A,262,,M,MET,-0.555,9,e,f,148/150,"M 85%, L 10%, C  2%, F <1%, S <1%, I <1%",262,,alignment_position,MET262A,MET262A,A,262,,mapped,sequence_alignment,1.0
+A,263,,V,VAL,-0.504,8,b,,149/150,"V 50%, I 43%, L  2%, T  2%, Q <1%, N <1%",263,,alignment_position,VAL263A,VAL263A,A,263,,mapped,sequence_alignment,1.0
+A,264,,N,ASN,-0.627,9,b,s,149/150,"N 93%, S  2%, E  2%, V <1%",264,,alignment_position,ASN264A,ASN264A,A,264,,mapped,sequence_alignment,1.0
+A,265,,A,ALA,-0.485,8,b,,149/150,"A 73%, S 20%, T  4%, P <1%, V <1%, I <1%",265,,alignment_position,ALA265A,ALA265A,A,265,,mapped,sequence_alignment,1.0
+A,266,,G,GLY,-0.642,9,b,s,149/150,"G 98%, M <1%, L <1%",266,,alignment_position,GLY266A,GLY266A,A,266,,mapped,sequence_alignment,1.0
+A,267,,A,ALA,-0.619,9,b,s,149/150,"A 95%, G  2%, S  1%, F <1%, N <1%",267,,alignment_position,ALA267A,ALA267A,A,267,,mapped,sequence_alignment,1.0
+A,268,,I,ILE,-0.577,9,b,s,149/150,"I 90%, L  4%, V  2%, M  2%, F <1%",268,,alignment_position,ILE268A,ILE268A,A,268,,mapped,sequence_alignment,1.0
+A,269,,V,VAL,-0.388,8,b,,149/150,"V 45%, M 22%, L 12%, I 10%, A  5%, T  2%, G  1%",269,,alignment_position,VAL269A,VAL269A,A,269,,mapped,sequence_alignment,1.0
+A,270,,V,VAL,-0.173,6,b,,149/150,"I 25%, V 23%, T 19%, C 13%, S  8%, A  4%, L  2%, N  1%, M  1%",270,,alignment_position,VAL270A,VAL270A,A,270,,mapped,sequence_alignment,1.0
+A,271,,T,THR,-0.268,7,b,,148/150,"S 29%, T 25%, C 24%, A 13%, G  2%, L  1%, H  1%, N <1%, M <1%, V <1%",271,,alignment_position,THR271A,THR271A,A,271,,mapped,sequence_alignment,1.0
+A,272,,S,SER,-0.493,8,b,,148/150,"S 75%, A 18%, G  3%, C  1%, T <1%, L <1%",272,,alignment_position,SER272A,SER272A,A,272,,mapped,sequence_alignment,1.0
+A,273,,L,LEU,-0.515,8,b,,149/150,"L 91%, M  4%, I  1%, Q  1%, T <1%, S <1%, V <1%",273,,alignment_position,LEU273A,LEU273A,A,273,,mapped,sequence_alignment,1.0
+A,274,,I,ILE,-0.348,7,b,,149/150,"I 55%, L 28%, V 12%, M  2%, Q  1%",274,,alignment_position,ILE274A,ILE274A,A,274,,mapped,sequence_alignment,1.0
+A,275,,K,LYS,-0.168,6,e,,148/150,"K 64%, R  8%, Q  6%, E  3%, A  3%, P  2%, H  2%, D  2%, N  2%, G  1%, S  1%, Y <1%, W <1%, T <1%",275,,alignment_position,LYS275A,LYS275A,A,275,,mapped,sequence_alignment,1.0
+A,276,,Q,GLN,0.095,5,e,,145/150,"P 38%, Q 15%, S  6%, R  6%, V  6%, N  5%, M  4%, L  3%, G  3%, K  2%, A  2%, H  1%, T  1%, F <1%, D <1%",276,,alignment_position,GLN276A,GLN276A,A,276,,mapped,sequence_alignment,1.0
+A,277,,G,GLY,0.756,4,e,,145/150,"G 25%, E 15%, D 14%, T  7%, N  6%, K  6%, H  5%, S  4%, A  4%, Q  2%, R  2%, L  1%, P  1%, I <1%, M <1%, V <1%",277,,alignment_position,GLY277A,GLY277A,A,277,,mapped,sequence_alignment,1.0
+A,278,,V,VAL,0.964,4,e,,136/150,"L 20%, A 15%, S 12%, M 11%, W  7%, V  5%, T  5%, K  3%, E  2%, G  2%, H  2%, R  2%, N  2%, C  1%, P  1%, D  1%, Y <1%, I <1%",278,,alignment_position,VAL278A,VAL278A,A,278,,mapped,sequence_alignment,1.0
+A,279,,N,ASN,0.145,5,e,,144/150,"N 32%, T 13%, S 10%, D  9%, P  9%, A  6%, K  5%, G  4%, R  2%, E  2%, I  1%, Q  1%, F <1%, C <1%",279,,alignment_position,ASN279A,ASN279A,A,279,,mapped,sequence_alignment,1.0
+A,280,,N,ASN,0.155,5,e,,143/150,"K 18%, L 18%, M  9%, A  9%, P  9%, N  6%, I  6%, T  4%, S  4%, E  3%, V  2%, R  2%, Q  1%, H  1%, D  1%, Y <1%, G <1%",280,,alignment_position,ASN280A,ASN280A,A,280,,mapped,sequence_alignment,1.0
+A,281,,A,ALA,-0.303,7,e,,145/150,"A 64%, S 11%, E  6%, P  3%, D  2%, H  2%, V  1%, G  1%, I  1%, N  1%, R  1%, K  1%, Q <1%, W <1%",281,,alignment_position,ALA281A,ALA281A,A,281,,mapped,sequence_alignment,1.0
+A,282,,E,GLU,-0.173,6,e,,145/150,"E 46%, D 34%, Q  4%, S  2%, R  2%, K  2%, A  2%, G  1%, M <1%, Y <1%, I <1%, L <1%, T <1%, P <1%",282,,alignment_position,GLU282A,GLU282A,A,282,,mapped,sequence_alignment,1.0
+A,283,,K,LYS,-0.422,8,e,f,146/150,"R 52%, K 36%, I  3%, E  1%, Y  1%, A  1%, V <1%, H <1%, S <1%, Q <1%, D <1%, G <1%",283,,alignment_position,LYS283A,LYS283A,A,283,,mapped,sequence_alignment,1.0
+A,284,,F,PHE,-0.28,7,b,,145/150,"F 77%, Y  8%, L  3%, C  2%, A  2%, T  2%, V  1%, P <1%, S <1%, R <1%, I <1%, E <1%",284,,alignment_position,PHE284A,PHE284A,A,284,,mapped,sequence_alignment,1.0
+A,285,,D,ASP,-0.223,7,e,,147/150,"D 67%, E 14%, A  4%, G  2%, Q  2%, N  2%, C  1%, S  1%, T  1%, V <1%, F <1%, P <1%, L <1%, R <1%",285,,alignment_position,ASP285A,ASP285A,A,285,,mapped,sequence_alignment,1.0
+A,286,,Y,TYR,0.447,5,e,,148/150,"Y 40%, F 16%, H 14%, W  4%, S  4%, R  3%, L  3%, T  2%, Q  2%, D  2%, K  2%, C  1%, A  1%, M <1%, E <1%",286,,alignment_position,TYR286A,TYR286A,A,286,,mapped,sequence_alignment,1.0
+A,287,,V,VAL,-0.221,6,b,,149/150,"V 54%, I 20%, M 10%, T  5%, L  2%, A  2%, F  1%, K <1%, N <1%, C <1%, G <1%, Y <1%",287,,alignment_position,VAL287A,VAL287A,A,287,,mapped,sequence_alignment,1.0
+A,288,,M,MET,-0.007,5,b,,149/150,"M 39%, L 28%, Q  6%, I  4%, T  3%, F  3%, A  3%, C  2%, N  2%, S  2%, K  1%, H  1%, R  1%, V <1%, P <1%, Y <1%",288,,alignment_position,MET288A,MET288A,A,288,,mapped,sequence_alignment,1.0
+A,289,,Q,GLN,0.34,5,e,,149/150,"N 21%, D 17%, E 16%, Q 15%, S  8%, K  6%, T  4%, H  2%, R  2%, G  2%, L  1%, P <1%, M <1%, A <1%",289,,alignment_position,GLN289A,GLN289A,A,289,,mapped,sequence_alignment,1.0
+A,290,,F,PHE,0.432,5,b,,148/150,"F 28%, Y 12%, T  9%, K  7%, Q  6%, M  4%, L  4%, I  4%, E  4%, S  3%, W  3%, V  2%, R  2%, A  2%, C  2%, G  2%",290,,alignment_position,PHE290A,PHE290A,A,290,,mapped,sequence_alignment,1.0
+A,291,,L,LEU,-0.027,5,b,,149/150,"L 31%, Y 17%, W 17%, F 16%, V  8%, M  4%, I  2%, T  1%, C <1%",291,,alignment_position,LEU291A,LEU291A,A,291,,mapped,sequence_alignment,1.0
+A,292,,N,ASN,-0.095,6,e,,149/150,"K 40%, R 19%, S 12%, N 10%, Q  4%, G  3%, E  2%, T  1%, Y  1%, A  1%, F <1%, V <1%, C <1%, H <1%, M <1%, I <1%",292,,alignment_position,ASN292A,ASN292A,A,292,,mapped,sequence_alignment,1.0
+A,293,,K,LYS,0.083,5,e,,149/150,"K 35%, R 28%, A  9%, Q  6%, S  5%, G  3%, N  2%, D  2%, H  2%, E  2%, T  1%, I <1%, V <1%",293,,alignment_position,LYS293A,LYS293A,A,293,,mapped,sequence_alignment,1.0
+A,294,,M,MET,-0.242,7,b,,149/150,"M 38%, L 38%, I  8%, F  8%, V  2%, A  2%, C  1%, E <1%, W <1%",294,,alignment_position,MET294A,MET294A,A,294,,mapped,sequence_alignment,1.0
+A,295,,A,ALA,-0.296,7,e,,148/150,"A 64%, S 12%, T  8%, C  7%, V  2%, G  2%, I  1%, E <1%",295,,alignment_position,ALA295A,ALA295A,A,295,,mapped,sequence_alignment,1.0
+A,296,,G,GLY,-0.545,9,e,f,147/150,"G 90%, N  3%, D  2%, T <1%, S <1%, A <1%, Y <1%, L <1%, C <1%",296,,alignment_position,GLY296A,GLY296A,A,296,,mapped,sequence_alignment,1.0
+A,297,,N,ASN,0.028,5,e,,133/150,"G 40%, N 26%, K  5%, R  3%, Q  3%, T  3%, D  3%, A  3%, S  3%, H  2%, M  2%, V <1%, F <1%, W <1%",297,,alignment_position,ASN297A,ASN297A,A,297,,mapped,sequence_alignment,1.0
+A,298,,E,GLU,-0.195,6,e,,148/150,"E 60%, R 12%, G  5%, Q  3%, A  3%, D  2%, K  2%, S  2%, T  2%, L  1%, I  1%, H <1%, Y <1%, V <1%, F <1%, N <1%",298,,alignment_position,GLU298A,GLU298A,A,298,,mapped,sequence_alignment,1.0
+A,299,,Y,TYR,0.246,5,e,,148/150,"Y 46%, K  8%, F  6%, H  6%, P  5%, R  5%, N  3%, A  2%, T  2%, E  2%, L  2%, S  2%, G  1%, V  1%, D <1%, Q <1%, C <1%",299,,alignment_position,TYR299A,TYR299A,A,299,,mapped,sequence_alignment,1.0
+A,300,,V,VAL,-0.176,6,e,,146/150,"V 50%, L 18%, I 13%, P  7%, M  3%, A  2%, F  1%, S  1%, K <1%, T <1%",300,,alignment_position,VAL300A,VAL300A,A,300,,mapped,sequence_alignment,1.0
+A,301,,G,GLY,-0.146,6,e,,146/150,"G 68%, S 10%, T  4%, R  3%, D  3%, E  2%, N  2%, Y  1%, H  1%, I <1%, A <1%, Q <1%",301,,alignment_position,GLY301A,GLY301A,A,301,,mapped,sequence_alignment,1.0
+A,302,,F,PHE,-0.525,9,b,s,145/150,"F 84%, V  5%, L  4%, I  3%, K <1%, T <1%, M <1%",302,,alignment_position,PHE302A,PHE302A,A,302,,mapped,sequence_alignment,1.0
+A,303,,S,SER,-0.501,8,e,f,145/150,"N 41%, S 40%, D 15%, R <1%, K <1%, Q <1%, H <1%",303,,alignment_position,SER303A,SER303A,A,303,,mapped,sequence_alignment,1.0
+A,304,,N,ASN,-0.498,8,e,f,145/150,"N 79%, E  7%, Q  3%, C  2%, R  1%, G  1%, T <1%, S <1%, Y <1%, K <1%, D <1%, H <1%, A <1%",304,,alignment_position,ASN304A,ASN304A,A,304,,mapped,sequence_alignment,1.0
+A,305,,A,ALA,-0.376,8,b,,145/150,"A 68%, S 15%, T  3%, G  2%, E  2%, R  1%, D  1%, F <1%, Q <1%, P <1%, N <1%, K <1%",305,,alignment_position,ALA305A,ALA305A,A,305,,mapped,sequence_alignment,1.0
+A,306,,T,THR,-0.489,8,e,f,147/150,"T 48%, V 40%, S  3%, R  3%, I  2%, M <1%",306,,alignment_position,THR306A,THR306A,A,306,,mapped,sequence_alignment,1.0
+A,307,,F,PHE,-0.363,7,b,,148/150,"F 70%, Y 25%, M  2%, C  1%, A <1%",307,,alignment_position,PHE307A,PHE307A,A,307,,mapped,sequence_alignment,1.0
+A,308,,Q,GLN,-0.481,8,e,f,148/150,"L 46%, Q 39%, R  3%, A  3%, M  2%, E  1%, N  1%, H <1%, G <1%, T <1%",308,,alignment_position,GLN308A,GLN308A,A,308,,mapped,sequence_alignment,1.0
+A,309,,S,SER,-0.619,9,e,f,149/150,"S 94%, G  1%, N  1%, C <1%, Y <1%, A <1%, E <1%",309,,alignment_position,SER309A,SER309A,A,309,,mapped,sequence_alignment,1.0
+A,310,,E,GLU,-0.631,9,e,f,149/150,"E 95%, S  2%, L  1%, Q <1%",310,,alignment_position,GLU310A,GLU310A,A,310,,mapped,sequence_alignment,1.0
+A,311,,R,ARG,-0.34,7,e,,149/150,"R 59%, K 32%, S  2%, Q  1%, A  1%, M  1%, N <1%, C <1%, D <1%",311,,alignment_position,ARG311A,ARG311A,A,311,,mapped,sequence_alignment,1.0
+A,312,,E,GLU,-0.124,6,e,,149/150,"E 59%, A  9%, D  8%, Q  6%, S  4%, K  4%, R  2%, L  2%, M <1%, N <1%, H <1%, F <1%, T <1%",312,,alignment_position,GLU312A,GLU312A,A,312,,mapped,sequence_alignment,1.0
+A,313,,S,SER,-0.477,8,e,f,149/150,"T 61%, S 18%, A  9%, D  2%, N  1%, C  1%, K  1%, H  1%, E  1%, V <1%, R <1%",313,,alignment_position,SER313A,SER313A,A,313,,mapped,sequence_alignment,1.0
+A,314,,G,GLY,-0.552,9,e,f,149/150,"A 48%, G 47%, S  2%, I <1%, N <1%, L <1%",314,,alignment_position,GLY314A,GLY314A,A,314,,mapped,sequence_alignment,1.0
+A,315,,D,ASP,-0.48,8,e,f,149/150,"D 82%, H  8%, N  2%, F  2%, I  1%, V  1%, S  1%, Y <1%",315,,alignment_position,ASP315A,ASP315A,A,315,,mapped,sequence_alignment,1.0
+A,316,,R,ARG,-0.643,9,e,f,149/150,"R 95%, N  2%, K <1%, G <1%",316,,alignment_position,ARG316A,ARG316A,A,316,,mapped,sequence_alignment,1.0
+A,317,,N,ASN,-0.661,9,e,f,149/150,"N 96%, L  3%",317,,alignment_position,ASN317A,ASN317A,A,317,,mapped,sequence_alignment,1.0
+A,318,,F,PHE,-0.119,6,b,,149/150,"F 44%, Y 37%, R  8%, H  2%, L  2%, W <1%, C <1%, S <1%, Q <1%, V <1%, M <1%",318,,alignment_position,PHE318A,PHE318A,A,318,,mapped,sequence_alignment,1.0
+A,319,,A,ALA,-0.626,9,b,s,149/150,"A 93%, C  3%, S  2%",319,,alignment_position,ALA319A,ALA319A,A,319,,mapped,sequence_alignment,1.0
+A,320,,I,ILE,-0.532,9,b,s,149/150,"I 49%, L 49%, F <1%",320,,alignment_position,ILE320A,ILE320A,A,320,,mapped,sequence_alignment,1.0
+A,321,,G,GLY,-0.378,8,b,,149/150,"G 59%, A 26%, S 11%, C <1%, I <1%, M <1%, L <1%",321,,alignment_position,GLY321A,GLY321A,A,321,,mapped,sequence_alignment,1.0
+A,322,,Y,TYR,-0.469,8,b,,149/150,"Y 83%, F  9%, H  3%, W  2%, S <1%, N <1%",322,,alignment_position,TYR322A,TYR322A,A,322,,mapped,sequence_alignment,1.0
+A,323,,Y,TYR,-0.312,7,b,,149/150,"Y 62%, F 16%, L 10%, M  6%, S  1%, H <1%, Q <1%, E <1%, A <1%",323,,alignment_position,TYR323A,TYR323A,A,323,,mapped,sequence_alignment,1.0
+A,324,,L,LEU,-0.544,9,b,s,149/150,"M 53%, L 45%, I <1%, V <1%",324,,alignment_position,LEU324A,LEU324A,A,324,,mapped,sequence_alignment,1.0
+A,325,,K,LYS,-0.368,7,e,,149/150,"K 49%, R 33%, Q  6%, A  2%, N  2%, L  2%, S  1%, E  1%, M <1%, H <1%",325,,alignment_position,LYS325A,LYS325A,A,325,,mapped,sequence_alignment,1.0
+A,326,,E,GLU,-0.572,9,e,f,149/150,"E 85%, N  4%, A  3%, S  3%, G  1%, K  1%, D <1%",326,,alignment_position,GLU326A,GLU326A,A,326,,mapped,sequence_alignment,1.0
+A,327,,K,LYS,-0.14,6,e,,149/150,"K 45%, N 18%, H 11%, Y  4%, A  4%, V  3%, R  2%, S  2%, F  2%, M  1%, Q  1%, T  1%, I <1%, G <1%, E <1%",327,,alignment_position,LYS327A,LYS327A,A,327,,mapped,sequence_alignment,1.0
+A,328,,K,LYS,-0.076,6,e,,149/150,"K 61%, G 14%, R  8%, N  5%, E  3%, Q  2%, D  2%, M <1%, H <1%",328,,alignment_position,LYS328A,LYS328A,A,328,,mapped,sequence_alignment,1.0
+A,329,,C,CYS,-0.347,7,e,,147/150,"C 65%, A 15%, V  4%, G  3%, S  2%, M  2%, T  2%, K  1%, I  1%, N <1%",329,,alignment_position,CYS329A,CYS329A,A,329,,mapped,sequence_alignment,1.0
+A,330,,F,PHE,-0.463,8,e,f,146/150,"F 80%, L 10%, Y  4%, I  2%, R <1%, M <1%",330,,alignment_position,PHE330A,PHE330A,A,330,,mapped,sequence_alignment,1.0
+A,331,,P,PRO,-0.533,9,e,f,146/150,"P 90%, T  2%, E  2%, A <1%, H <1%, M <1%, L <1%, D <1%, S <1%, G <1%",331,,alignment_position,PRO331A,PRO331A,A,331,,mapped,sequence_alignment,1.0
+A,332,,E,GLU,0.781,4,e,,147/150,"E 33%, P 17%, D 12%, K  8%, G  5%, R  5%, S  3%, A  2%, L  2%, H  2%, Q  2%, N  2%, T  1%, V  1%",332,,alignment_position,GLU332A,GLU332A,A,332,,mapped,sequence_alignment,1.0
+A,333,,G,GLY,0.197,5,e,,135/150,"G 41%, N 18%, K 11%, E  8%, D  7%, S  5%, H  1%, R  1%, Q  1%, A <1%, T <1%, V <1%, M <1%",333,,alignment_position,GLY333A,GLY333A,A,333,,mapped,sequence_alignment,1.0
+A,334,,T,THR,-0.206,6,e,,135/150,"T 45%, A 22%, V 14%, S  5%, I  5%, N  1%, M  1%, C <1%, Q <1%, D <1%, L <1%, R <1%, P <1%",334,,alignment_position,THR334A,THR334A,A,334,,mapped,sequence_alignment,1.0
+A,335,,D,ASP,-0.302,7,e,,148/150,"D 56%, N 22%, S  9%, E  4%, K  2%, G  2%, I <1%, P <1%, C <1%, Q <1%, A <1%",335,,alignment_position,ASP335A,ASP335A,A,335,,mapped,sequence_alignment,1.0
+A,336,,M,MET,-0.433,8,b,,147/150,"L 43%, M 32%, I  8%, P  8%, V  5%, F <1%",336,,alignment_position,MET336A,MET336A,A,336,,mapped,sequence_alignment,1.0
+A,337,,V,VAL,0.392,5,e,,148/150,"I 16%, T 16%, M 10%, R 10%, E  6%, K  6%, V  5%, H  5%, Q  4%, S  3%, N  3%, L  2%, D  2%, G  2%, P  1%, A  1%, Y <1%, F <1%",337,,alignment_position,VAL337A,VAL337A,A,337,,mapped,sequence_alignment,1.0
+A,338,,G,GLY,-0.082,6,e,,148/150,"E 30%, D 22%, A 20%, S 11%, G  4%, T  2%, K  2%, L  1%, N  1%, Q <1%, R <1%, M <1%",338,,alignment_position,GLY338A,GLY338A,A,338,,mapped,sequence_alignment,1.0
+A,339,,I,ILE,-0.207,6,b,,148/150,"A 30%, T 23%, V 16%, I 12%, E  5%, C  4%, S  2%, M  2%, L  1%, F <1%, N <1%",339,,alignment_position,ILE339A,ILE339A,A,339,,mapped,sequence_alignment,1.0
+A,340,,L,LEU,-0.4,8,b,,148/150,"L 80%, M 10%, V  4%, F  2%, I  1%, A <1%, T <1%, C <1%",340,,alignment_position,LEU340A,LEU340A,A,340,,mapped,sequence_alignment,1.0
+A,341,,D,ASP,-0.433,8,e,f,148/150,"D 75%, E 17%, N  3%, F <1%, P <1%, K <1%, A <1%, S <1%, G <1%",341,,alignment_position,ASP341A,ASP341A,A,341,,mapped,sequence_alignment,1.0
+A,342,,F,PHE,-0.119,6,b,,148/150,"F 58%, L 33%, V  3%, T  1%, G  1%, Y <1%, S <1%, R <1%",342,,alignment_position,PHE342A,PHE342A,A,342,,mapped,sequence_alignment,1.0
+A,343,,Y,TYR,-0.581,9,b,s,148/150,"Y 94%, L  2%, F  1%, P <1%, M <1%, I <1%",343,,alignment_position,TYR343A,TYR343A,A,343,,mapped,sequence_alignment,1.0
+A,344,,F,PHE,-0.461,8,b,,148/150,"F 86%, L  7%, T  2%, A <1%, H <1%, Y <1%, I <1%, Q <1%",344,,alignment_position,PHE344A,PHE344A,A,344,,mapped,sequence_alignment,1.0
+A,345,,Q,GLN,-0.575,9,e,f,149/150,"Q 82%, R  8%, S  2%, H  1%, E  1%, F <1%, G <1%, A <1%, M <1%, K <1%",345,,alignment_position,GLN345A,GLN345A,A,345,,mapped,sequence_alignment,1.0
+A,346,,L,LEU,-0.243,7,b,,148/150,"L 55%, C 16%, Q 10%, I  3%, T  3%, S  2%, M  2%, A  2%, V  1%, N  1%, W <1%, F <1%",346,,alignment_position,LEU346A,LEU346A,A,346,,mapped,sequence_alignment,1.0
+A,347,,C,CYS,-0.574,9,b,s,148/150,"C 95%, L  1%, S  1%, F <1%, M <1%, T <1%",347,,alignment_position,CYS347A,CYS347A,A,347,,mapped,sequence_alignment,1.0
+A,348,,S,SER,-0.639,9,e,f,147/150,"S 96%, A  3%",348,,alignment_position,SER348A,SER348A,A,348,,mapped,sequence_alignment,1.0
+A,349,,I,ILE,-0.386,8,b,,147/150,"I 59%, L 17%, V 10%, M  6%, T  5%, A <1%",349,,alignment_position,ILE349A,ILE349A,A,349,,mapped,sequence_alignment,1.0
+A,350,,E,GLU,-0.475,8,e,f,147/150,"E 85%, T  4%, L  2%, R  2%, S  1%, Q  1%, D <1%, M <1%, K <1%",350,,alignment_position,GLU350A,GLU350A,A,350,,mapped,sequence_alignment,1.0
+A,351,,V,VAL,-0.185,6,b,,147/150,"V 57%, T 12%, M  7%, I  6%, A  6%, L  5%, S  2%, C <1%, Q <1%, G <1%",351,,alignment_position,VAL351A,VAL351A,A,351,,mapped,sequence_alignment,1.0
+A,352,,T,THR,-0.387,8,e,f,147/150,"T 64%, N 21%, D  7%, S  4%, C  1%, K  1%",352,,alignment_position,THR352A,THR352A,A,352,,mapped,sequence_alignment,1.0
+A,353,,C,CYS,-0.25,7,b,,147/150,"C 70%, A 11%, T  8%, S  4%, V  4%, L <1%",353,,alignment_position,CYS353A,CYS353A,A,353,,mapped,sequence_alignment,1.0
+A,354,,E,GLU,-0.042,5,e,,147/150,"E 58%, D 14%, R  5%, K  4%, Q  3%, N  2%, S  2%, A  2%, H  1%, T  1%, L  1%, V <1%, Y <1%, P <1%",354,,alignment_position,GLU354A,GLU354A,A,354,,mapped,sequence_alignment,1.0
+A,355,,S,SER,-0.32,7,e,,147/150,"S 59%, T 10%, D  9%, A  4%, M  4%, R  2%, G  2%, N  2%, Q  2%, I <1%, V <1%, K <1%, L <1%, C <1%, E <1%",355,,alignment_position,SER355A,SER355A,A,355,,mapped,sequence_alignment,1.0
+A,356,,A,ALA,-0.262,7,b,,147/150,"G 30%, L 27%, A 21%, M 10%, V  4%, S  1%, F  1%, H <1%, E <1%, I <1%, Y <1%",356,,alignment_position,ALA356A,ALA356A,A,356,,mapped,sequence_alignment,1.0
+A,357,,S,SER,-0.507,8,b,,147/150,"S 61%, A 36%, G  2%, C <1%",357,,alignment_position,SER357A,SER357A,A,357,,mapped,sequence_alignment,1.0
+A,358,,V,VAL,-0.401,8,b,,147/150,"V 76%, I  8%, A  4%, T  4%, L  2%, K  1%, R  1%, M <1%",358,,alignment_position,VAL358A,VAL358A,A,358,,mapped,sequence_alignment,1.0
+A,359,,M,MET,-0.416,8,b,,147/150,"M 61%, I 17%, V  8%, A  6%, L  5%",359,,alignment_position,MET359A,MET359A,A,359,,mapped,sequence_alignment,1.0
+A,360,,A,ALA,-0.626,9,b,s,147/150,"A 95%, G  1%, S <1%, M <1%, H <1%, T <1%",360,,alignment_position,ALA360A,ALA360A,A,360,,mapped,sequence_alignment,1.0
+A,361,,A,ALA,-0.536,9,b,s,147/150,"A 87%, S  6%, G  4%, C <1%, M <1%",361,,alignment_position,ALA361A,ALA361A,A,361,,mapped,sequence_alignment,1.0
+A,362,,T,THR,-0.615,9,b,s,147/150,"T 91%, S  6%, V <1%, C <1%",362,,alignment_position,THR362A,THR362A,A,362,,mapped,sequence_alignment,1.0
+A,363,,L,LEU,-0.592,9,b,s,147/150,"L 95%, F  4%, I <1%",363,,alignment_position,LEU363A,LEU363A,A,363,,mapped,sequence_alignment,1.0
+A,364,,A,ALA,-0.668,9,e,f,147/150,A,364,,alignment_position,ALA364A,ALA364A,A,364,,mapped,sequence_alignment,1.0
+A,365,,N,ASN,-0.599,9,e,f,147/150,"N 93%, H  1%, T  1%, K <1%, S <1%, G <1%, C <1%, R <1%, Y <1%",365,,alignment_position,ASN365A,ASN365A,A,365,,mapped,sequence_alignment,1.0
+A,366,,G,GLY,-0.439,8,e,f,147/150,"G 88%, A  4%, S  2%, N  1%, Y <1%, H <1%, E <1%, Q <1%, L <1%",366,,alignment_position,GLY366A,GLY366A,A,366,,mapped,sequence_alignment,1.0
+A,367,,G,GLY,-0.668,9,b,s,147/150,G,367,,alignment_position,GLY367A,GLY367A,A,367,,mapped,sequence_alignment,1.0
+A,368,,F,PHE,-0.35,7,e,,147/150,"I 50%, V 27%, F  8%, L  4%, T  3%, R  2%, S  1%, N <1%, H <1%",368,,alignment_position,PHE368A,PHE368A,A,368,,mapped,sequence_alignment,1.0
+A,369,,C,CYS,-0.451,8,b,,147/150,"C 79%, N 14%, S  2%, H  2%, A <1%, Q <1%",369,,alignment_position,CYS369A,CYS369A,A,369,,mapped,sequence_alignment,1.0
+A,370,,P,PRO,-0.644,9,e,f,147/150,"P 98%, A <1%, V <1%",370,,alignment_position,PRO370A,PRO370A,A,370,,mapped,sequence_alignment,1.0
+A,371,,I,ILE,-0.16,6,b,,147/150,"I 49%, L 25%, V  8%, T  6%, M  4%, F  2%, Q <1%, K <1%, W <1%, A <1%",371,,alignment_position,ILE371A,ILE371A,A,371,,mapped,sequence_alignment,1.0
+A,372,,T,THR,-0.603,9,e,f,147/150,"T 90%, S  7%, N  1%, G <1%",372,,alignment_position,THR372A,THR372A,A,372,,mapped,sequence_alignment,1.0
+A,373,,G,GLY,-0.105,6,e,,147/150,"G 70%, E  7%, N  6%, D  4%, Q  2%, S  2%, K  2%, H  2%, R  1%, T <1%, Y <1%",373,,alignment_position,GLY373A,GLY373A,A,373,,mapped,sequence_alignment,1.0
+A,374,,E,GLU,-0.083,6,e,,147/150,"E 62%, D 13%, Q  6%, R  4%, H  2%, N  2%, K  2%, V  2%, S  1%, L <1%, A <1%",374,,alignment_position,GLU374A,GLU374A,A,374,,mapped,sequence_alignment,1.0
+A,375,,R,ARG,-0.09,6,e,,147/150,"R 53%, Q 15%, K  9%, E  3%, L  2%, A  2%, S  2%, T  2%, I  2%, H  1%, C  1%, P  1%, V <1%, N <1%",375,,alignment_position,ARG375A,ARG375A,A,375,,mapped,sequence_alignment,1.0
+A,376,,V,VAL,-0.415,8,b,,147/150,"V 69%, I 14%, C  9%, L  2%, M  1%, Q <1%, A <1%, P <1%",376,,alignment_position,VAL376A,VAL376A,A,376,,mapped,sequence_alignment,1.0
+A,377,,L,LEU,-0.289,7,b,,147/150,"L 57%, F 21%, I  9%, V  6%, M  2%, S <1%, Y <1%, T <1%",377,,alignment_position,LEU377A,LEU377A,A,377,,mapped,sequence_alignment,1.0
+A,378,,S,SER,-0.111,6,e,,147/150,"S 56%, D  7%, K  5%, E  4%, N  4%, T  4%, R  4%, Q  3%, A  3%, G  2%, H  1%, L <1%, P <1%",378,,alignment_position,SER378A,SER378A,A,378,,mapped,sequence_alignment,1.0
+A,379,,P,PRO,0.127,5,e,,147/150,"P 37%, A 21%, S 16%, T  5%, N  4%, D  3%, E  2%, G  2%, V  1%, Q  1%, C <1%, K <1%, F <1%, R <1%, L <1%",379,,alignment_position,PRO379A,PRO379A,A,379,,mapped,sequence_alignment,1.0
+A,380,,E,GLU,0.068,5,e,,147/150,"E 50%, D 12%, R  8%, Q  5%, N  4%, A  4%, S  3%, H  2%, G  2%, K  2%, V <1%, Y <1%, C <1%, I <1%, T <1%, P <1%, W <1%",380,,alignment_position,GLU380A,GLU380A,A,380,,mapped,sequence_alignment,1.0
+A,381,,A,ALA,-0.409,8,b,,147/150,"A 48%, T 17%, S 10%, P  8%, V  6%, H  2%, N  2%, C  1%, I  1%, L <1%",381,,alignment_position,ALA381A,ALA381A,A,381,,mapped,sequence_alignment,1.0
+A,382,,V,VAL,-0.503,8,b,,147/150,"V 74%, C 11%, I  5%, A  4%, T  4%",382,,alignment_position,VAL382A,VAL382A,A,382,,mapped,sequence_alignment,1.0
+A,383,,R,ARG,-0.473,8,e,f,147/150,"R 74%, K 12%, Q  8%, S  1%, G  1%, V  1%, A <1%",383,,alignment_position,ARG383A,ARG383A,A,383,,mapped,sequence_alignment,1.0
+A,384,,N,ASN,-0.34,7,e,,147/150,"N 48%, D 29%, H  6%, R  4%, K  3%, S  2%, A  2%, Q  2%, C <1%, G <1%",384,,alignment_position,ASN384A,ASN384A,A,384,,mapped,sequence_alignment,1.0
+A,385,,T,THR,-0.469,8,b,,147/150,"T 52%, V 23%, C 16%, I  2%, A  2%, M  2%, L  1%",385,,alignment_position,THR385A,THR385A,A,385,,mapped,sequence_alignment,1.0
+A,386,,L,LEU,-0.656,9,b,s,147/150,"L 99%, M <1%",386,,alignment_position,LEU386A,LEU386A,A,386,,mapped,sequence_alignment,1.0
+A,387,,S,SER,-0.587,9,e,f,147/150,"S 87%, T  6%, A  3%, C  1%, Q <1%, P <1%",387,,alignment_position,SER387A,SER387A,A,387,,mapped,sequence_alignment,1.0
+A,388,,L,LEU,-0.475,8,b,,147/150,"L 78%, V 10%, I  4%, M  4%, Q  1%",388,,alignment_position,LEU388A,LEU388A,A,388,,mapped,sequence_alignment,1.0
+A,389,,M,MET,-0.661,9,b,s,147/150,"M 99%, L <1%",389,,alignment_position,MET389A,MET389A,A,389,,mapped,sequence_alignment,1.0
+A,390,,H,HIS,-0.223,7,b,,147/150,"H 46%, Y 14%, S  9%, L  8%, Q  6%, F  4%, N  2%, T  2%, A  2%, M <1%, G <1%, V <1%",390,,alignment_position,HIS390A,HIS390A,A,390,,mapped,sequence_alignment,1.0
+A,391,,S,SER,-0.617,9,b,s,147/150,"S 85%, T  7%, V  3%, A  2%, F <1%, H <1%, C <1%",391,,alignment_position,SER391A,SER391A,A,391,,mapped,sequence_alignment,1.0
+A,392,,C,CYS,-0.599,9,b,s,147/150,"C 92%, A  4%, S  2%",392,,alignment_position,CYS392A,CYS392A,A,392,,mapped,sequence_alignment,1.0
+A,393,,G,GLY,-0.668,9,b,s,147/150,G,393,,alignment_position,GLY393A,GLY393A,A,393,,mapped,sequence_alignment,1.0
+A,394,,M,MET,-0.625,9,b,s,147/150,"M 95%, L  3%, T <1%",394,,alignment_position,MET394A,MET394A,A,394,,mapped,sequence_alignment,1.0
+A,395,,Y,TYR,-0.627,9,e,f,147/150,"Y 95%, N  2%, K  1%",395,,alignment_position,TYR395A,TYR395A,A,395,,mapped,sequence_alignment,1.0
+A,396,,D,ASP,-0.635,9,e,f,147/150,"D 96%, N  2%, T <1%",396,,alignment_position,ASP396A,ASP396A,A,396,,mapped,sequence_alignment,1.0
+A,397,,F,PHE,-0.274,7,e,,147/150,"F 46%, Y 38%, A  7%, L  1%, N  1%, S  1%, W <1%, D <1%, H <1%, G <1%",397,,alignment_position,PHE397A,PHE397A,A,397,,mapped,sequence_alignment,1.0
+A,398,,S,SER,-0.638,9,e,f,147/150,"S 93%, A  6%",398,,alignment_position,SER398A,SER398A,A,398,,mapped,sequence_alignment,1.0
+A,399,,G,GLY,-0.63,9,e,f,147/150,"G 95%, R  2%, S  1%, V <1%",399,,alignment_position,GLY399A,GLY399A,A,399,,mapped,sequence_alignment,1.0
+A,400,,Q,GLN,-0.374,8,e,f,147/150,"Q 59%, E 23%, D  4%, K  3%, T  2%, V  2%, A  1%, F <1%, H <1%, R <1%, N <1%, I <1%, L <1%",400,,alignment_position,GLN400A,GLN400A,A,400,,mapped,sequence_alignment,1.0
+A,401,,F,PHE,-0.491,8,b,,148/150,"F 78%, W 13%, M  4%, Y  3%, H <1%",401,,alignment_position,PHE401A,PHE401A,A,401,,mapped,sequence_alignment,1.0
+A,402,,A,ALA,-0.491,8,b,,148/150,"A 77%, S  5%, T  3%, H  3%, L  2%, I  2%, M  2%, F  1%, G <1%, N <1%, V <1%",402,,alignment_position,ALA402A,ALA402A,A,402,,mapped,sequence_alignment,1.0
+A,403,,F,PHE,-0.464,8,b,,147/150,"F 82%, Y  7%, L  4%, T  1%, C <1%, R <1%, A <1%, N <1%, Q <1%, S <1%",403,,alignment_position,PHE403A,PHE403A,A,403,,mapped,sequence_alignment,1.0
+A,404,,H,HIS,-0.278,7,e,,147/150,"H 39%, K 23%, T 10%, Q  6%, R  6%, S  4%, E  3%, D  2%, N  2%, A  1%",404,,alignment_position,HIS404A,HIS404A,A,404,,mapped,sequence_alignment,1.0
+A,405,,V,VAL,-0.549,9,b,s,149/150,"V 83%, I 10%, T  2%, C  2%, F <1%, A <1%",405,,alignment_position,VAL405A,VAL405A,A,405,,mapped,sequence_alignment,1.0
+A,406,,G,GLY,-0.643,9,b,s,148/150,"G 95%, S  3%, Q <1%",406,,alignment_position,GLY406A,GLY406A,A,406,,mapped,sequence_alignment,1.0
+A,407,,L,LEU,-0.416,8,b,,148/150,"L 82%, I  8%, V  4%, M  2%, R <1%, F <1%",407,,alignment_position,LEU407A,LEU407A,A,407,,mapped,sequence_alignment,1.0
+A,408,,P,PRO,-0.668,9,e,f,147/150,P,408,,alignment_position,PRO408A,PRO408A,A,408,,mapped,sequence_alignment,1.0
+A,409,,A,ALA,-0.634,9,b,s,147/150,"A 96%, G  1%, S  1%, T <1%",409,,alignment_position,ALA409A,ALA409A,A,409,,mapped,sequence_alignment,1.0
+A,410,,K,LYS,-0.64,9,e,f,147/150,"K 97%, M <1%, A <1%, V <1%",410,,alignment_position,LYS410A,LYS410A,A,410,,mapped,sequence_alignment,1.0
+A,411,,S,SER,-0.662,9,e,f,147/150,"S 99%, T <1%",411,,alignment_position,SER411A,SER411A,A,411,,mapped,sequence_alignment,1.0
+A,412,,G,GLY,-0.58,9,e,f,147/150,"G 92%, S  6%, A  1%",412,,alignment_position,GLY412A,GLY412A,A,412,,mapped,sequence_alignment,1.0
+A,413,,V,VAL,-0.609,9,b,s,147/150,"V 93%, A  2%, S  2%, K  1%, I <1%, T <1%",413,,alignment_position,VAL413A,VAL413A,A,413,,mapped,sequence_alignment,1.0
+A,414,,A,ALA,-0.487,8,e,f,147/150,"S 70%, A 19%, G  5%, C  1%, Q <1%, N <1%, H <1%, T <1%",414,,alignment_position,ALA414A,ALA414A,A,414,,mapped,sequence_alignment,1.0
+A,415,,G,GLY,-0.668,9,b,s,147/150,G,415,,alignment_position,GLY415A,GLY415A,A,415,,mapped,sequence_alignment,1.0
+A,416,,G,GLY,-0.151,6,b,,147/150,"A 37%, G 34%, V  6%, C  5%, S  3%, T  2%, L  2%, I  2%, D  2%, M  1%, P <1%, F <1%, N <1%",416,,alignment_position,GLY416A,GLY416A,A,416,,mapped,sequence_alignment,1.0
+A,417,,I,ILE,-0.294,7,b,,147/150,"I 39%, V 27%, L 15%, M 13%, T  3%",417,,alignment_position,ILE417A,ILE417A,A,417,,mapped,sequence_alignment,1.0
+A,418,,L,LEU,-0.254,7,b,,146/150,"L 49%, M 24%, I 14%, V  3%, Y  2%, C  2%, F  1%, A <1%, Q <1%, G <1%",418,,alignment_position,LEU418A,LEU418A,A,418,,mapped,sequence_alignment,1.0
+A,419,,L,LEU,-0.235,7,b,,146/150,"L 52%, V 23%, I 10%, A  8%, M  2%, G  2%",419,,alignment_position,LEU419A,LEU419A,A,419,,mapped,sequence_alignment,1.0
+A,420,,V,VAL,-0.626,9,b,s,146/150,"V 94%, A  5%",420,,alignment_position,VAL420A,VAL420A,A,420,,mapped,sequence_alignment,1.0
+A,421,,V,VAL,-0.443,8,b,,146/150,"V 66%, I 27%, L  4%, G  1%",421,,alignment_position,VAL421A,VAL421A,A,421,,mapped,sequence_alignment,1.0
+A,422,,P,PRO,-0.668,9,b,s,146/150,P,422,,alignment_position,PRO422A,PRO422A,A,422,,mapped,sequence_alignment,1.0
+A,423,,N,ASN,-0.516,8,e,f,146/150,"N 75%, G 15%, S  2%, Q  2%, K  1%, D  1%, A  1%, E <1%",423,,alignment_position,ASN423A,ASN423A,A,423,,mapped,sequence_alignment,1.0
+A,424,,V,VAL,-0.436,8,b,,146/150,"V 69%, L 13%, Q  6%, I  5%, K  2%, R  2%, T  1%, C <1%",424,,alignment_position,VAL424A,VAL424A,A,424,,mapped,sequence_alignment,1.0
+A,425,,M,MET,-0.369,7,b,,146/150,"M 71%, L 11%, V  4%, C  3%, G  2%, F  2%, A  2%, I  1%",425,,alignment_position,MET425A,MET425A,A,425,,mapped,sequence_alignment,1.0
+A,426,,G,GLY,-0.642,9,b,s,146/150,"G 97%, A  2%",426,,alignment_position,GLY426A,GLY426A,A,426,,mapped,sequence_alignment,1.0
+A,427,,M,MET,-0.249,7,b,,146/150,"I 48%, V 21%, M 11%, L 11%, F  6%, A <1%",427,,alignment_position,MET427A,MET427A,A,427,,mapped,sequence_alignment,1.0
+A,428,,M,MET,-0.255,7,b,,146/150,"M 36%, A 25%, C 20%, F  5%, G  4%, S  2%, L  2%, V  1%, T  1%",428,,alignment_position,MET428A,MET428A,A,428,,mapped,sequence_alignment,1.0
+A,429,,C,CYS,-0.215,6,b,,146/150,"C 38%, L 20%, V 13%, I 11%, T  9%, M  3%, A  2%, F <1%",429,,alignment_position,CYS429A,CYS429A,A,429,,mapped,sequence_alignment,1.0
+A,430,,W,TRP,-0.138,6,b,,146/150,"W 71%, F 15%, Y 12%, L <1%",430,,alignment_position,TRP430A,TRP430A,A,430,,mapped,sequence_alignment,1.0
+A,431,,S,SER,-0.656,9,b,s,146/150,"S 98%, A  1%",431,,alignment_position,SER431A,SER431A,A,431,,mapped,sequence_alignment,1.0
+A,432,,P,PRO,-0.656,9,e,f,146/150,"P 99%, T <1%",432,,alignment_position,PRO432A,PRO432A,A,432,,mapped,sequence_alignment,1.0
+A,433,,P,PRO,-0.331,7,e,,146/150,"P 61%, R 21%, A  4%, L  3%, E  2%, K  2%, S  1%, C <1%, N <1%, Q <1%",433,,alignment_position,PRO433A,PRO433A,A,433,,mapped,sequence_alignment,1.0
+A,434,,L,LEU,-0.655,9,b,s,146/150,"L 99%, I <1%",434,,alignment_position,LEU434A,LEU434A,A,434,,mapped,sequence_alignment,1.0
+A,435,,D,ASP,-0.643,9,e,f,146/150,"D 97%, G <1%, E <1%, N <1%",435,,alignment_position,ASP435A,ASP435A,A,435,,mapped,sequence_alignment,1.0
+A,436,,K,LYS,0.299,5,e,,146/150,"K 31%, R 17%, A 15%, E 10%, P  4%, S  4%, N  2%, Q  2%, V  2%, T  2%, G  1%, H  1%, D  1%, M <1%, L <1%, Y <1%",436,,alignment_position,LYS436A,LYS436A,A,436,,mapped,sequence_alignment,1.0
+A,437,,M,MET,0.528,5,e,,146/150,"L 32%, V 15%, M 10%, Y  9%, H  4%, I  3%, C  3%, N  3%, Q  3%, T  2%, W  2%, F  2%, R  2%, K  2%, A  1%, D <1%",437,,alignment_position,MET437A,MET437A,A,437,,mapped,sequence_alignment,1.0
+A,438,,G,GLY,-0.601,9,e,f,146/150,"G 96%, S  1%, R <1%, H <1%, A <1%",438,,alignment_position,GLY438A,GLY438A,A,438,,mapped,sequence_alignment,1.0
+A,439,,N,ASN,-0.661,9,e,f,146/150,"N 99%, H <1%",439,,alignment_position,ASN439A,ASN439A,A,439,,mapped,sequence_alignment,1.0
+A,440,,S,SER,-0.625,9,e,f,146/150,"S 93%, T  3%, P  2%",440,,alignment_position,SER440A,SER440A,A,440,,mapped,sequence_alignment,1.0
+A,441,,V,VAL,-0.408,8,b,,146/150,"V 73%, C 10%, T  2%, W  2%, S  2%, F  2%, L  1%, I  1%, A  1%, E <1%, Y <1%",441,,alignment_position,VAL441A,VAL441A,A,441,,mapped,sequence_alignment,1.0
+A,442,,K,LYS,-0.604,9,e,f,146/150,"R 93%, K  6%, M <1%",442,,alignment_position,LYS442A,LYS442A,A,442,,mapped,sequence_alignment,1.0
+A,443,,G,GLY,-0.563,9,b,s,146/150,"G 93%, A  5%, S  1%",443,,alignment_position,GLY443A,GLY443A,A,443,,mapped,sequence_alignment,1.0
+A,444,,I,ILE,-0.441,8,b,,146/150,"I 48%, V 42%, L  4%, T  1%, Q  1%, M <1%, A <1%",444,,alignment_position,ILE444A,ILE444A,A,444,,mapped,sequence_alignment,1.0
+A,445,,H,HIS,-0.165,6,e,,146/150,"Q 26%, H 21%, E 16%, A 11%, K  7%, R  4%, D  3%, S  3%, N  2%, G  1%, L  1%",445,,alignment_position,HIS445A,HIS445A,A,445,,mapped,sequence_alignment,1.0
+A,446,,F,PHE,-0.514,8,b,,146/150,"F 85%, V  6%, A  4%, L  2%, M <1%",446,,alignment_position,PHE446A,PHE446A,A,446,,mapped,sequence_alignment,1.0
+A,447,,C,CYS,-0.428,8,b,,146/150,"C 86%, A  4%, S  3%, L  3%, F  2%, M <1%",447,,alignment_position,CYS447A,CYS447A,A,447,,mapped,sequence_alignment,1.0
+A,448,,H,HIS,-0.074,5,e,,146/150,"Q 26%, K 20%, E 17%, T 12%, R 10%, H  4%, N  3%, L <1%, D <1%, M <1%, S <1%, A <1%, Y <1%, C <1%",448,,alignment_position,HIS448A,HIS448A,A,448,,mapped,sequence_alignment,1.0
+A,449,,D,ASP,-0.15,6,e,,145/150,"E 46%, D 17%, K 11%, R 10%, Q  6%, N  2%, G  1%, M  1%, A  1%, L <1%, S <1%, T <1%",449,,alignment_position,ASP449A,ASP449A,A,449,,mapped,sequence_alignment,1.0
+A,450,,L,LEU,-0.482,8,b,,145/150,"L 89%, M  3%, F  3%, I  2%, A <1%, V <1%",450,,alignment_position,LEU450A,LEU450A,A,450,,mapped,sequence_alignment,1.0
+A,451,,V,VAL,-0.477,8,b,,146/150,"V 69%, I 13%, S  8%, T  4%, L  2%, A  2%",451,,alignment_position,VAL451A,VAL451A,A,451,,mapped,sequence_alignment,1.0
+A,452,,S,SER,0.141,5,e,,146/150,"S 36%, E 19%, D  9%, R  7%, K  6%, Q  5%, N  4%, T  3%, G  2%, A  1%, H  1%, L <1%, Y <1%",452,,alignment_position,SER452A,SER452A,A,452,,mapped,sequence_alignment,1.0
+A,453,,L,LEU,0.283,5,e,,146/150,"L 26%, R 18%, K 10%, T  8%, H  6%, V  6%, Y  4%, S  4%, A  2%, N  2%, E  2%, D  2%, M  1%, I  1%, Q <1%",453,,alignment_position,LEU453A,LEU453A,A,453,,mapped,sequence_alignment,1.0
+A,454,,C,CYS,-0.296,7,b,,145/150,"F 74%, Y 12%, C  6%, L  2%, M  1%, N <1%, V <1%, I <1%, X <1%",454,,alignment_position,CYS454A,CYS454A,A,454,,mapped,sequence_alignment,1.0
+A,455,,N,ASN,-0.37,7,e,,146/150,"N 64%, S  8%, G  8%, Q  4%, K  3%, T  2%, P  2%, A  1%, H <1%, D <1%, R <1%, E <1%, C <1%, L <1%",455,,alignment_position,,ASN455A,A,455,,missing,unmapped,
+A,456,,F,PHE,-0.473,8,b,,146/150,"F 78%, L 12%, V  3%, I  2%, W  1%, M  1%",456,,alignment_position,,PHE456A,A,456,,missing,unmapped,
+A,457,,H,HIS,-0.637,9,e,f,146/150,"H 97%, S  1%, G <1%, N <1%",457,,alignment_position,,HIS457A,A,457,,missing,unmapped,
+A,458,,N,ASN,-0.29,7,b,,145/150,"N 57%, L  8%, H  6%, T  4%, R  3%, V  3%, S  3%, I  3%, A  2%, P  2%, K  1%, Q  1%, M  1%, F <1%, D <1%",458,,alignment_position,,ASN458A,A,458,,missing,unmapped,
+A,459,,Y,TYR,-0.343,7,b,,145/150,"Y 72%, F 20%, L  2%, M  2%, H <1%, C <1%, I <1%",459,,alignment_position,,TYR459A,A,459,,missing,unmapped,
+A,460,,D,ASP,-0.557,9,e,f,140/150,"D 88%, R  2%, T  2%, E  1%, A  1%, N  1%, Q <1%, G <1%, L <1%, K <1%",460,,alignment_position,,ASP460A,A,460,,missing,unmapped,
+A,461,,N,ASN,-0.345,7,e,,139/150,"N 56%, S 20%, I  4%, T  2%, A  2%, C  2%, D  2%, V  2%, L  1%, H  1%, R  1%, Q  1%, P <1%, G <1%",461,,alignment_position,,ASN461A,A,461,,missing,unmapped,
+A,462,,L,LEU,-0.21,6,b,,138/150,"L 70%, M  5%, P  4%, R  4%, I  3%, V  2%, F  2%, A  2%, T  1%, K <1%, D <1%, G <1%, Y <1%",462,,alignment_position,,LEU462A,A,462,,missing,unmapped,
+A,463,,R,ARG,-0.118,6,e,,138/150,"R 44%, L 12%, V  9%, T  7%, K  6%, S  5%, A  4%, G  2%, P  2%, N  1%, I  1%, M  1%, E <1%",463,,alignment_position,,ARG463A,A,463,,missing,unmapped,
+A,464,,H,HIS,-0.142,6,e,,136/150,"H 60%, G  8%, P  5%, E  4%, N  3%, L  2%, Y  2%, Q  2%, A  2%, V  2%, S  1%, T  1%, F <1%, R <1%, D <1%",464,,alignment_position,,HIS464A,A,464,,missing,unmapped,
+A,465,,F,PHE,0.148,5,e,,134/150,"F 38%, T  9%, S  8%, A  6%, C  5%, N  5%, G  4%, H  3%, P  3%, Q  3%, L  2%, M  2%, V  2%, K <1%, D <1%, E <1%, R <1%",465,,alignment_position,,PHE465A,A,465,,missing,unmapped,
+A,466,,A,ALA,0.016,5,e,,135/150,"A 25%, T 20%, S 17%, V  8%, G  5%, R  5%, P  3%, E  3%, D  2%, N  2%, Q  1%, C  1%, M <1%, L <1%, H <1%",466,,alignment_position,,ALA466A,A,466,,missing,unmapped,
+A,467,,K,LYS,0.067,5,e,,138/150,"K 40%, R  7%, N  7%, T  7%, Q  6%, S  6%, H  5%, D  5%, E  2%, P  2%, G  2%, C  2%, A  1%, I <1%, V <1%",467,,alignment_position,,LYS467A,A,467,,missing,unmapped,
+A,468,,K,LYS,-0.501,8,e,f,138/150,"K 81%, V  5%, R  3%, A  2%, T  2%, L  1%, P  1%, C <1%, I <1%",468,,alignment_position,,LYS468A,A,468,,missing,unmapped,
+A,469,,L,LEU,0.095,5,e,,138/150,"L 25%, I 18%, H 11%, K  9%, Q  7%, R  6%, V  5%, Y  4%, S  2%, F  2%, M  1%, N  1%, T  1%, P  1%, E <1%",469,,alignment_position,,LEU469A,A,469,,missing,unmapped,
+A,470,,D,ASP,-0.537,9,e,f,136/150,"D 82%, R  6%, S  3%, N  2%, A  2%, T <1%, P <1%",470,,alignment_position,,ASP470A,A,470,,missing,unmapped,
+A,471,,P,PRO,-0.51,8,e,f,135/150,"P 88%, Y  3%, L  2%, R  2%, H  1%, S <1%, A <1%",471,,alignment_position,,PRO471A,A,471,,missing,unmapped,
+A,472,,R,ARG,-0.532,9,e,f,132/150,"R 90%, V  3%, T  1%, A  1%, S  1%, K <1%, H <1%, I <1%",472,,alignment_position,,ARG472A,A,472,,missing,unmapped,
+A,473,,R,ARG,-0.217,6,e,,121/150,"R 68%, K 15%, Q  4%, Y  4%, M <1%, G <1%, L <1%, F <1%, I <1%, V <1%, T <1%, N <1%",473,,alignment_position,,ARG473A,A,473,,missing,unmapped,
+A,474,,E,GLU,0.049,5,e,,95/150,"E 27%, R 24%, Q 20%, T  5%, H  4%, P  3%, G  3%, K  3%, N  2%, A  2%, D  2%, I  1%, S  1%, V  1%",474,,alignment_position,,GLU474A,A,474,,missing,unmapped,
+A,475,,G,GLY,0.774,4,e,,85/150,"G 34%, S 14%, A 10%, I  7%, D  5%, R  5%, K  4%, V  4%, H  3%, T  3%, L  2%, E  1%, C  1%, Q  1%",475,,alignment_position,,GLY475A,A,475,,missing,unmapped,
+A,476,,G,GLY,0.222,5,e,,82/150,"G 52%, D 13%, A  9%, S  7%, N  4%, Y  2%, R  2%, L  1%, F  1%, K  1%, H  1%, C  1%, V  1%",476,,alignment_position,,GLY476A,A,476,,missing,unmapped,
+A,477,,D,ASP,0.015,5,e,,79/150,"D 58%, E 29%, H  2%, R  2%, P  1%, A  1%, K  1%, Q  1%, L  1%, S  1%",477,,alignment_position,,ASP477A,A,477,,missing,unmapped,
+A,478,,Q,GLN,0.312,5,e,,69/150,"Q 30%, D 27%, E 10%, V  5%, S  5%, L  4%, A  2%, K  2%, R  2%, G  2%, I  1%, N  1%, W  1%",478,,alignment_position,,GLN478A,A,478,,missing,unmapped,
+A,479,,R,ARG,-0.33,7,e,,59/150,"R 83%, Q  5%, H  3%, K  1%, E  1%, D  1%, P  1%, S  1%",479,,alignment_position,,ARG479A,A,479,,missing,unmapped,
+A,480,,H,HIS,-0.138,6,e,,36/150,"N 52%, H 13%, S 11%, G  5%, P  2%, Q  2%, R  2%, M  2%, C  2%, D  2%",480,,alignment_position,,HIS480A,A,480,,missing,unmapped,
+A,481,,S,SER,5.054,1,e,,16/150,"S 25%, L 12%, N 12%, T 12%, Q  6%, Y  6%, K  6%, R  6%, A  6%, E  6%",481,,alignment_position,,SER481A,A,481,,missing,unmapped,
+A,482,,F,PHE,2.813,2,e,,9/150,"F 44%, Y 22%, Q 22%, R 11%",482,,alignment_position,,PHE482A,A,482,,missing,unmapped,
+A,483,,G,GLY,-0.668,9,e,f,9/150,G,483,,alignment_position,,GLY483A,A,483,,missing,unmapped,
+A,484,,P,PRO,-0.257,7,e,,9/150,"P 77%, A 11%, L 11%",484,,alignment_position,,PRO484A,A,484,,missing,unmapped,
+A,485,,L,LEU,-0.447,8,b,,9/150,"L 88%, M 11%",485,,alignment_position,,LEU485A,A,485,,missing,unmapped,
+A,486,,D,ASP,-0.255,7,e,,9/150,"D 66%, R 22%, N 11%",486,,alignment_position,,ASP486A,A,486,,missing,unmapped,
+A,487,,Y,TYR,-0.105,6,b,,9/150,"Y 66%, F 22%, V 11%",487,,alignment_position,,TYR487A,A,487,,missing,unmapped,
+A,488,,E,GLU,-0.369,7,e,,9/150,"E 66%, S 22%, A 11%",488,,alignment_position,,GLU488A,A,488,,missing,unmapped,
+A,489,,S,SER,-0.425,8,e,f,9/150,"S 77%, H 11%, R 11%",489,,alignment_position,,SER489A,A,489,,missing,unmapped,
+A,490,,L,LEU,0.121,5,b,,8/150,"L 75%, S 12%, V 12%",490,,alignment_position,,LEU490A,A,490,,missing,unmapped,
+A,491,,Q,GLN,-0.226,7,e,,8/150,"Q 75%, K 12%, E 12%",491,,alignment_position,,GLN491A,A,491,,missing,unmapped,
+A,492,,Q,GLN,0.237,5,e,,8/150,"Q 75%, K 12%, D 12%",492,,alignment_position,,GLN492A,A,492,,missing,unmapped,
+A,493,,E,GLU,0.187,5,e,,8/150,"E 75%, M 12%, A 12%",493,,alignment_position,,GLU493A,A,493,,missing,unmapped,
+A,494,,L,LEU,-0.243,7,b,,8/150,"L 75%, V 12%, I 12%",494,,alignment_position,,LEU494A,A,494,,missing,unmapped,
+A,495,,A,ALA,-0.529,9,e,f,9/150,"A 77%, R 22%",495,,alignment_position,,ALA495A,A,495,,missing,unmapped,
+A,496,,L,LEU,-0.443,8,b,,9/150,"L 88%, V 11%",496,,alignment_position,,LEU496A,A,496,,missing,unmapped,
+A,497,,K,LYS,0.106,5,e,,9/150,"K 66%, R 11%, L 11%, V 11%",497,,alignment_position,,LYS497A,A,497,,missing,unmapped,
+A,498,,E,GLU,2.047,3,e,,8/150,"E 50%, D 25%, A 12%, H 12%",498,,alignment_position,,GLU498A,A,498,,missing,unmapped,
+A,499,,T,THR,0.236,5,e,,7/150,"T 71%, P 14%, E 14%",499,,alignment_position,,THR499A,A,499,,missing,unmapped,
+A,500,,V,VAL,0.065,5,b,,6/150,"V 83%, L 16%",500,,alignment_position,,VAL500A,A,500,,missing,unmapped,
+A,501,,W,TRP,-0.668,9,b,s,6/150,W,501,,alignment_position,,TRP501A,A,501,,missing,unmapped,
+A,502,,K,LYS,0.234,5,e,,6/150,"K 83%, T 16%",502,,alignment_position,,LYS502A,A,502,,missing,unmapped,
+A,503,,K,LYS,0.156,5,e,,6/150,"K 83%, Q 16%",503,,alignment_position,,LYS503A,A,503,,missing,unmapped,
+A,504,,V,VAL,-0.668,9,b,s,6/150,V,504,,alignment_position,,VAL504A,A,504,,missing,unmapped,
+A,505,,S,SER,-0.668,9,e,f,6/150,S,505,,alignment_position,,SER505A,A,505,,missing,unmapped,
+A,506,,P,PRO,0.36,5,e,,6/150,"P 83%, A 16%",506,,alignment_position,,PRO506A,A,506,,missing,unmapped,
+A,507,,E,GLU,-0.668,9,e,f,6/150,E,507,,alignment_position,,GLU507A,A,507,,missing,unmapped,
+A,508,,S,SER,0.615,4,e,,6/150,"S 66%, A 16%, C 16%",508,,alignment_position,,SER508A,A,508,,missing,unmapped,
+A,509,,N,ASN,-0.073,5,e,,6/150,"N 83%, H 16%",509,,alignment_position,,ASN509A,A,509,,missing,unmapped,
+A,510,,E,GLU,0.162,5,e,,6/150,"E 83%, Q 16%",510,,alignment_position,,GLU510A,A,510,,missing,unmapped,
+A,511,,D,ASP,-0.668,9,e,f,6/150,D,511,,alignment_position,,ASP511A,A,511,,missing,unmapped,
+A,512,,I,ILE,4.37,1,b,,6/150,"I 33%, S 33%, V 16%, T 16%",512,,alignment_position,,ILE512A,A,512,,missing,unmapped,
+A,513,,S,SER,-0.668,9,b,s,6/150,S,513,,alignment_position,,SER513A,A,513,,missing,unmapped,
+A,514,,T,THR,-0.668,9,b,s,6/150,T,514,,alignment_position,,THR514A,A,514,,missing,unmapped,
+A,515,,T,THR,-0.668,9,b,s,6/150,T,515,,alignment_position,,THR515A,A,515,,missing,unmapped,
+A,516,,V,VAL,-0.068,5,b,,6/150,"V 83%, I 16%",516,,alignment_position,,VAL516A,A,516,,missing,unmapped,
+A,517,,V,VAL,-0.668,9,b,s,6/150,V,517,,alignment_position,,VAL517A,A,517,,missing,unmapped,
+A,518,,Y,TYR,-0.668,9,b,s,6/150,Y,518,,alignment_position,,TYR518A,A,518,,missing,unmapped,
+A,519,,R,ARG,-0.668,9,e,f,6/150,R,519,,alignment_position,,ARG519A,A,519,,missing,unmapped,
+A,520,,M,MET,-0.668,9,b,s,6/150,M,520,,alignment_position,,MET520A,A,520,,missing,unmapped,
+A,521,,E,GLU,0.195,5,e,,6/150,"E 83%, D 16%",521,,alignment_position,,GLU521A,A,521,,missing,unmapped,
+A,522,,S,SER,0.592,4,e,,6/150,"S 50%, N 33%, G 16%",522,,alignment_position,,SER522A,A,522,,missing,unmapped,
+A,523,,L,LEU,2.536,3,e,,6/150,"L 50%, V 33%, R 16%",523,,alignment_position,,LEU523A,A,523,,missing,unmapped,
+A,524,,G,GLY,0.441,5,e,,6/150,"G 83%, S 16%",524,,alignment_position,,GLY524A,A,524,,missing,unmapped,
+A,525,,E,GLU,0.532,5,e,,5/150,"E 80%, D 20%",525,,alignment_position,,GLU525A,A,525,,missing,unmapped,
+A,526,,K,LYS,2.914,2,e,,3/150,"K 66%, R 33%",526,,alignment_position,,LYS526A,A,526,,missing,unmapped,
+A,527,,S,SER,-0.668,9,e,f,2/150,S,527,,alignment_position,,SER527A,A,527,,missing,unmapped,

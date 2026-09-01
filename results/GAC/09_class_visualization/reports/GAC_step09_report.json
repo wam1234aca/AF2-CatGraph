@@ -1,0 +1,21 @@
+{
+  "target_id": "GAC",
+  "status": "completed",
+  "output_dir": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/09_class_visualization",
+  "input_step09_dir": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/08_chemical_equivalence",
+  "input_step06_dir": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs",
+  "n_classes": 13,
+  "class_numbering_source": "Step09 sequential merged_class labels",
+  "n_candidate_classes": 4,
+  "n_fallback_reconstructed_inputs": 0,
+  "figures": {
+    "class_panels_dir": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/09_class_visualization/figures/class_panels",
+    "class_grid_svg": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/09_class_visualization/figures/GAC_step09_class_grid.svg",
+    "class_grid_png": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/09_class_visualization/figures/GAC_step09_class_grid.png"
+  },
+  "tables": {
+    "class_visual_summary": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/09_class_visualization/tables/GAC_step09_class_visual_summary.csv",
+    "topology_integrity_audit": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/09_class_visualization/tables/GAC_step09_topology_integrity_audit.csv",
+    "candidate_export_summary": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/09_class_visualization/tables/GAC_step09_candidate_export_summary.csv"
+  }
+}

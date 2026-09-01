@@ -1,0 +1,10 @@
+PTP1B_29_complex
+PTP1B_148_complex
+PTP1B_172_complex
+PTP1B_185_complex
+PTP1B_195_complex
+PTP1B_229_complex
+PTP1B_267_complex
+PTP1B_274_complex
+PTP1B_291_complex
+PTP1B_315_complex

@@ -1,0 +1,11 @@
+graph_file,graph_id,reason
+/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/ged_input_files/GAC_107_final.txt,GAC_107,not_passed_step07
+/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/ged_input_files/GAC_169_final.txt,GAC_169,not_passed_step07
+/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/ged_input_files/GAC_213_final.txt,GAC_213,not_passed_step07
+/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/ged_input_files/GAC_23_final.txt,GAC_23,not_passed_step07
+/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/ged_input_files/GAC_240_final.txt,GAC_240,not_passed_step07
+/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/ged_input_files/GAC_252_final.txt,GAC_252,not_passed_step07
+/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/ged_input_files/GAC_255_final.txt,GAC_255,not_passed_step07
+/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/ged_input_files/GAC_44_final.txt,GAC_44,not_passed_step07
+/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/ged_input_files/GAC_56_final.txt,GAC_56,not_passed_step07
+/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/ged_input_files/GAC_84_final.txt,GAC_84,not_passed_step07

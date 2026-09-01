@@ -1,0 +1,1342 @@
+representative_graph	query_graph	representative_id	query_id	representative_edge_count	query_edge_count	same_edge_count	ged	threshold	assigned_to_current_class	class
+GAC_1_final.txt	GAC_3_final.txt	GAC_1	GAC_3	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_4_final.txt	GAC_1	GAC_4	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_6_final.txt	GAC_1	GAC_6	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_14_final.txt	GAC_1	GAC_14	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_17_final.txt	GAC_1	GAC_17	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_36_final.txt	GAC_1	GAC_36	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_38_final.txt	GAC_1	GAC_38	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_60_final.txt	GAC_1	GAC_60	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_112_final.txt	GAC_1	GAC_112	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_103_final.txt	GAC_1	GAC_103	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_105_final.txt	GAC_1	GAC_105	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_117_final.txt	GAC_1	GAC_117	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_128_final.txt	GAC_1	GAC_128	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_129_final.txt	GAC_1	GAC_129	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_139_final.txt	GAC_1	GAC_139	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_171_final.txt	GAC_1	GAC_171	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_179_final.txt	GAC_1	GAC_179	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_205_final.txt	GAC_1	GAC_205	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_181_final.txt	GAC_1	GAC_181	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_237_final.txt	GAC_1	GAC_237	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_253_final.txt	GAC_1	GAC_253	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_254_final.txt	GAC_1	GAC_254	21	20	False	inf	1.0	False	
+GAC_1_final.txt	GAC_2_final.txt	GAC_1	GAC_2	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_5_final.txt	GAC_1	GAC_5	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_10_final.txt	GAC_1	GAC_10	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_7_final.txt	GAC_1	GAC_7	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_8_final.txt	GAC_1	GAC_8	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_11_final.txt	GAC_1	GAC_11	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_12_final.txt	GAC_1	GAC_12	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_15_final.txt	GAC_1	GAC_15	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_16_final.txt	GAC_1	GAC_16	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_18_final.txt	GAC_1	GAC_18	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_19_final.txt	GAC_1	GAC_19	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_21_final.txt	GAC_1	GAC_21	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_20_final.txt	GAC_1	GAC_20	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_22_final.txt	GAC_1	GAC_22	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_24_final.txt	GAC_1	GAC_24	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_25_final.txt	GAC_1	GAC_25	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_26_final.txt	GAC_1	GAC_26	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_27_final.txt	GAC_1	GAC_27	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_28_final.txt	GAC_1	GAC_28	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_29_final.txt	GAC_1	GAC_29	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_31_final.txt	GAC_1	GAC_31	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_32_final.txt	GAC_1	GAC_32	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_33_final.txt	GAC_1	GAC_33	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_34_final.txt	GAC_1	GAC_34	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_35_final.txt	GAC_1	GAC_35	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_37_final.txt	GAC_1	GAC_37	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_41_final.txt	GAC_1	GAC_41	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_40_final.txt	GAC_1	GAC_40	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_39_final.txt	GAC_1	GAC_39	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_42_final.txt	GAC_1	GAC_42	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_45_final.txt	GAC_1	GAC_45	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_46_final.txt	GAC_1	GAC_46	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_47_final.txt	GAC_1	GAC_47	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_48_final.txt	GAC_1	GAC_48	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_49_final.txt	GAC_1	GAC_49	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_51_final.txt	GAC_1	GAC_51	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_50_final.txt	GAC_1	GAC_50	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_52_final.txt	GAC_1	GAC_52	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_53_final.txt	GAC_1	GAC_53	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_54_final.txt	GAC_1	GAC_54	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_55_final.txt	GAC_1	GAC_55	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_57_final.txt	GAC_1	GAC_57	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_58_final.txt	GAC_1	GAC_58	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_62_final.txt	GAC_1	GAC_62	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_61_final.txt	GAC_1	GAC_61	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_63_final.txt	GAC_1	GAC_63	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_65_final.txt	GAC_1	GAC_65	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_66_final.txt	GAC_1	GAC_66	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_67_final.txt	GAC_1	GAC_67	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_69_final.txt	GAC_1	GAC_69	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_70_final.txt	GAC_1	GAC_70	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_71_final.txt	GAC_1	GAC_71	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_72_final.txt	GAC_1	GAC_72	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_73_final.txt	GAC_1	GAC_73	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_74_final.txt	GAC_1	GAC_74	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_75_final.txt	GAC_1	GAC_75	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_76_final.txt	GAC_1	GAC_76	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_77_final.txt	GAC_1	GAC_77	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_80_final.txt	GAC_1	GAC_80	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_78_final.txt	GAC_1	GAC_78	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_79_final.txt	GAC_1	GAC_79	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_81_final.txt	GAC_1	GAC_81	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_87_final.txt	GAC_1	GAC_87	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_88_final.txt	GAC_1	GAC_88	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_89_final.txt	GAC_1	GAC_89	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_91_final.txt	GAC_1	GAC_91	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_93_final.txt	GAC_1	GAC_93	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_92_final.txt	GAC_1	GAC_92	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_94_final.txt	GAC_1	GAC_94	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_97_final.txt	GAC_1	GAC_97	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_98_final.txt	GAC_1	GAC_98	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_99_final.txt	GAC_1	GAC_99	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_100_final.txt	GAC_1	GAC_100	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_101_final.txt	GAC_1	GAC_101	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_104_final.txt	GAC_1	GAC_104	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_102_final.txt	GAC_1	GAC_102	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_106_final.txt	GAC_1	GAC_106	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_108_final.txt	GAC_1	GAC_108	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_109_final.txt	GAC_1	GAC_109	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_111_final.txt	GAC_1	GAC_111	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_113_final.txt	GAC_1	GAC_113	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_114_final.txt	GAC_1	GAC_114	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_116_final.txt	GAC_1	GAC_116	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_118_final.txt	GAC_1	GAC_118	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_119_final.txt	GAC_1	GAC_119	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_120_final.txt	GAC_1	GAC_120	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_123_final.txt	GAC_1	GAC_123	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_124_final.txt	GAC_1	GAC_124	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_130_final.txt	GAC_1	GAC_130	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_131_final.txt	GAC_1	GAC_131	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_132_final.txt	GAC_1	GAC_132	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_133_final.txt	GAC_1	GAC_133	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_134_final.txt	GAC_1	GAC_134	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_135_final.txt	GAC_1	GAC_135	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_137_final.txt	GAC_1	GAC_137	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_144_final.txt	GAC_1	GAC_144	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_145_final.txt	GAC_1	GAC_145	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_147_final.txt	GAC_1	GAC_147	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_151_final.txt	GAC_1	GAC_151	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_149_final.txt	GAC_1	GAC_149	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_150_final.txt	GAC_1	GAC_150	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_152_final.txt	GAC_1	GAC_152	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_153_final.txt	GAC_1	GAC_153	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_154_final.txt	GAC_1	GAC_154	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_155_final.txt	GAC_1	GAC_155	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_156_final.txt	GAC_1	GAC_156	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_164_final.txt	GAC_1	GAC_164	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_159_final.txt	GAC_1	GAC_159	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_163_final.txt	GAC_1	GAC_163	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_166_final.txt	GAC_1	GAC_166	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_167_final.txt	GAC_1	GAC_167	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_168_final.txt	GAC_1	GAC_168	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_170_final.txt	GAC_1	GAC_170	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_172_final.txt	GAC_1	GAC_172	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_174_final.txt	GAC_1	GAC_174	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_182_final.txt	GAC_1	GAC_182	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_175_final.txt	GAC_1	GAC_175	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_183_final.txt	GAC_1	GAC_183	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_187_final.txt	GAC_1	GAC_187	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_189_final.txt	GAC_1	GAC_189	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_190_final.txt	GAC_1	GAC_190	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_191_final.txt	GAC_1	GAC_191	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_193_final.txt	GAC_1	GAC_193	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_195_final.txt	GAC_1	GAC_195	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_192_final.txt	GAC_1	GAC_192	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_199_final.txt	GAC_1	GAC_199	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_200_final.txt	GAC_1	GAC_200	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_201_final.txt	GAC_1	GAC_201	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_204_final.txt	GAC_1	GAC_204	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_206_final.txt	GAC_1	GAC_206	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_208_final.txt	GAC_1	GAC_208	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_209_final.txt	GAC_1	GAC_209	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_207_final.txt	GAC_1	GAC_207	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_210_final.txt	GAC_1	GAC_210	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_211_final.txt	GAC_1	GAC_211	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_212_final.txt	GAC_1	GAC_212	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_214_final.txt	GAC_1	GAC_214	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_215_final.txt	GAC_1	GAC_215	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_218_final.txt	GAC_1	GAC_218	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_219_final.txt	GAC_1	GAC_219	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_217_final.txt	GAC_1	GAC_217	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_220_final.txt	GAC_1	GAC_220	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_221_final.txt	GAC_1	GAC_221	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_222_final.txt	GAC_1	GAC_222	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_223_final.txt	GAC_1	GAC_223	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_227_final.txt	GAC_1	GAC_227	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_233_final.txt	GAC_1	GAC_233	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_228_final.txt	GAC_1	GAC_228	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_234_final.txt	GAC_1	GAC_234	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_236_final.txt	GAC_1	GAC_236	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_239_final.txt	GAC_1	GAC_239	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_242_final.txt	GAC_1	GAC_242	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_246_final.txt	GAC_1	GAC_246	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_258_final.txt	GAC_1	GAC_258	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_13_final.txt	GAC_1	GAC_13	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_260_final.txt	GAC_1	GAC_260	21	19	False	inf	1.0	False	
+GAC_1_final.txt	GAC_9_final.txt	GAC_1	GAC_9	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_59_final.txt	GAC_1	GAC_59	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_64_final.txt	GAC_1	GAC_64	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_68_final.txt	GAC_1	GAC_68	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_82_final.txt	GAC_1	GAC_82	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_85_final.txt	GAC_1	GAC_85	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_86_final.txt	GAC_1	GAC_86	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_95_final.txt	GAC_1	GAC_95	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_110_final.txt	GAC_1	GAC_110	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_121_final.txt	GAC_1	GAC_121	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_136_final.txt	GAC_1	GAC_136	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_141_final.txt	GAC_1	GAC_141	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_142_final.txt	GAC_1	GAC_142	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_146_final.txt	GAC_1	GAC_146	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_148_final.txt	GAC_1	GAC_148	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_162_final.txt	GAC_1	GAC_162	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_178_final.txt	GAC_1	GAC_178	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_184_final.txt	GAC_1	GAC_184	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_186_final.txt	GAC_1	GAC_186	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_194_final.txt	GAC_1	GAC_194	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_197_final.txt	GAC_1	GAC_197	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_202_final.txt	GAC_1	GAC_202	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_224_final.txt	GAC_1	GAC_224	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_225_final.txt	GAC_1	GAC_225	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_226_final.txt	GAC_1	GAC_226	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_229_final.txt	GAC_1	GAC_229	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_238_final.txt	GAC_1	GAC_238	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_244_final.txt	GAC_1	GAC_244	21	18	False	inf	1.0	False	
+GAC_1_final.txt	GAC_247_final.txt	GAC_1	GAC_247	21	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_4_final.txt	GAC_3	GAC_4	20	20	True	2	1.0	False	
+GAC_3_final.txt	GAC_6_final.txt	GAC_3	GAC_6	20	20	True	0	1.0	True	class_2
+GAC_3_final.txt	GAC_17_final.txt	GAC_3	GAC_17	20	20	True	0	1.0	True	class_2
+GAC_3_final.txt	GAC_14_final.txt	GAC_3	GAC_14	20	20	True	0	1.0	True	class_2
+GAC_3_final.txt	GAC_36_final.txt	GAC_3	GAC_36	20	20	True	0	1.0	True	class_2
+GAC_3_final.txt	GAC_38_final.txt	GAC_3	GAC_38	20	20	True	0	1.0	True	class_2
+GAC_3_final.txt	GAC_60_final.txt	GAC_3	GAC_60	20	20	True	2	1.0	False	
+GAC_3_final.txt	GAC_103_final.txt	GAC_3	GAC_103	20	20	True	0	1.0	True	class_2
+GAC_3_final.txt	GAC_112_final.txt	GAC_3	GAC_112	20	20	True	0	1.0	True	class_2
+GAC_3_final.txt	GAC_105_final.txt	GAC_3	GAC_105	20	20	True	2	1.0	False	
+GAC_3_final.txt	GAC_117_final.txt	GAC_3	GAC_117	20	20	True	0	1.0	True	class_2
+GAC_3_final.txt	GAC_128_final.txt	GAC_3	GAC_128	20	20	True	2	1.0	False	
+GAC_3_final.txt	GAC_129_final.txt	GAC_3	GAC_129	20	20	True	2	1.0	False	
+GAC_3_final.txt	GAC_139_final.txt	GAC_3	GAC_139	20	20	True	0	1.0	True	class_2
+GAC_3_final.txt	GAC_171_final.txt	GAC_3	GAC_171	20	20	True	2	1.0	False	
+GAC_3_final.txt	GAC_179_final.txt	GAC_3	GAC_179	20	20	True	2	1.0	False	
+GAC_3_final.txt	GAC_205_final.txt	GAC_3	GAC_205	20	20	True	2	1.0	False	
+GAC_3_final.txt	GAC_181_final.txt	GAC_3	GAC_181	20	20	True	4	1.0	False	
+GAC_3_final.txt	GAC_237_final.txt	GAC_3	GAC_237	20	20	True	0	1.0	True	class_2
+GAC_3_final.txt	GAC_253_final.txt	GAC_3	GAC_253	20	20	True	2	1.0	False	
+GAC_3_final.txt	GAC_2_final.txt	GAC_3	GAC_2	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_5_final.txt	GAC_3	GAC_5	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_7_final.txt	GAC_3	GAC_7	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_254_final.txt	GAC_3	GAC_254	20	20	True	2	1.0	False	
+GAC_3_final.txt	GAC_8_final.txt	GAC_3	GAC_8	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_11_final.txt	GAC_3	GAC_11	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_10_final.txt	GAC_3	GAC_10	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_12_final.txt	GAC_3	GAC_12	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_15_final.txt	GAC_3	GAC_15	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_16_final.txt	GAC_3	GAC_16	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_18_final.txt	GAC_3	GAC_18	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_19_final.txt	GAC_3	GAC_19	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_22_final.txt	GAC_3	GAC_22	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_21_final.txt	GAC_3	GAC_21	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_20_final.txt	GAC_3	GAC_20	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_24_final.txt	GAC_3	GAC_24	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_25_final.txt	GAC_3	GAC_25	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_26_final.txt	GAC_3	GAC_26	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_27_final.txt	GAC_3	GAC_27	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_28_final.txt	GAC_3	GAC_28	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_29_final.txt	GAC_3	GAC_29	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_32_final.txt	GAC_3	GAC_32	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_31_final.txt	GAC_3	GAC_31	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_33_final.txt	GAC_3	GAC_33	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_34_final.txt	GAC_3	GAC_34	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_35_final.txt	GAC_3	GAC_35	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_37_final.txt	GAC_3	GAC_37	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_39_final.txt	GAC_3	GAC_39	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_42_final.txt	GAC_3	GAC_42	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_40_final.txt	GAC_3	GAC_40	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_41_final.txt	GAC_3	GAC_41	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_45_final.txt	GAC_3	GAC_45	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_46_final.txt	GAC_3	GAC_46	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_47_final.txt	GAC_3	GAC_47	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_48_final.txt	GAC_3	GAC_48	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_49_final.txt	GAC_3	GAC_49	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_52_final.txt	GAC_3	GAC_52	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_50_final.txt	GAC_3	GAC_50	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_51_final.txt	GAC_3	GAC_51	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_53_final.txt	GAC_3	GAC_53	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_54_final.txt	GAC_3	GAC_54	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_55_final.txt	GAC_3	GAC_55	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_57_final.txt	GAC_3	GAC_57	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_58_final.txt	GAC_3	GAC_58	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_61_final.txt	GAC_3	GAC_61	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_62_final.txt	GAC_3	GAC_62	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_63_final.txt	GAC_3	GAC_63	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_65_final.txt	GAC_3	GAC_65	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_66_final.txt	GAC_3	GAC_66	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_67_final.txt	GAC_3	GAC_67	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_69_final.txt	GAC_3	GAC_69	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_70_final.txt	GAC_3	GAC_70	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_73_final.txt	GAC_3	GAC_73	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_71_final.txt	GAC_3	GAC_71	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_72_final.txt	GAC_3	GAC_72	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_74_final.txt	GAC_3	GAC_74	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_75_final.txt	GAC_3	GAC_75	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_76_final.txt	GAC_3	GAC_76	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_77_final.txt	GAC_3	GAC_77	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_78_final.txt	GAC_3	GAC_78	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_81_final.txt	GAC_3	GAC_81	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_79_final.txt	GAC_3	GAC_79	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_80_final.txt	GAC_3	GAC_80	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_87_final.txt	GAC_3	GAC_87	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_88_final.txt	GAC_3	GAC_88	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_89_final.txt	GAC_3	GAC_89	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_91_final.txt	GAC_3	GAC_91	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_92_final.txt	GAC_3	GAC_92	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_93_final.txt	GAC_3	GAC_93	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_97_final.txt	GAC_3	GAC_97	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_94_final.txt	GAC_3	GAC_94	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_98_final.txt	GAC_3	GAC_98	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_99_final.txt	GAC_3	GAC_99	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_100_final.txt	GAC_3	GAC_100	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_101_final.txt	GAC_3	GAC_101	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_102_final.txt	GAC_3	GAC_102	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_106_final.txt	GAC_3	GAC_106	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_104_final.txt	GAC_3	GAC_104	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_108_final.txt	GAC_3	GAC_108	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_109_final.txt	GAC_3	GAC_109	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_111_final.txt	GAC_3	GAC_111	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_113_final.txt	GAC_3	GAC_113	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_114_final.txt	GAC_3	GAC_114	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_116_final.txt	GAC_3	GAC_116	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_118_final.txt	GAC_3	GAC_118	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_119_final.txt	GAC_3	GAC_119	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_120_final.txt	GAC_3	GAC_120	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_123_final.txt	GAC_3	GAC_123	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_124_final.txt	GAC_3	GAC_124	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_130_final.txt	GAC_3	GAC_130	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_131_final.txt	GAC_3	GAC_131	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_132_final.txt	GAC_3	GAC_132	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_133_final.txt	GAC_3	GAC_133	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_134_final.txt	GAC_3	GAC_134	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_135_final.txt	GAC_3	GAC_135	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_137_final.txt	GAC_3	GAC_137	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_144_final.txt	GAC_3	GAC_144	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_145_final.txt	GAC_3	GAC_145	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_147_final.txt	GAC_3	GAC_147	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_149_final.txt	GAC_3	GAC_149	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_151_final.txt	GAC_3	GAC_151	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_152_final.txt	GAC_3	GAC_152	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_150_final.txt	GAC_3	GAC_150	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_153_final.txt	GAC_3	GAC_153	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_154_final.txt	GAC_3	GAC_154	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_155_final.txt	GAC_3	GAC_155	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_156_final.txt	GAC_3	GAC_156	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_159_final.txt	GAC_3	GAC_159	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_163_final.txt	GAC_3	GAC_163	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_164_final.txt	GAC_3	GAC_164	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_166_final.txt	GAC_3	GAC_166	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_167_final.txt	GAC_3	GAC_167	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_168_final.txt	GAC_3	GAC_168	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_170_final.txt	GAC_3	GAC_170	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_172_final.txt	GAC_3	GAC_172	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_174_final.txt	GAC_3	GAC_174	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_175_final.txt	GAC_3	GAC_175	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_182_final.txt	GAC_3	GAC_182	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_183_final.txt	GAC_3	GAC_183	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_187_final.txt	GAC_3	GAC_187	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_189_final.txt	GAC_3	GAC_189	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_190_final.txt	GAC_3	GAC_190	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_191_final.txt	GAC_3	GAC_191	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_192_final.txt	GAC_3	GAC_192	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_199_final.txt	GAC_3	GAC_199	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_193_final.txt	GAC_3	GAC_193	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_195_final.txt	GAC_3	GAC_195	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_200_final.txt	GAC_3	GAC_200	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_201_final.txt	GAC_3	GAC_201	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_204_final.txt	GAC_3	GAC_204	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_206_final.txt	GAC_3	GAC_206	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_207_final.txt	GAC_3	GAC_207	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_209_final.txt	GAC_3	GAC_209	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_208_final.txt	GAC_3	GAC_208	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_210_final.txt	GAC_3	GAC_210	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_211_final.txt	GAC_3	GAC_211	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_212_final.txt	GAC_3	GAC_212	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_214_final.txt	GAC_3	GAC_214	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_215_final.txt	GAC_3	GAC_215	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_217_final.txt	GAC_3	GAC_217	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_219_final.txt	GAC_3	GAC_219	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_218_final.txt	GAC_3	GAC_218	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_220_final.txt	GAC_3	GAC_220	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_221_final.txt	GAC_3	GAC_221	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_222_final.txt	GAC_3	GAC_222	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_223_final.txt	GAC_3	GAC_223	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_227_final.txt	GAC_3	GAC_227	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_228_final.txt	GAC_3	GAC_228	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_234_final.txt	GAC_3	GAC_234	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_236_final.txt	GAC_3	GAC_236	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_233_final.txt	GAC_3	GAC_233	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_239_final.txt	GAC_3	GAC_239	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_242_final.txt	GAC_3	GAC_242	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_246_final.txt	GAC_3	GAC_246	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_258_final.txt	GAC_3	GAC_258	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_260_final.txt	GAC_3	GAC_260	20	19	False	inf	1.0	False	
+GAC_3_final.txt	GAC_9_final.txt	GAC_3	GAC_9	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_59_final.txt	GAC_3	GAC_59	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_13_final.txt	GAC_3	GAC_13	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_64_final.txt	GAC_3	GAC_64	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_68_final.txt	GAC_3	GAC_68	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_82_final.txt	GAC_3	GAC_82	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_85_final.txt	GAC_3	GAC_85	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_86_final.txt	GAC_3	GAC_86	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_95_final.txt	GAC_3	GAC_95	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_110_final.txt	GAC_3	GAC_110	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_121_final.txt	GAC_3	GAC_121	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_136_final.txt	GAC_3	GAC_136	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_141_final.txt	GAC_3	GAC_141	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_142_final.txt	GAC_3	GAC_142	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_146_final.txt	GAC_3	GAC_146	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_148_final.txt	GAC_3	GAC_148	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_178_final.txt	GAC_3	GAC_178	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_162_final.txt	GAC_3	GAC_162	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_184_final.txt	GAC_3	GAC_184	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_186_final.txt	GAC_3	GAC_186	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_194_final.txt	GAC_3	GAC_194	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_197_final.txt	GAC_3	GAC_197	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_202_final.txt	GAC_3	GAC_202	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_224_final.txt	GAC_3	GAC_224	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_225_final.txt	GAC_3	GAC_225	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_229_final.txt	GAC_3	GAC_229	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_226_final.txt	GAC_3	GAC_226	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_238_final.txt	GAC_3	GAC_238	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_244_final.txt	GAC_3	GAC_244	20	18	False	inf	1.0	False	
+GAC_3_final.txt	GAC_247_final.txt	GAC_3	GAC_247	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_60_final.txt	GAC_4	GAC_60	20	20	True	0	1.0	True	class_3
+GAC_4_final.txt	GAC_105_final.txt	GAC_4	GAC_105	20	20	True	2	1.0	False	
+GAC_4_final.txt	GAC_128_final.txt	GAC_4	GAC_128	20	20	True	2	1.0	False	
+GAC_4_final.txt	GAC_129_final.txt	GAC_4	GAC_129	20	20	True	2	1.0	False	
+GAC_4_final.txt	GAC_171_final.txt	GAC_4	GAC_171	20	20	True	2	1.0	False	
+GAC_4_final.txt	GAC_179_final.txt	GAC_4	GAC_179	20	20	True	2	1.0	False	
+GAC_4_final.txt	GAC_181_final.txt	GAC_4	GAC_181	20	20	True	2	1.0	False	
+GAC_4_final.txt	GAC_205_final.txt	GAC_4	GAC_205	20	20	True	0	1.0	True	class_3
+GAC_4_final.txt	GAC_254_final.txt	GAC_4	GAC_254	20	20	True	2	1.0	False	
+GAC_4_final.txt	GAC_2_final.txt	GAC_4	GAC_2	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_5_final.txt	GAC_4	GAC_5	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_7_final.txt	GAC_4	GAC_7	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_8_final.txt	GAC_4	GAC_8	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_10_final.txt	GAC_4	GAC_10	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_11_final.txt	GAC_4	GAC_11	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_253_final.txt	GAC_4	GAC_253	20	20	True	0	1.0	True	class_3
+GAC_4_final.txt	GAC_12_final.txt	GAC_4	GAC_12	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_15_final.txt	GAC_4	GAC_15	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_16_final.txt	GAC_4	GAC_16	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_18_final.txt	GAC_4	GAC_18	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_19_final.txt	GAC_4	GAC_19	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_20_final.txt	GAC_4	GAC_20	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_21_final.txt	GAC_4	GAC_21	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_22_final.txt	GAC_4	GAC_22	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_24_final.txt	GAC_4	GAC_24	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_26_final.txt	GAC_4	GAC_26	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_25_final.txt	GAC_4	GAC_25	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_27_final.txt	GAC_4	GAC_27	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_28_final.txt	GAC_4	GAC_28	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_29_final.txt	GAC_4	GAC_29	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_31_final.txt	GAC_4	GAC_31	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_32_final.txt	GAC_4	GAC_32	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_33_final.txt	GAC_4	GAC_33	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_35_final.txt	GAC_4	GAC_35	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_34_final.txt	GAC_4	GAC_34	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_37_final.txt	GAC_4	GAC_37	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_39_final.txt	GAC_4	GAC_39	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_40_final.txt	GAC_4	GAC_40	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_41_final.txt	GAC_4	GAC_41	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_42_final.txt	GAC_4	GAC_42	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_46_final.txt	GAC_4	GAC_46	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_45_final.txt	GAC_4	GAC_45	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_47_final.txt	GAC_4	GAC_47	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_48_final.txt	GAC_4	GAC_48	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_49_final.txt	GAC_4	GAC_49	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_50_final.txt	GAC_4	GAC_50	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_51_final.txt	GAC_4	GAC_51	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_52_final.txt	GAC_4	GAC_52	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_53_final.txt	GAC_4	GAC_53	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_54_final.txt	GAC_4	GAC_54	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_55_final.txt	GAC_4	GAC_55	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_57_final.txt	GAC_4	GAC_57	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_58_final.txt	GAC_4	GAC_58	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_61_final.txt	GAC_4	GAC_61	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_62_final.txt	GAC_4	GAC_62	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_63_final.txt	GAC_4	GAC_63	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_66_final.txt	GAC_4	GAC_66	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_65_final.txt	GAC_4	GAC_65	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_67_final.txt	GAC_4	GAC_67	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_69_final.txt	GAC_4	GAC_69	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_70_final.txt	GAC_4	GAC_70	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_71_final.txt	GAC_4	GAC_71	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_72_final.txt	GAC_4	GAC_72	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_73_final.txt	GAC_4	GAC_73	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_74_final.txt	GAC_4	GAC_74	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_76_final.txt	GAC_4	GAC_76	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_75_final.txt	GAC_4	GAC_75	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_77_final.txt	GAC_4	GAC_77	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_78_final.txt	GAC_4	GAC_78	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_79_final.txt	GAC_4	GAC_79	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_80_final.txt	GAC_4	GAC_80	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_81_final.txt	GAC_4	GAC_81	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_87_final.txt	GAC_4	GAC_87	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_89_final.txt	GAC_4	GAC_89	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_88_final.txt	GAC_4	GAC_88	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_91_final.txt	GAC_4	GAC_91	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_92_final.txt	GAC_4	GAC_92	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_93_final.txt	GAC_4	GAC_93	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_94_final.txt	GAC_4	GAC_94	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_97_final.txt	GAC_4	GAC_97	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_100_final.txt	GAC_4	GAC_100	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_98_final.txt	GAC_4	GAC_98	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_99_final.txt	GAC_4	GAC_99	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_101_final.txt	GAC_4	GAC_101	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_102_final.txt	GAC_4	GAC_102	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_104_final.txt	GAC_4	GAC_104	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_106_final.txt	GAC_4	GAC_106	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_108_final.txt	GAC_4	GAC_108	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_109_final.txt	GAC_4	GAC_109	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_111_final.txt	GAC_4	GAC_111	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_113_final.txt	GAC_4	GAC_113	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_114_final.txt	GAC_4	GAC_114	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_116_final.txt	GAC_4	GAC_116	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_118_final.txt	GAC_4	GAC_118	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_119_final.txt	GAC_4	GAC_119	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_120_final.txt	GAC_4	GAC_120	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_123_final.txt	GAC_4	GAC_123	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_130_final.txt	GAC_4	GAC_130	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_124_final.txt	GAC_4	GAC_124	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_131_final.txt	GAC_4	GAC_131	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_132_final.txt	GAC_4	GAC_132	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_133_final.txt	GAC_4	GAC_133	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_134_final.txt	GAC_4	GAC_134	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_135_final.txt	GAC_4	GAC_135	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_137_final.txt	GAC_4	GAC_137	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_144_final.txt	GAC_4	GAC_144	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_145_final.txt	GAC_4	GAC_145	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_147_final.txt	GAC_4	GAC_147	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_149_final.txt	GAC_4	GAC_149	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_150_final.txt	GAC_4	GAC_150	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_151_final.txt	GAC_4	GAC_151	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_152_final.txt	GAC_4	GAC_152	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_153_final.txt	GAC_4	GAC_153	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_154_final.txt	GAC_4	GAC_154	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_155_final.txt	GAC_4	GAC_155	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_156_final.txt	GAC_4	GAC_156	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_159_final.txt	GAC_4	GAC_159	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_163_final.txt	GAC_4	GAC_163	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_164_final.txt	GAC_4	GAC_164	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_166_final.txt	GAC_4	GAC_166	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_170_final.txt	GAC_4	GAC_170	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_167_final.txt	GAC_4	GAC_167	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_168_final.txt	GAC_4	GAC_168	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_172_final.txt	GAC_4	GAC_172	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_174_final.txt	GAC_4	GAC_174	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_175_final.txt	GAC_4	GAC_175	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_182_final.txt	GAC_4	GAC_182	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_183_final.txt	GAC_4	GAC_183	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_187_final.txt	GAC_4	GAC_187	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_190_final.txt	GAC_4	GAC_190	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_189_final.txt	GAC_4	GAC_189	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_191_final.txt	GAC_4	GAC_191	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_192_final.txt	GAC_4	GAC_192	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_193_final.txt	GAC_4	GAC_193	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_195_final.txt	GAC_4	GAC_195	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_199_final.txt	GAC_4	GAC_199	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_201_final.txt	GAC_4	GAC_201	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_200_final.txt	GAC_4	GAC_200	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_204_final.txt	GAC_4	GAC_204	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_206_final.txt	GAC_4	GAC_206	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_207_final.txt	GAC_4	GAC_207	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_208_final.txt	GAC_4	GAC_208	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_209_final.txt	GAC_4	GAC_209	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_210_final.txt	GAC_4	GAC_210	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_211_final.txt	GAC_4	GAC_211	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_214_final.txt	GAC_4	GAC_214	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_212_final.txt	GAC_4	GAC_212	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_215_final.txt	GAC_4	GAC_215	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_217_final.txt	GAC_4	GAC_217	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_218_final.txt	GAC_4	GAC_218	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_219_final.txt	GAC_4	GAC_219	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_220_final.txt	GAC_4	GAC_220	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_221_final.txt	GAC_4	GAC_221	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_223_final.txt	GAC_4	GAC_223	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_222_final.txt	GAC_4	GAC_222	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_227_final.txt	GAC_4	GAC_227	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_228_final.txt	GAC_4	GAC_228	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_233_final.txt	GAC_4	GAC_233	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_234_final.txt	GAC_4	GAC_234	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_236_final.txt	GAC_4	GAC_236	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_239_final.txt	GAC_4	GAC_239	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_246_final.txt	GAC_4	GAC_246	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_242_final.txt	GAC_4	GAC_242	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_258_final.txt	GAC_4	GAC_258	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_260_final.txt	GAC_4	GAC_260	20	19	False	inf	1.0	False	
+GAC_4_final.txt	GAC_9_final.txt	GAC_4	GAC_9	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_13_final.txt	GAC_4	GAC_13	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_59_final.txt	GAC_4	GAC_59	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_82_final.txt	GAC_4	GAC_82	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_68_final.txt	GAC_4	GAC_68	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_64_final.txt	GAC_4	GAC_64	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_85_final.txt	GAC_4	GAC_85	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_86_final.txt	GAC_4	GAC_86	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_95_final.txt	GAC_4	GAC_95	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_110_final.txt	GAC_4	GAC_110	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_121_final.txt	GAC_4	GAC_121	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_141_final.txt	GAC_4	GAC_141	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_136_final.txt	GAC_4	GAC_136	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_142_final.txt	GAC_4	GAC_142	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_146_final.txt	GAC_4	GAC_146	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_148_final.txt	GAC_4	GAC_148	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_162_final.txt	GAC_4	GAC_162	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_178_final.txt	GAC_4	GAC_178	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_184_final.txt	GAC_4	GAC_184	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_194_final.txt	GAC_4	GAC_194	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_197_final.txt	GAC_4	GAC_197	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_186_final.txt	GAC_4	GAC_186	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_202_final.txt	GAC_4	GAC_202	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_224_final.txt	GAC_4	GAC_224	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_225_final.txt	GAC_4	GAC_225	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_226_final.txt	GAC_4	GAC_226	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_229_final.txt	GAC_4	GAC_229	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_247_final.txt	GAC_4	GAC_247	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_244_final.txt	GAC_4	GAC_244	20	18	False	inf	1.0	False	
+GAC_4_final.txt	GAC_238_final.txt	GAC_4	GAC_238	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_128_final.txt	GAC_105	GAC_128	20	20	True	0	1.0	True	class_4
+GAC_105_final.txt	GAC_129_final.txt	GAC_105	GAC_129	20	20	True	0	1.0	True	class_4
+GAC_105_final.txt	GAC_171_final.txt	GAC_105	GAC_171	20	20	True	0	1.0	True	class_4
+GAC_105_final.txt	GAC_179_final.txt	GAC_105	GAC_179	20	20	True	0	1.0	True	class_4
+GAC_105_final.txt	GAC_181_final.txt	GAC_105	GAC_181	20	20	True	4	1.0	False	
+GAC_105_final.txt	GAC_2_final.txt	GAC_105	GAC_2	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_5_final.txt	GAC_105	GAC_5	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_254_final.txt	GAC_105	GAC_254	20	20	True	0	1.0	True	class_4
+GAC_105_final.txt	GAC_8_final.txt	GAC_105	GAC_8	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_7_final.txt	GAC_105	GAC_7	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_10_final.txt	GAC_105	GAC_10	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_11_final.txt	GAC_105	GAC_11	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_12_final.txt	GAC_105	GAC_12	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_15_final.txt	GAC_105	GAC_15	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_16_final.txt	GAC_105	GAC_16	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_18_final.txt	GAC_105	GAC_18	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_21_final.txt	GAC_105	GAC_21	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_19_final.txt	GAC_105	GAC_19	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_20_final.txt	GAC_105	GAC_20	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_22_final.txt	GAC_105	GAC_22	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_24_final.txt	GAC_105	GAC_24	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_25_final.txt	GAC_105	GAC_25	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_26_final.txt	GAC_105	GAC_26	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_27_final.txt	GAC_105	GAC_27	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_28_final.txt	GAC_105	GAC_28	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_29_final.txt	GAC_105	GAC_29	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_31_final.txt	GAC_105	GAC_31	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_32_final.txt	GAC_105	GAC_32	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_33_final.txt	GAC_105	GAC_33	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_34_final.txt	GAC_105	GAC_34	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_35_final.txt	GAC_105	GAC_35	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_37_final.txt	GAC_105	GAC_37	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_41_final.txt	GAC_105	GAC_41	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_39_final.txt	GAC_105	GAC_39	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_40_final.txt	GAC_105	GAC_40	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_42_final.txt	GAC_105	GAC_42	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_45_final.txt	GAC_105	GAC_45	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_46_final.txt	GAC_105	GAC_46	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_47_final.txt	GAC_105	GAC_47	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_48_final.txt	GAC_105	GAC_48	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_50_final.txt	GAC_105	GAC_50	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_51_final.txt	GAC_105	GAC_51	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_49_final.txt	GAC_105	GAC_49	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_52_final.txt	GAC_105	GAC_52	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_53_final.txt	GAC_105	GAC_53	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_54_final.txt	GAC_105	GAC_54	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_55_final.txt	GAC_105	GAC_55	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_57_final.txt	GAC_105	GAC_57	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_62_final.txt	GAC_105	GAC_62	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_58_final.txt	GAC_105	GAC_58	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_61_final.txt	GAC_105	GAC_61	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_63_final.txt	GAC_105	GAC_63	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_65_final.txt	GAC_105	GAC_65	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_66_final.txt	GAC_105	GAC_66	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_67_final.txt	GAC_105	GAC_67	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_69_final.txt	GAC_105	GAC_69	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_70_final.txt	GAC_105	GAC_70	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_72_final.txt	GAC_105	GAC_72	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_71_final.txt	GAC_105	GAC_71	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_73_final.txt	GAC_105	GAC_73	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_74_final.txt	GAC_105	GAC_74	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_75_final.txt	GAC_105	GAC_75	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_76_final.txt	GAC_105	GAC_76	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_77_final.txt	GAC_105	GAC_77	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_80_final.txt	GAC_105	GAC_80	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_78_final.txt	GAC_105	GAC_78	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_79_final.txt	GAC_105	GAC_79	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_81_final.txt	GAC_105	GAC_81	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_87_final.txt	GAC_105	GAC_87	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_88_final.txt	GAC_105	GAC_88	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_89_final.txt	GAC_105	GAC_89	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_91_final.txt	GAC_105	GAC_91	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_92_final.txt	GAC_105	GAC_92	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_94_final.txt	GAC_105	GAC_94	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_93_final.txt	GAC_105	GAC_93	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_97_final.txt	GAC_105	GAC_97	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_98_final.txt	GAC_105	GAC_98	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_99_final.txt	GAC_105	GAC_99	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_100_final.txt	GAC_105	GAC_100	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_101_final.txt	GAC_105	GAC_101	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_102_final.txt	GAC_105	GAC_102	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_106_final.txt	GAC_105	GAC_106	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_104_final.txt	GAC_105	GAC_104	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_108_final.txt	GAC_105	GAC_108	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_109_final.txt	GAC_105	GAC_109	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_111_final.txt	GAC_105	GAC_111	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_113_final.txt	GAC_105	GAC_113	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_114_final.txt	GAC_105	GAC_114	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_116_final.txt	GAC_105	GAC_116	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_118_final.txt	GAC_105	GAC_118	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_119_final.txt	GAC_105	GAC_119	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_120_final.txt	GAC_105	GAC_120	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_123_final.txt	GAC_105	GAC_123	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_124_final.txt	GAC_105	GAC_124	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_130_final.txt	GAC_105	GAC_130	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_131_final.txt	GAC_105	GAC_131	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_132_final.txt	GAC_105	GAC_132	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_133_final.txt	GAC_105	GAC_133	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_134_final.txt	GAC_105	GAC_134	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_135_final.txt	GAC_105	GAC_135	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_137_final.txt	GAC_105	GAC_137	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_144_final.txt	GAC_105	GAC_144	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_145_final.txt	GAC_105	GAC_145	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_147_final.txt	GAC_105	GAC_147	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_151_final.txt	GAC_105	GAC_151	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_150_final.txt	GAC_105	GAC_150	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_149_final.txt	GAC_105	GAC_149	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_152_final.txt	GAC_105	GAC_152	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_153_final.txt	GAC_105	GAC_153	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_154_final.txt	GAC_105	GAC_154	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_155_final.txt	GAC_105	GAC_155	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_156_final.txt	GAC_105	GAC_156	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_163_final.txt	GAC_105	GAC_163	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_164_final.txt	GAC_105	GAC_164	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_159_final.txt	GAC_105	GAC_159	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_166_final.txt	GAC_105	GAC_166	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_167_final.txt	GAC_105	GAC_167	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_168_final.txt	GAC_105	GAC_168	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_170_final.txt	GAC_105	GAC_170	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_172_final.txt	GAC_105	GAC_172	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_174_final.txt	GAC_105	GAC_174	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_175_final.txt	GAC_105	GAC_175	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_182_final.txt	GAC_105	GAC_182	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_183_final.txt	GAC_105	GAC_183	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_187_final.txt	GAC_105	GAC_187	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_189_final.txt	GAC_105	GAC_189	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_190_final.txt	GAC_105	GAC_190	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_191_final.txt	GAC_105	GAC_191	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_192_final.txt	GAC_105	GAC_192	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_195_final.txt	GAC_105	GAC_195	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_193_final.txt	GAC_105	GAC_193	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_199_final.txt	GAC_105	GAC_199	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_200_final.txt	GAC_105	GAC_200	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_201_final.txt	GAC_105	GAC_201	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_204_final.txt	GAC_105	GAC_204	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_206_final.txt	GAC_105	GAC_206	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_209_final.txt	GAC_105	GAC_209	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_207_final.txt	GAC_105	GAC_207	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_208_final.txt	GAC_105	GAC_208	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_210_final.txt	GAC_105	GAC_210	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_211_final.txt	GAC_105	GAC_211	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_212_final.txt	GAC_105	GAC_212	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_214_final.txt	GAC_105	GAC_214	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_215_final.txt	GAC_105	GAC_215	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_218_final.txt	GAC_105	GAC_218	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_217_final.txt	GAC_105	GAC_217	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_219_final.txt	GAC_105	GAC_219	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_220_final.txt	GAC_105	GAC_220	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_221_final.txt	GAC_105	GAC_221	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_222_final.txt	GAC_105	GAC_222	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_223_final.txt	GAC_105	GAC_223	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_227_final.txt	GAC_105	GAC_227	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_228_final.txt	GAC_105	GAC_228	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_233_final.txt	GAC_105	GAC_233	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_234_final.txt	GAC_105	GAC_234	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_236_final.txt	GAC_105	GAC_236	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_239_final.txt	GAC_105	GAC_239	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_242_final.txt	GAC_105	GAC_242	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_246_final.txt	GAC_105	GAC_246	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_258_final.txt	GAC_105	GAC_258	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_13_final.txt	GAC_105	GAC_13	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_260_final.txt	GAC_105	GAC_260	20	19	False	inf	1.0	False	
+GAC_105_final.txt	GAC_9_final.txt	GAC_105	GAC_9	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_59_final.txt	GAC_105	GAC_59	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_64_final.txt	GAC_105	GAC_64	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_68_final.txt	GAC_105	GAC_68	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_82_final.txt	GAC_105	GAC_82	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_85_final.txt	GAC_105	GAC_85	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_110_final.txt	GAC_105	GAC_110	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_86_final.txt	GAC_105	GAC_86	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_95_final.txt	GAC_105	GAC_95	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_121_final.txt	GAC_105	GAC_121	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_136_final.txt	GAC_105	GAC_136	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_141_final.txt	GAC_105	GAC_141	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_142_final.txt	GAC_105	GAC_142	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_146_final.txt	GAC_105	GAC_146	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_178_final.txt	GAC_105	GAC_178	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_148_final.txt	GAC_105	GAC_148	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_162_final.txt	GAC_105	GAC_162	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_184_final.txt	GAC_105	GAC_184	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_186_final.txt	GAC_105	GAC_186	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_194_final.txt	GAC_105	GAC_194	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_197_final.txt	GAC_105	GAC_197	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_202_final.txt	GAC_105	GAC_202	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_224_final.txt	GAC_105	GAC_224	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_226_final.txt	GAC_105	GAC_226	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_225_final.txt	GAC_105	GAC_225	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_229_final.txt	GAC_105	GAC_229	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_238_final.txt	GAC_105	GAC_238	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_244_final.txt	GAC_105	GAC_244	20	18	False	inf	1.0	False	
+GAC_105_final.txt	GAC_247_final.txt	GAC_105	GAC_247	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_2_final.txt	GAC_181	GAC_2	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_7_final.txt	GAC_181	GAC_7	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_5_final.txt	GAC_181	GAC_5	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_8_final.txt	GAC_181	GAC_8	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_10_final.txt	GAC_181	GAC_10	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_11_final.txt	GAC_181	GAC_11	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_12_final.txt	GAC_181	GAC_12	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_15_final.txt	GAC_181	GAC_15	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_16_final.txt	GAC_181	GAC_16	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_18_final.txt	GAC_181	GAC_18	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_19_final.txt	GAC_181	GAC_19	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_20_final.txt	GAC_181	GAC_20	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_21_final.txt	GAC_181	GAC_21	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_22_final.txt	GAC_181	GAC_22	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_24_final.txt	GAC_181	GAC_24	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_25_final.txt	GAC_181	GAC_25	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_27_final.txt	GAC_181	GAC_27	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_26_final.txt	GAC_181	GAC_26	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_28_final.txt	GAC_181	GAC_28	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_29_final.txt	GAC_181	GAC_29	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_31_final.txt	GAC_181	GAC_31	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_32_final.txt	GAC_181	GAC_32	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_33_final.txt	GAC_181	GAC_33	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_34_final.txt	GAC_181	GAC_34	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_37_final.txt	GAC_181	GAC_37	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_35_final.txt	GAC_181	GAC_35	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_39_final.txt	GAC_181	GAC_39	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_40_final.txt	GAC_181	GAC_40	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_41_final.txt	GAC_181	GAC_41	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_42_final.txt	GAC_181	GAC_42	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_45_final.txt	GAC_181	GAC_45	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_46_final.txt	GAC_181	GAC_46	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_49_final.txt	GAC_181	GAC_49	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_47_final.txt	GAC_181	GAC_47	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_48_final.txt	GAC_181	GAC_48	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_50_final.txt	GAC_181	GAC_50	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_51_final.txt	GAC_181	GAC_51	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_52_final.txt	GAC_181	GAC_52	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_53_final.txt	GAC_181	GAC_53	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_54_final.txt	GAC_181	GAC_54	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_55_final.txt	GAC_181	GAC_55	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_58_final.txt	GAC_181	GAC_58	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_57_final.txt	GAC_181	GAC_57	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_61_final.txt	GAC_181	GAC_61	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_62_final.txt	GAC_181	GAC_62	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_63_final.txt	GAC_181	GAC_63	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_65_final.txt	GAC_181	GAC_65	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_66_final.txt	GAC_181	GAC_66	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_70_final.txt	GAC_181	GAC_70	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_67_final.txt	GAC_181	GAC_67	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_69_final.txt	GAC_181	GAC_69	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_71_final.txt	GAC_181	GAC_71	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_72_final.txt	GAC_181	GAC_72	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_73_final.txt	GAC_181	GAC_73	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_74_final.txt	GAC_181	GAC_74	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_75_final.txt	GAC_181	GAC_75	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_76_final.txt	GAC_181	GAC_76	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_78_final.txt	GAC_181	GAC_78	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_77_final.txt	GAC_181	GAC_77	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_79_final.txt	GAC_181	GAC_79	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_80_final.txt	GAC_181	GAC_80	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_81_final.txt	GAC_181	GAC_81	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_87_final.txt	GAC_181	GAC_87	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_88_final.txt	GAC_181	GAC_88	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_89_final.txt	GAC_181	GAC_89	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_91_final.txt	GAC_181	GAC_91	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_92_final.txt	GAC_181	GAC_92	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_93_final.txt	GAC_181	GAC_93	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_94_final.txt	GAC_181	GAC_94	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_97_final.txt	GAC_181	GAC_97	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_98_final.txt	GAC_181	GAC_98	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_99_final.txt	GAC_181	GAC_99	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_101_final.txt	GAC_181	GAC_101	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_100_final.txt	GAC_181	GAC_100	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_102_final.txt	GAC_181	GAC_102	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_104_final.txt	GAC_181	GAC_104	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_106_final.txt	GAC_181	GAC_106	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_108_final.txt	GAC_181	GAC_108	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_109_final.txt	GAC_181	GAC_109	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_111_final.txt	GAC_181	GAC_111	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_116_final.txt	GAC_181	GAC_116	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_114_final.txt	GAC_181	GAC_114	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_113_final.txt	GAC_181	GAC_113	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_118_final.txt	GAC_181	GAC_118	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_119_final.txt	GAC_181	GAC_119	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_120_final.txt	GAC_181	GAC_120	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_123_final.txt	GAC_181	GAC_123	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_124_final.txt	GAC_181	GAC_124	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_130_final.txt	GAC_181	GAC_130	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_131_final.txt	GAC_181	GAC_131	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_132_final.txt	GAC_181	GAC_132	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_133_final.txt	GAC_181	GAC_133	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_134_final.txt	GAC_181	GAC_134	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_135_final.txt	GAC_181	GAC_135	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_137_final.txt	GAC_181	GAC_137	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_144_final.txt	GAC_181	GAC_144	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_149_final.txt	GAC_181	GAC_149	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_145_final.txt	GAC_181	GAC_145	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_147_final.txt	GAC_181	GAC_147	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_150_final.txt	GAC_181	GAC_150	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_151_final.txt	GAC_181	GAC_151	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_152_final.txt	GAC_181	GAC_152	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_153_final.txt	GAC_181	GAC_153	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_154_final.txt	GAC_181	GAC_154	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_159_final.txt	GAC_181	GAC_159	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_155_final.txt	GAC_181	GAC_155	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_156_final.txt	GAC_181	GAC_156	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_163_final.txt	GAC_181	GAC_163	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_164_final.txt	GAC_181	GAC_164	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_166_final.txt	GAC_181	GAC_166	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_167_final.txt	GAC_181	GAC_167	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_168_final.txt	GAC_181	GAC_168	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_170_final.txt	GAC_181	GAC_170	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_172_final.txt	GAC_181	GAC_172	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_174_final.txt	GAC_181	GAC_174	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_175_final.txt	GAC_181	GAC_175	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_182_final.txt	GAC_181	GAC_182	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_183_final.txt	GAC_181	GAC_183	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_187_final.txt	GAC_181	GAC_187	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_189_final.txt	GAC_181	GAC_189	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_192_final.txt	GAC_181	GAC_192	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_190_final.txt	GAC_181	GAC_190	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_191_final.txt	GAC_181	GAC_191	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_193_final.txt	GAC_181	GAC_193	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_195_final.txt	GAC_181	GAC_195	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_199_final.txt	GAC_181	GAC_199	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_200_final.txt	GAC_181	GAC_200	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_201_final.txt	GAC_181	GAC_201	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_206_final.txt	GAC_181	GAC_206	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_204_final.txt	GAC_181	GAC_204	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_207_final.txt	GAC_181	GAC_207	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_208_final.txt	GAC_181	GAC_208	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_209_final.txt	GAC_181	GAC_209	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_210_final.txt	GAC_181	GAC_210	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_211_final.txt	GAC_181	GAC_211	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_212_final.txt	GAC_181	GAC_212	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_214_final.txt	GAC_181	GAC_214	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_217_final.txt	GAC_181	GAC_217	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_215_final.txt	GAC_181	GAC_215	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_218_final.txt	GAC_181	GAC_218	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_219_final.txt	GAC_181	GAC_219	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_220_final.txt	GAC_181	GAC_220	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_221_final.txt	GAC_181	GAC_221	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_222_final.txt	GAC_181	GAC_222	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_227_final.txt	GAC_181	GAC_227	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_223_final.txt	GAC_181	GAC_223	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_228_final.txt	GAC_181	GAC_228	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_233_final.txt	GAC_181	GAC_233	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_234_final.txt	GAC_181	GAC_234	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_236_final.txt	GAC_181	GAC_236	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_239_final.txt	GAC_181	GAC_239	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_242_final.txt	GAC_181	GAC_242	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_246_final.txt	GAC_181	GAC_246	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_258_final.txt	GAC_181	GAC_258	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_260_final.txt	GAC_181	GAC_260	20	19	False	inf	1.0	False	
+GAC_181_final.txt	GAC_9_final.txt	GAC_181	GAC_9	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_13_final.txt	GAC_181	GAC_13	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_59_final.txt	GAC_181	GAC_59	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_64_final.txt	GAC_181	GAC_64	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_68_final.txt	GAC_181	GAC_68	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_82_final.txt	GAC_181	GAC_82	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_86_final.txt	GAC_181	GAC_86	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_85_final.txt	GAC_181	GAC_85	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_95_final.txt	GAC_181	GAC_95	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_110_final.txt	GAC_181	GAC_110	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_121_final.txt	GAC_181	GAC_121	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_136_final.txt	GAC_181	GAC_136	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_141_final.txt	GAC_181	GAC_141	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_142_final.txt	GAC_181	GAC_142	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_146_final.txt	GAC_181	GAC_146	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_148_final.txt	GAC_181	GAC_148	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_162_final.txt	GAC_181	GAC_162	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_178_final.txt	GAC_181	GAC_178	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_184_final.txt	GAC_181	GAC_184	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_186_final.txt	GAC_181	GAC_186	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_194_final.txt	GAC_181	GAC_194	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_224_final.txt	GAC_181	GAC_224	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_202_final.txt	GAC_181	GAC_202	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_197_final.txt	GAC_181	GAC_197	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_225_final.txt	GAC_181	GAC_225	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_226_final.txt	GAC_181	GAC_226	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_229_final.txt	GAC_181	GAC_229	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_238_final.txt	GAC_181	GAC_238	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_244_final.txt	GAC_181	GAC_244	20	18	False	inf	1.0	False	
+GAC_181_final.txt	GAC_247_final.txt	GAC_181	GAC_247	20	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_5_final.txt	GAC_2	GAC_5	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_7_final.txt	GAC_2	GAC_7	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_8_final.txt	GAC_2	GAC_8	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_10_final.txt	GAC_2	GAC_10	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_11_final.txt	GAC_2	GAC_11	19	19	True	2	1.0	False	
+GAC_2_final.txt	GAC_12_final.txt	GAC_2	GAC_12	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_15_final.txt	GAC_2	GAC_15	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_16_final.txt	GAC_2	GAC_16	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_18_final.txt	GAC_2	GAC_18	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_19_final.txt	GAC_2	GAC_19	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_20_final.txt	GAC_2	GAC_20	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_21_final.txt	GAC_2	GAC_21	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_22_final.txt	GAC_2	GAC_22	19	19	True	2	1.0	False	
+GAC_2_final.txt	GAC_24_final.txt	GAC_2	GAC_24	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_25_final.txt	GAC_2	GAC_25	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_26_final.txt	GAC_2	GAC_26	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_28_final.txt	GAC_2	GAC_28	19	19	True	2	1.0	False	
+GAC_2_final.txt	GAC_27_final.txt	GAC_2	GAC_27	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_29_final.txt	GAC_2	GAC_29	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_31_final.txt	GAC_2	GAC_31	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_32_final.txt	GAC_2	GAC_32	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_33_final.txt	GAC_2	GAC_33	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_34_final.txt	GAC_2	GAC_34	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_35_final.txt	GAC_2	GAC_35	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_39_final.txt	GAC_2	GAC_39	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_37_final.txt	GAC_2	GAC_37	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_40_final.txt	GAC_2	GAC_40	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_41_final.txt	GAC_2	GAC_41	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_42_final.txt	GAC_2	GAC_42	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_45_final.txt	GAC_2	GAC_45	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_46_final.txt	GAC_2	GAC_46	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_47_final.txt	GAC_2	GAC_47	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_49_final.txt	GAC_2	GAC_49	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_48_final.txt	GAC_2	GAC_48	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_50_final.txt	GAC_2	GAC_50	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_51_final.txt	GAC_2	GAC_51	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_52_final.txt	GAC_2	GAC_52	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_53_final.txt	GAC_2	GAC_53	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_54_final.txt	GAC_2	GAC_54	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_55_final.txt	GAC_2	GAC_55	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_57_final.txt	GAC_2	GAC_57	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_58_final.txt	GAC_2	GAC_58	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_61_final.txt	GAC_2	GAC_61	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_62_final.txt	GAC_2	GAC_62	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_63_final.txt	GAC_2	GAC_63	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_65_final.txt	GAC_2	GAC_65	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_66_final.txt	GAC_2	GAC_66	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_67_final.txt	GAC_2	GAC_67	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_69_final.txt	GAC_2	GAC_69	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_70_final.txt	GAC_2	GAC_70	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_71_final.txt	GAC_2	GAC_71	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_72_final.txt	GAC_2	GAC_72	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_73_final.txt	GAC_2	GAC_73	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_74_final.txt	GAC_2	GAC_74	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_75_final.txt	GAC_2	GAC_75	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_76_final.txt	GAC_2	GAC_76	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_78_final.txt	GAC_2	GAC_78	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_77_final.txt	GAC_2	GAC_77	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_79_final.txt	GAC_2	GAC_79	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_80_final.txt	GAC_2	GAC_80	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_81_final.txt	GAC_2	GAC_81	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_87_final.txt	GAC_2	GAC_87	19	19	True	2	1.0	False	
+GAC_2_final.txt	GAC_88_final.txt	GAC_2	GAC_88	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_89_final.txt	GAC_2	GAC_89	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_92_final.txt	GAC_2	GAC_92	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_91_final.txt	GAC_2	GAC_91	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_93_final.txt	GAC_2	GAC_93	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_94_final.txt	GAC_2	GAC_94	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_97_final.txt	GAC_2	GAC_97	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_98_final.txt	GAC_2	GAC_98	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_99_final.txt	GAC_2	GAC_99	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_100_final.txt	GAC_2	GAC_100	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_102_final.txt	GAC_2	GAC_102	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_101_final.txt	GAC_2	GAC_101	19	19	True	2	1.0	False	
+GAC_2_final.txt	GAC_104_final.txt	GAC_2	GAC_104	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_106_final.txt	GAC_2	GAC_106	19	19	True	2	1.0	False	
+GAC_2_final.txt	GAC_108_final.txt	GAC_2	GAC_108	19	19	True	2	1.0	False	
+GAC_2_final.txt	GAC_109_final.txt	GAC_2	GAC_109	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_111_final.txt	GAC_2	GAC_111	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_113_final.txt	GAC_2	GAC_113	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_114_final.txt	GAC_2	GAC_114	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_116_final.txt	GAC_2	GAC_116	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_118_final.txt	GAC_2	GAC_118	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_119_final.txt	GAC_2	GAC_119	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_120_final.txt	GAC_2	GAC_120	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_123_final.txt	GAC_2	GAC_123	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_124_final.txt	GAC_2	GAC_124	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_130_final.txt	GAC_2	GAC_130	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_131_final.txt	GAC_2	GAC_131	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_132_final.txt	GAC_2	GAC_132	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_133_final.txt	GAC_2	GAC_133	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_135_final.txt	GAC_2	GAC_135	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_137_final.txt	GAC_2	GAC_137	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_134_final.txt	GAC_2	GAC_134	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_144_final.txt	GAC_2	GAC_144	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_145_final.txt	GAC_2	GAC_145	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_147_final.txt	GAC_2	GAC_147	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_149_final.txt	GAC_2	GAC_149	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_150_final.txt	GAC_2	GAC_150	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_151_final.txt	GAC_2	GAC_151	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_152_final.txt	GAC_2	GAC_152	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_153_final.txt	GAC_2	GAC_153	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_154_final.txt	GAC_2	GAC_154	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_155_final.txt	GAC_2	GAC_155	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_156_final.txt	GAC_2	GAC_156	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_159_final.txt	GAC_2	GAC_159	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_163_final.txt	GAC_2	GAC_163	19	19	True	2	1.0	False	
+GAC_2_final.txt	GAC_164_final.txt	GAC_2	GAC_164	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_166_final.txt	GAC_2	GAC_166	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_167_final.txt	GAC_2	GAC_167	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_168_final.txt	GAC_2	GAC_168	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_170_final.txt	GAC_2	GAC_170	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_172_final.txt	GAC_2	GAC_172	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_174_final.txt	GAC_2	GAC_174	19	19	True	2	1.0	False	
+GAC_2_final.txt	GAC_175_final.txt	GAC_2	GAC_175	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_182_final.txt	GAC_2	GAC_182	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_183_final.txt	GAC_2	GAC_183	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_187_final.txt	GAC_2	GAC_187	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_189_final.txt	GAC_2	GAC_189	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_190_final.txt	GAC_2	GAC_190	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_191_final.txt	GAC_2	GAC_191	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_192_final.txt	GAC_2	GAC_192	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_195_final.txt	GAC_2	GAC_195	19	19	True	2	1.0	False	
+GAC_2_final.txt	GAC_199_final.txt	GAC_2	GAC_199	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_193_final.txt	GAC_2	GAC_193	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_201_final.txt	GAC_2	GAC_201	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_200_final.txt	GAC_2	GAC_200	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_204_final.txt	GAC_2	GAC_204	19	19	True	2	1.0	False	
+GAC_2_final.txt	GAC_206_final.txt	GAC_2	GAC_206	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_207_final.txt	GAC_2	GAC_207	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_208_final.txt	GAC_2	GAC_208	19	19	True	2	1.0	False	
+GAC_2_final.txt	GAC_209_final.txt	GAC_2	GAC_209	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_210_final.txt	GAC_2	GAC_210	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_211_final.txt	GAC_2	GAC_211	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_212_final.txt	GAC_2	GAC_212	19	19	True	2	1.0	False	
+GAC_2_final.txt	GAC_214_final.txt	GAC_2	GAC_214	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_215_final.txt	GAC_2	GAC_215	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_217_final.txt	GAC_2	GAC_217	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_218_final.txt	GAC_2	GAC_218	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_219_final.txt	GAC_2	GAC_219	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_220_final.txt	GAC_2	GAC_220	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_221_final.txt	GAC_2	GAC_221	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_222_final.txt	GAC_2	GAC_222	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_223_final.txt	GAC_2	GAC_223	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_228_final.txt	GAC_2	GAC_228	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_227_final.txt	GAC_2	GAC_227	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_233_final.txt	GAC_2	GAC_233	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_234_final.txt	GAC_2	GAC_234	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_236_final.txt	GAC_2	GAC_236	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_239_final.txt	GAC_2	GAC_239	19	19	True	2	1.0	False	
+GAC_2_final.txt	GAC_242_final.txt	GAC_2	GAC_242	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_246_final.txt	GAC_2	GAC_246	19	19	True	2	1.0	False	
+GAC_2_final.txt	GAC_260_final.txt	GAC_2	GAC_260	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_9_final.txt	GAC_2	GAC_9	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_13_final.txt	GAC_2	GAC_13	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_59_final.txt	GAC_2	GAC_59	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_64_final.txt	GAC_2	GAC_64	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_68_final.txt	GAC_2	GAC_68	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_82_final.txt	GAC_2	GAC_82	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_258_final.txt	GAC_2	GAC_258	19	19	True	0	1.0	True	class_6
+GAC_2_final.txt	GAC_86_final.txt	GAC_2	GAC_86	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_95_final.txt	GAC_2	GAC_95	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_85_final.txt	GAC_2	GAC_85	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_110_final.txt	GAC_2	GAC_110	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_121_final.txt	GAC_2	GAC_121	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_136_final.txt	GAC_2	GAC_136	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_141_final.txt	GAC_2	GAC_141	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_142_final.txt	GAC_2	GAC_142	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_146_final.txt	GAC_2	GAC_146	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_148_final.txt	GAC_2	GAC_148	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_162_final.txt	GAC_2	GAC_162	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_178_final.txt	GAC_2	GAC_178	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_184_final.txt	GAC_2	GAC_184	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_186_final.txt	GAC_2	GAC_186	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_194_final.txt	GAC_2	GAC_194	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_197_final.txt	GAC_2	GAC_197	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_202_final.txt	GAC_2	GAC_202	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_224_final.txt	GAC_2	GAC_224	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_225_final.txt	GAC_2	GAC_225	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_226_final.txt	GAC_2	GAC_226	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_229_final.txt	GAC_2	GAC_229	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_238_final.txt	GAC_2	GAC_238	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_244_final.txt	GAC_2	GAC_244	19	18	False	inf	1.0	False	
+GAC_2_final.txt	GAC_247_final.txt	GAC_2	GAC_247	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_22_final.txt	GAC_11	GAC_22	19	19	True	4	1.0	False	
+GAC_11_final.txt	GAC_28_final.txt	GAC_11	GAC_28	19	19	True	0	1.0	True	class_7
+GAC_11_final.txt	GAC_87_final.txt	GAC_11	GAC_87	19	19	True	0	1.0	True	class_7
+GAC_11_final.txt	GAC_101_final.txt	GAC_11	GAC_101	19	19	True	0	1.0	True	class_7
+GAC_11_final.txt	GAC_106_final.txt	GAC_11	GAC_106	19	19	True	4	1.0	False	
+GAC_11_final.txt	GAC_108_final.txt	GAC_11	GAC_108	19	19	True	0	1.0	True	class_7
+GAC_11_final.txt	GAC_163_final.txt	GAC_11	GAC_163	19	19	True	0	1.0	True	class_7
+GAC_11_final.txt	GAC_174_final.txt	GAC_11	GAC_174	19	19	True	0	1.0	True	class_7
+GAC_11_final.txt	GAC_204_final.txt	GAC_11	GAC_204	19	19	True	4	1.0	False	
+GAC_11_final.txt	GAC_195_final.txt	GAC_11	GAC_195	19	19	True	4	1.0	False	
+GAC_11_final.txt	GAC_208_final.txt	GAC_11	GAC_208	19	19	True	0	1.0	True	class_7
+GAC_11_final.txt	GAC_212_final.txt	GAC_11	GAC_212	19	19	True	0	1.0	True	class_7
+GAC_11_final.txt	GAC_239_final.txt	GAC_11	GAC_239	19	19	True	0	1.0	True	class_7
+GAC_11_final.txt	GAC_9_final.txt	GAC_11	GAC_9	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_13_final.txt	GAC_11	GAC_13	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_246_final.txt	GAC_11	GAC_246	19	19	True	0	1.0	True	class_7
+GAC_11_final.txt	GAC_59_final.txt	GAC_11	GAC_59	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_68_final.txt	GAC_11	GAC_68	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_64_final.txt	GAC_11	GAC_64	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_82_final.txt	GAC_11	GAC_82	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_85_final.txt	GAC_11	GAC_85	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_86_final.txt	GAC_11	GAC_86	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_95_final.txt	GAC_11	GAC_95	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_110_final.txt	GAC_11	GAC_110	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_121_final.txt	GAC_11	GAC_121	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_141_final.txt	GAC_11	GAC_141	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_136_final.txt	GAC_11	GAC_136	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_142_final.txt	GAC_11	GAC_142	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_146_final.txt	GAC_11	GAC_146	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_148_final.txt	GAC_11	GAC_148	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_162_final.txt	GAC_11	GAC_162	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_178_final.txt	GAC_11	GAC_178	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_186_final.txt	GAC_11	GAC_186	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_194_final.txt	GAC_11	GAC_194	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_184_final.txt	GAC_11	GAC_184	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_197_final.txt	GAC_11	GAC_197	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_202_final.txt	GAC_11	GAC_202	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_224_final.txt	GAC_11	GAC_224	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_225_final.txt	GAC_11	GAC_225	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_226_final.txt	GAC_11	GAC_226	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_244_final.txt	GAC_11	GAC_244	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_238_final.txt	GAC_11	GAC_238	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_229_final.txt	GAC_11	GAC_229	19	18	False	inf	1.0	False	
+GAC_11_final.txt	GAC_247_final.txt	GAC_11	GAC_247	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_106_final.txt	GAC_22	GAC_106	19	19	True	2	1.0	False	
+GAC_22_final.txt	GAC_195_final.txt	GAC_22	GAC_195	19	19	True	0	1.0	True	class_8
+GAC_22_final.txt	GAC_9_final.txt	GAC_22	GAC_9	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_13_final.txt	GAC_22	GAC_13	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_59_final.txt	GAC_22	GAC_59	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_64_final.txt	GAC_22	GAC_64	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_68_final.txt	GAC_22	GAC_68	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_204_final.txt	GAC_22	GAC_204	19	19	True	4	1.0	False	
+GAC_22_final.txt	GAC_82_final.txt	GAC_22	GAC_82	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_85_final.txt	GAC_22	GAC_85	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_86_final.txt	GAC_22	GAC_86	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_95_final.txt	GAC_22	GAC_95	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_110_final.txt	GAC_22	GAC_110	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_121_final.txt	GAC_22	GAC_121	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_136_final.txt	GAC_22	GAC_136	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_141_final.txt	GAC_22	GAC_141	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_146_final.txt	GAC_22	GAC_146	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_142_final.txt	GAC_22	GAC_142	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_148_final.txt	GAC_22	GAC_148	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_162_final.txt	GAC_22	GAC_162	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_178_final.txt	GAC_22	GAC_178	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_184_final.txt	GAC_22	GAC_184	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_186_final.txt	GAC_22	GAC_186	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_194_final.txt	GAC_22	GAC_194	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_202_final.txt	GAC_22	GAC_202	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_197_final.txt	GAC_22	GAC_197	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_224_final.txt	GAC_22	GAC_224	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_225_final.txt	GAC_22	GAC_225	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_226_final.txt	GAC_22	GAC_226	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_229_final.txt	GAC_22	GAC_229	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_238_final.txt	GAC_22	GAC_238	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_244_final.txt	GAC_22	GAC_244	19	18	False	inf	1.0	False	
+GAC_22_final.txt	GAC_247_final.txt	GAC_22	GAC_247	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_9_final.txt	GAC_106	GAC_9	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_13_final.txt	GAC_106	GAC_13	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_59_final.txt	GAC_106	GAC_59	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_64_final.txt	GAC_106	GAC_64	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_68_final.txt	GAC_106	GAC_68	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_82_final.txt	GAC_106	GAC_82	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_85_final.txt	GAC_106	GAC_85	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_204_final.txt	GAC_106	GAC_204	19	19	True	4	1.0	False	
+GAC_106_final.txt	GAC_95_final.txt	GAC_106	GAC_95	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_110_final.txt	GAC_106	GAC_110	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_86_final.txt	GAC_106	GAC_86	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_121_final.txt	GAC_106	GAC_121	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_136_final.txt	GAC_106	GAC_136	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_141_final.txt	GAC_106	GAC_141	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_142_final.txt	GAC_106	GAC_142	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_146_final.txt	GAC_106	GAC_146	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_148_final.txt	GAC_106	GAC_148	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_162_final.txt	GAC_106	GAC_162	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_178_final.txt	GAC_106	GAC_178	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_184_final.txt	GAC_106	GAC_184	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_186_final.txt	GAC_106	GAC_186	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_194_final.txt	GAC_106	GAC_194	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_197_final.txt	GAC_106	GAC_197	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_202_final.txt	GAC_106	GAC_202	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_225_final.txt	GAC_106	GAC_225	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_224_final.txt	GAC_106	GAC_224	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_226_final.txt	GAC_106	GAC_226	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_229_final.txt	GAC_106	GAC_229	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_238_final.txt	GAC_106	GAC_238	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_244_final.txt	GAC_106	GAC_244	19	18	False	inf	1.0	False	
+GAC_106_final.txt	GAC_247_final.txt	GAC_106	GAC_247	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_13_final.txt	GAC_204	GAC_13	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_59_final.txt	GAC_204	GAC_59	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_9_final.txt	GAC_204	GAC_9	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_64_final.txt	GAC_204	GAC_64	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_68_final.txt	GAC_204	GAC_68	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_82_final.txt	GAC_204	GAC_82	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_85_final.txt	GAC_204	GAC_85	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_86_final.txt	GAC_204	GAC_86	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_121_final.txt	GAC_204	GAC_121	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_95_final.txt	GAC_204	GAC_95	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_110_final.txt	GAC_204	GAC_110	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_136_final.txt	GAC_204	GAC_136	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_141_final.txt	GAC_204	GAC_141	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_142_final.txt	GAC_204	GAC_142	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_146_final.txt	GAC_204	GAC_146	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_148_final.txt	GAC_204	GAC_148	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_178_final.txt	GAC_204	GAC_178	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_162_final.txt	GAC_204	GAC_162	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_184_final.txt	GAC_204	GAC_184	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_186_final.txt	GAC_204	GAC_186	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_194_final.txt	GAC_204	GAC_194	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_197_final.txt	GAC_204	GAC_197	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_202_final.txt	GAC_204	GAC_202	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_224_final.txt	GAC_204	GAC_224	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_226_final.txt	GAC_204	GAC_226	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_225_final.txt	GAC_204	GAC_225	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_229_final.txt	GAC_204	GAC_229	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_238_final.txt	GAC_204	GAC_238	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_244_final.txt	GAC_204	GAC_244	19	18	False	inf	1.0	False	
+GAC_204_final.txt	GAC_247_final.txt	GAC_204	GAC_247	19	18	False	inf	1.0	False	
+GAC_9_final.txt	GAC_13_final.txt	GAC_9	GAC_13	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_59_final.txt	GAC_9	GAC_59	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_64_final.txt	GAC_9	GAC_64	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_68_final.txt	GAC_9	GAC_68	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_82_final.txt	GAC_9	GAC_82	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_85_final.txt	GAC_9	GAC_85	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_86_final.txt	GAC_9	GAC_86	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_95_final.txt	GAC_9	GAC_95	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_121_final.txt	GAC_9	GAC_121	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_110_final.txt	GAC_9	GAC_110	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_136_final.txt	GAC_9	GAC_136	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_141_final.txt	GAC_9	GAC_141	18	18	True	2	1.0	False	
+GAC_9_final.txt	GAC_142_final.txt	GAC_9	GAC_142	18	18	True	2	1.0	False	
+GAC_9_final.txt	GAC_146_final.txt	GAC_9	GAC_146	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_148_final.txt	GAC_9	GAC_148	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_162_final.txt	GAC_9	GAC_162	18	18	True	2	1.0	False	
+GAC_9_final.txt	GAC_184_final.txt	GAC_9	GAC_184	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_178_final.txt	GAC_9	GAC_178	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_186_final.txt	GAC_9	GAC_186	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_194_final.txt	GAC_9	GAC_194	18	18	True	2	1.0	False	
+GAC_9_final.txt	GAC_197_final.txt	GAC_9	GAC_197	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_202_final.txt	GAC_9	GAC_202	18	18	True	2	1.0	False	
+GAC_9_final.txt	GAC_224_final.txt	GAC_9	GAC_224	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_225_final.txt	GAC_9	GAC_225	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_226_final.txt	GAC_9	GAC_226	18	18	True	2	1.0	False	
+GAC_9_final.txt	GAC_229_final.txt	GAC_9	GAC_229	18	18	True	2	1.0	False	
+GAC_9_final.txt	GAC_238_final.txt	GAC_9	GAC_238	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_244_final.txt	GAC_9	GAC_244	18	18	True	0	1.0	True	class_11
+GAC_9_final.txt	GAC_247_final.txt	GAC_9	GAC_247	18	18	True	0	1.0	True	class_11
+GAC_141_final.txt	GAC_142_final.txt	GAC_141	GAC_142	18	18	True	0	1.0	True	class_12
+GAC_141_final.txt	GAC_162_final.txt	GAC_141	GAC_162	18	18	True	0	1.0	True	class_12
+GAC_141_final.txt	GAC_194_final.txt	GAC_141	GAC_194	18	18	True	0	1.0	True	class_12
+GAC_141_final.txt	GAC_202_final.txt	GAC_141	GAC_202	18	18	True	0	1.0	True	class_12
+GAC_141_final.txt	GAC_226_final.txt	GAC_141	GAC_226	18	18	True	0	1.0	True	class_12
+GAC_141_final.txt	GAC_229_final.txt	GAC_141	GAC_229	18	18	True	2	1.0	False	

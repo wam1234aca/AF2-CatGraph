@@ -1,0 +1,23 @@
+structure_id,merged_class,merged_class_display,original_classes,original_classes_display,rare_edges_present,source_pdb_path
+GAC_1,class_1,Class 1,class_1,Class 1,F247 | Hydrophobic contact | Aliphatic carbon unit;Y178 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_1/GAC_1_complex_protonated.pdb
+GAC_3,class_2,Class 2,class_2,Class 2,Y178 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_3/GAC_3_complex_protonated.pdb
+GAC_6,class_2,Class 2,class_2,Class 2,Y178 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_6/GAC_6_complex.pdb
+GAC_14,class_2,Class 2,class_2,Class 2,Y178 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_14/GAC_14_complex.pdb
+GAC_17,class_2,Class 2,class_2,Class 2,Y178 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_17/GAC_17_complex.pdb
+GAC_36,class_2,Class 2,class_2,Class 2,Y178 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_36/GAC_36_complex.pdb
+GAC_38,class_2,Class 2,class_2,Class 2,Y178 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_38/GAC_38_complex_protonated.pdb
+GAC_103,class_2,Class 2,class_2,Class 2,Y178 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_103/GAC_103_complex.pdb
+GAC_112,class_2,Class 2,class_2,Class 2,Y178 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_112/GAC_112_complex.pdb
+GAC_117,class_2,Class 2,class_2,Class 2,Y178 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_117/GAC_117_complex_protonated.pdb
+GAC_139,class_2,Class 2,class_2,Class 2,Y178 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_139/GAC_139_complex.pdb
+GAC_237,class_2,Class 2,class_2,Class 2,Y178 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_237/GAC_237_complex.pdb
+GAC_4,class_3,Class 3,class_3,Class 3,F247 | Hydrophobic contact | Aliphatic carbon unit,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_4/GAC_4_complex.pdb
+GAC_60,class_3,Class 3,class_3,Class 3,F247 | Hydrophobic contact | Aliphatic carbon unit,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_60/GAC_60_complex_protonated.pdb
+GAC_205,class_3,Class 3,class_3,Class 3,F247 | Hydrophobic contact | Aliphatic carbon unit,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_205/GAC_205_complex_protonated.pdb
+GAC_253,class_3,Class 3,class_3,Class 3,F247 | Hydrophobic contact | Aliphatic carbon unit,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_253/GAC_253_complex.pdb
+GAC_105,class_4,Class 4,class_4,Class 4,C347 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_105/GAC_105_complex_protonated.pdb
+GAC_128,class_4,Class 4,class_4,Class 4,C347 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_128/GAC_128_complex_protonated.pdb
+GAC_129,class_4,Class 4,class_4,Class 4,C347 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_129/GAC_129_complex.pdb
+GAC_171,class_4,Class 4,class_4,Class 4,C347 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_171/GAC_171_complex_protonated.pdb
+GAC_179,class_4,Class 4,class_4,Class 4,C347 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_179/GAC_179_complex_protonated.pdb
+GAC_254,class_4,Class 4,class_4,Class 4,C347 | Polar contact | N2 site,/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/plip_outputs/GAC_254/GAC_254_complex_protonated.pdb

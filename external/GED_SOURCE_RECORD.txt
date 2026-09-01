@@ -1,0 +1,7 @@
+Bundled third-party component: Graph_Edit_Distance
+Upstream repository: https://github.com/LijunChang/Graph_Edit_Distance
+Upstream commit: 244d25a160491a635b22bc6ae2cdef04b3ec4d48
+Source archive: Graph_Edit_Distance-master.zip
+Source archive SHA256: 8fb06eef61301d935cf3e8031ea58f773b046ffa37e058fd656b4469c4d896c8
+License: MIT; see Graph_Edit_Distance/LICENSE.md
+Source modifications: none

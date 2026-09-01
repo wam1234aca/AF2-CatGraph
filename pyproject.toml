@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "AF2-CatGraph"
+version = "1.2.2"
+description = "Graph-based screening of catalytic conformations from predicted enzyme ensembles"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.23,<2.0",
+  "pandas>=1.4,<3.0",
+  "pyyaml>=6.0,<7.0",
+  "matplotlib>=3.6,<4.0",
+  "openpyxl>=3.1,<4.0",
+  "networkx>=3.0,<4.0",
+  "rdkit>=2022.09,<2026.0",
+  "tqdm>=4.64,<5.0",
+  "biopython>=1.79,<2.0",
+  "scipy>=1.8,<2.0",
+]
+
+[project.optional-dependencies]
+gui = ["streamlit>=1.32,<2.0"]
+scientific = ["plip>=2.3,<3.0"]
+test = ["pytest>=8.0,<9.0"]
+all = ["plip>=2.3,<3.0", "streamlit>=1.32,<2.0", "pytest>=8.0,<9.0"]
+
+[project.scripts]
+af2-catgraph = "catcongraph.cli:main"
+# Backward-compatible command for existing scripts and saved tutorials.
+catcongraph = "catcongraph.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["catcongraph*"]
+
+[tool.setuptools.package-data]
+catcongraph = ["static/*.js", "static/*.txt", "static/*LICENSE*"]

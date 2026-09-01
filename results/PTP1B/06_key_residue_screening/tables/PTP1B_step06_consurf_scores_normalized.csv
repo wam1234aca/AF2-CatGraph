@@ -1,0 +1,322 @@
+chain,resseq,icode,seq,resname,consurf_score,consurf_grade,buried_exposed,functional_structural,msa_data,residue_variety,consurf_position,pdb_residue_annotation,residue_mapping_source,residue_key
+A,1,,M,MET,-0.427,7,e,,8/150,"M 75%, G 12%, P 12%",1,,alignment_position,MET1A
+A,2,,E,GLU,2.582,3,e,,8/150,"E 50%, A 12%, Q 12%, F 12%, S 12%",2,,alignment_position,GLU2A
+A,3,,M,MET,-0.247,6,e,,72/150,"M 62%, I 19%, L  8%, V  8%, F  1%",3,,alignment_position,MET3A
+A,4,,E,GLU,-0.739,8,e,f,75/150,"E 78%, D 14%, L  2%, Q  1%, K  1%, I  1%",4,,alignment_position,GLU4A
+A,5,,K,LYS,0.947,4,e,,75/150,"Q 28%, A 21%, R 14%, K 10%, T  9%, E  6%, V  2%, N  2%, S  2%, D  1%",5,,alignment_position,LYS5A
+A,6,,E,GLU,-0.614,7,e,,79/150,"E 87%, Q  5%, D  3%, T  2%, A  1%",6,,alignment_position,GLU6A
+A,7,,F,PHE,-0.201,6,b,,82/150,"F 69%, Y 23%, C  2%, L  1%, V  1%, S  1%, M  1%",7,,alignment_position,PHE7A
+A,8,,E,GLU,2.34,3,e,,82/150,"E 32%, R 13%, L  9%, N  8%, K  8%, V  6%, D  4%, M  4%, Q  2%, H  2%, W  1%, S  1%, Y  1%, A  1%, G  1%",8,,alignment_position,GLU8A
+A,9,,Q,GLN,0.338,5,e,,82/150,"E 43%, D 34%, K  7%, Q  4%, N  3%, R  2%, A  1%, H  1%, V  1%",9,,alignment_position,GLN9A
+A,10,,I,ILE,0.081,5,e,,84/150,"I 61%, L 14%, K  5%, Y  4%, R  3%, M  2%, H  2%, F  1%, V  1%, S  1%, Q  1%",10,,alignment_position,ILE10A
+A,11,,D,ASP,-0.291,6,e,,89/150,"D 62%, E 13%, N  8%, K  6%, A  2%, V  1%, T  1%, Q  1%, R  1%, G  1%",11,,alignment_position,ASP11A
+A,12,,K,LYS,0.926,4,e,,99/150,"S 32%, K 20%, E 11%, D  6%, A  6%, T  5%, Q  4%, G  4%, R  4%, N  3%, L  2%, F  1%, M  1%",12,,alignment_position,LYS12A
+A,13,,S,SER,0.546,5,e,,103/150,"K 20%, S 17%, N 15%, E 11%, R  6%, A  4%, Q  4%, H  3%, D  3%, P  2%, G  2%, T  1%, L  1%, C <1%",13,,alignment_position,SER13A
+A,14,,G,GLY,0.325,5,e,,104/150,"G 36%, N 16%, K 15%, A  5%, S  5%, H  5%, R  3%, D  2%, Y  2%, Q  1%, E  1%, F <1%",14,,alignment_position,GLY14A
+A,15,,S,SER,0.932,4,e,,118/150,"G 30%, R 17%, A 13%, S 10%, N  5%, Q  5%, K  4%, L  4%, E  2%, T  1%, D  1%, I  1%, C <1%, Y <1%",15,,alignment_position,SER15A
+A,16,,W,TRP,-0.681,8,b,,122/150,"W 62%, L 14%, I 12%, F  6%, Y  3%, V <1%",16,,alignment_position,TRP16A
+A,17,,A,ALA,1.215,4,e,,123/150,"Q 20%, N 15%, S 11%, Y  9%, A  6%, P  6%, V  6%, H  5%, I  4%, L  3%, T  3%, F  3%, R  1%, D <1%, E <1%",17,,alignment_position,ALA17A
+A,18,,A,ALA,1.745,3,e,,126/150,"Q 17%, K 13%, A 11%, S  9%, N  9%, E  7%, I  6%, T  5%, R  4%, P  3%, D  2%, L  2%, G  1%, F  1%, V  1%, H <1%",18,,alignment_position,ALA18A
+A,19,,I,ILE,-0.162,6,e,,128/150,"E 35%, L 24%, V 14%, I 13%, Q  3%, F  2%, D  1%, A <1%, P <1%, T <1%, M <1%, Y <1%, H <1%",19,,alignment_position,ILE19A
+A,20,,Y,TYR,-0.518,7,b,,128/150,"Y 78%, F 20%, I <1%",20,,alignment_position,TYR20A
+A,21,,Q,GLN,-0.193,6,e,,129/150,"Q 31%, E 18%, L 10%, A 10%, N  8%, K  8%, M  3%, S  1%, R  1%, D  1%, I <1%, V <1%, G <1%, H <1%, Y <1%",21,,alignment_position,GLN21A
+A,22,,D,ASP,0.911,4,e,,129/150,"E 52%, D 11%, K  7%, Q  5%, R  3%, S  3%, A  2%, H  2%, L  2%, N  2%, T  1%, M  1%, Y <1%, G <1%, V <1%",22,,alignment_position,ASP22A
+A,23,,I,ILE,-0.747,8,b,,129/150,"I 81%, L 14%, V  2%, M  1%",23,,alignment_position,ILE23A
+A,24,,R,ARG,-0.072,5,e,,129/150,"R 58%, K 17%, P  4%, G  3%, N  2%, Y  2%, D  2%, Q  1%, S  1%, A  1%, E  1%, H <1%, C <1%, F <1%",24,,alignment_position,ARG24A
+A,25,,H,HIS,1.116,4,e,,129/150,"N 25%, K 13%, Q 11%, R  8%, E  6%, S  6%, T  5%, H  4%, A  4%, L  3%, D  3%, Y  1%, M  1%, C <1%, W <1%, I <1%, G <1%, P <1%",25,,alignment_position,HIS25A
+A,26,,E,GLU,0.183,5,e,,131/150,"E 34%, Q 26%, R 12%, K  9%, V  3%, L  3%, S  2%, D  1%, M  1%, T  1%, A <1%, G <1%, I <1%",26,,alignment_position,GLU26A
+A,27,,A,ALA,-0.14,6,e,,131/150,"S 39%, A 16%, P 15%, C  8%, G  5%, K  3%, Q  2%, R  2%, E  1%, T  1%, Y <1%, V <1%, F <1%, H <1%, D <1%",27,,alignment_position,ALA27A
+A,28,,S,SER,1.084,4,e,,133/150,"P 26%, S 15%, H 12%, K  8%, Y  6%, L  5%, Q  4%, N  4%, F  3%, C  3%, A  2%, E  2%, R  2%, V  1%, M <1%, D <1%",28,,alignment_position,SER28A
+A,29,,D,ASP,0.795,4,e,,134/150,"E 29%, D 19%, A  8%, K  6%, T  5%, S  5%, Q  4%, N  4%, P  4%, G  3%, V  2%, H  1%, C <1%, R <1%, L <1%",29,,alignment_position,ASP29A
+A,30,,F,PHE,0.693,4,e,,135/150,"G 23%, Y 20%, L 14%, C 12%, F 10%, I  2%, H  2%, Q  2%, E  2%, M  1%, S  1%, K  1%, R  1%, D  1%, V <1%",30,,alignment_position,PHE30A
+A,31,,P,PRO,-0.11,5,e,,135/150,"T 33%, P 29%, S 25%, A  3%, I  1%, D  1%, N  1%, G  1%, L <1%, H <1%, K <1%",31,,alignment_position,PRO31A
+A,32,,C,CYS,0.639,4,e,,136/150,"F 26%, C 19%, Y 18%, T 11%, H  4%, V  3%, S  2%, N  2%, I  2%, L  2%, M  2%, W  1%, K  1%, R  1%",32,,alignment_position,CYS32A
+A,33,,R,ARG,0.959,4,e,,137/150,"K 32%, D 13%, N 12%, S  8%, T  8%, R  6%, L  4%, E  3%, I  2%, A  2%, H  1%, G <1%, V <1%, W <1%, F <1%",33,,alignment_position,ARG33A
+A,34,,V,VAL,0.164,5,e,,139/150,"V 37%, E 17%, Y  9%, I  7%, H  7%, A  5%, T  3%, L  2%, D  2%, C  2%, N  2%, M  1%, S <1%",34,,alignment_position,VAL34A
+A,35,,A,ALA,-0.885,8,b,,139/150,"A 74%, S 21%, G  2%, K  1%",35,,alignment_position,ALA35A
+A,36,,K,LYS,0.101,5,e,,139/150,"K 62%, R 15%, L  5%, E  2%, H  2%, Q  2%, I  1%, A  1%, V  1%, M  1%, N <1%, S <1%, D <1%, T <1%",36,,alignment_position,LYS36A
+A,37,,L,LEU,1.169,4,e,,139/150,"L 27%, K 23%, S  8%, Y  8%, R  7%, F  5%, A  4%, M  4%, Q  2%, N  1%, I  1%, E  1%, C <1%, T <1%, V <1%",37,,alignment_position,LEU37A
+A,38,,P,PRO,0.589,4,e,,139/150,"P 56%, R  8%, L  7%, K  6%, A  5%, E  2%, S  2%, M  2%, W  2%, I  1%, H  1%, Q <1%, N <1%, V <1%, D <1%, G <1%",38,,alignment_position,PRO38A
+A,39,,K,LYS,0.754,4,e,,140/150,"E 42%, Q 10%, A  9%, S  6%, K  5%, N  4%, R  3%, D  3%, V  3%, P  2%, T  2%, H  1%, Y  1%, C  1%, F <1%, I <1%, L <1%",39,,alignment_position,LYS39A
+A,40,,N,ASN,-1.106,9,e,f,140/150,"N 97%, Y <1%, H <1%, V <1%, S <1%",40,,alignment_position,ASN40A
+A,41,,K,LYS,0.284,5,e,,140/150,"R 31%, K 26%, L 12%, Q 10%, V  5%, A  3%, M  2%, N  2%, S  1%, E  1%, D <1%, I <1%, C <1%, Y <1%",41,,alignment_position,LYS41A
+A,42,,N,ASN,1.185,4,e,,140/150,"N 29%, T 12%, P  8%, S  7%, I  6%, A  5%, G  4%, E  4%, L  3%, R  2%, V  2%, D  2%, K  2%, Q  2%, C  2%, F  1%, M <1%, H <1%",42,,alignment_position,ASN42A
+A,43,,R,ARG,-0.797,8,e,f,140/150,"K 42%, R 32%, L 23%, Y  1%, F <1%",43,,alignment_position,ARG43A
+A,44,,N,ASN,-1.178,9,e,f,140/150,N,44,,alignment_position,ASN44A
+A,45,,R,ARG,-1.157,9,e,f,140/150,"R 99%, Q <1%",45,,alignment_position,ARG45A
+A,46,,Y,TYR,-0.89,8,b,,140/150,"Y 94%, F  5%, C <1%",46,,alignment_position,TYR46A
+A,47,,R,ARG,-0.596,7,e,,140/150,"R 58%, S 14%, T 12%, K  4%, P  4%, Q  1%, G <1%, L <1%, A <1%, N <1%, V <1%, Y <1%, C <1%",47,,alignment_position,ARG47A
+A,48,,D,ASP,-0.867,8,e,f,140/150,"D 82%, N 12%, T  2%, A  1%, R <1%",48,,alignment_position,ASP48A
+A,49,,V,VAL,-0.952,9,b,s,141/150,"V 83%, I 11%, T  2%, L  1%, H <1%, A <1%",49,,alignment_position,VAL49A
+A,50,,S,SER,-0.466,7,b,,141/150,"S 36%, L 36%, N  9%, A  2%, I  2%, V  2%, F  2%, T  1%, H  1%, Y <1%, P <1%, M <1%",50,,alignment_position,SER50A
+A,51,,P,PRO,-0.991,9,b,s,143/150,"P 74%, C 21%, A  2%, T  1%",51,,alignment_position,PRO51A
+A,52,,F,PHE,-0.503,7,e,,144/150,"Y 62%, F 24%, L  9%, H  1%, V <1%, A <1%, D <1%",52,,alignment_position,PHE52A
+A,53,,D,ASP,-1.096,9,e,f,144/150,"D 97%, N  1%, S <1%, E <1%",53,,alignment_position,ASP53A
+A,54,,H,HIS,-0.435,7,e,,144/150,"H 71%, Q  9%, D  3%, T  2%, E  2%, G  2%, Y  1%, A  1%, S  1%, K <1%, N <1%, L <1%, R <1%, F <1%, P <1%",54,,alignment_position,HIS54A
+A,55,,S,SER,-0.755,8,b,,144/150,"S 78%, T 15%, N  4%, C <1%, H <1%",55,,alignment_position,SER55A
+A,56,,R,ARG,-1.136,9,e,f,144/150,"R 98%, L <1%, I <1%",56,,alignment_position,ARG56A
+A,57,,I,ILE,-0.967,9,b,s,145/150,"V 75%, I 24%",57,,alignment_position,ILE57A
+A,58,,K,LYS,0.64,4,e,,145/150,"K 32%, V 18%, R 17%, I 13%, C  3%, T  2%, L  2%, H  2%, P  1%, A  1%, Q  1%, M  1%, Y <1%, E <1%",58,,alignment_position,LYS58A
+A,59,,L,LEU,-1.115,9,b,s,145/150,"L 97%, I  2%",59,,alignment_position,LEU59A
+A,60,,H,HIS,0.958,4,e,,144/150,"Q 18%, K 16%, E 12%, S 11%, N  9%, R  6%, C  4%, H  4%, A  4%, T  4%, G  2%, D  2%, P  2%, L  1%, F <1%",60,,alignment_position,HIS60A
+A,61,,Q,GLN,0.617,4,e,,139/150,"D 23%, N 17%, R 15%, S 10%, L  6%, E  5%, H  3%, V  3%, K  3%, Q  2%, C  2%, A  2%, G  1%, T <1%, P <1%, F <1%",61,,alignment_position,GLN61A
+A,62,,E,GLU,1.415,4,e,,141/150,"G 27%, E 15%, T 10%, P  9%, S  8%, A  5%, N  3%, C  3%, V  2%, K  2%, D  2%, I  2%, L  1%, R  1%, H <1%, Y <1%, Q <1%, M <1%",62,,alignment_position,GLU62A
+A,63,,D,ASP,1.052,4,e,,143/150,"E 24%, D 15%, S 13%, T 12%, G 10%, N  4%, H  3%, P  2%, A  2%, M  2%, V  2%, L  2%, C  1%, K  1%, I <1%, Y <1%",63,,alignment_position,ASP63A
+A,64,,N,ASN,-0.178,6,e,,143/150,"N 37%, S 29%, T  8%, G  6%, C  2%, V  2%, D  2%, Y  2%, A  2%, K  1%, E  1%, I <1%, H <1%, P <1%, R <1%, L <1%, Q <1%",64,,alignment_position,ASN64A
+A,65,,D,ASP,-1.001,9,e,f,144/150,"D 93%, N  2%, S  2%, G <1%",65,,alignment_position,ASP65A
+A,66,,Y,TYR,-1.109,9,b,s,144/150,"Y 98%, F  1%",66,,alignment_position,TYR66A
+A,67,,I,ILE,-1.111,9,b,s,144/150,"I 96%, V  3%",67,,alignment_position,ILE67A
+A,68,,N,ASN,-1.129,9,e,f,144/150,"N 96%, H  3%",68,,alignment_position,ASN68A
+A,69,,A,ALA,-1.144,9,b,s,145/150,"A 98%, G <1%, P <1%",69,,alignment_position,ALA69A
+A,70,,S,SER,-0.939,9,b,s,145/150,"S 64%, N 34%, C <1%",70,,alignment_position,SER70A
+A,71,,L,LEU,0.069,5,b,,145/150,"L 43%, F 29%, Y 13%, P  4%, H  2%, T  2%, I  1%, S <1%, M <1%, A <1%, V <1%",71,,alignment_position,LEU71A
+A,72,,I,ILE,-0.691,8,b,,145/150,"V 51%, I 31%, M 10%, L  4%, Q <1%, F <1%",72,,alignment_position,ILE72A
+A,73,,K,LYS,0.513,5,e,,144/150,"D 27%, K 13%, V 12%, P 10%, S  8%, T  6%, E  5%, N  3%, R  3%, M  2%, A  2%, Q  2%, F <1%, H <1%, L <1%",73,,alignment_position,LYS73A
+A,74,,M,MET,-0.252,6,b,,145/150,"G 31%, V 27%, M 20%, I  6%, D  4%, H  3%, A  2%, L  2%, T  1%, Y <1%",74,,alignment_position,MET74A
+A,75,,E,GLU,0.037,5,e,,145/150,"E 37%, Y 24%, D  9%, P  8%, S  5%, K  3%, F  2%, A  2%, I  1%, L  1%, T <1%, V <1%, C <1%, H <1%",75,,alignment_position,GLU75A
+A,76,,E,GLU,0.429,5,e,,145/150,"E 29%, K 25%, R 11%, D  6%, Q  4%, S  4%, N  4%, P  4%, L  2%, G  2%, A  1%, H  1%, C <1%, I <1%, M <1%, T <1%, V <1%, F <1%",76,,alignment_position,GLU76A
+A,77,,A,ALA,-0.529,7,e,,146/150,"A 52%, Q 13%, R 10%, S  6%, G  3%, T  2%, L  2%, V  2%, E  2%, K  1%, I  1%, N  1%, M <1%, F <1%, P <1%",77,,alignment_position,ALA77A
+A,78,,Q,GLN,0.765,4,e,,146/150,"Q 23%, K 17%, N 15%, R 10%, E  4%, H  4%, S  4%, D  4%, G  3%, T  3%, P  2%, V  1%, A  1%, M <1%, L <1%, Y <1%, I <1%",78,,alignment_position,GLN78A
+A,79,,R,ARG,-0.587,7,e,,147/150,"R 61%, N 21%, K  6%, P  3%, S  1%, L  1%, E <1%, Q <1%, D <1%, C <1%, F <1%, H <1%, G <1%",79,,alignment_position,ARG79A
+A,80,,S,SER,0.305,5,e,,147/150,"A 28%, S 21%, K 13%, N 10%, R  8%, E  5%, T  4%, Q  3%, H  1%, D <1%, Y <1%, W <1%, L <1%, I <1%",80,,alignment_position,SER80A
+A,81,,Y,TYR,-0.684,8,b,,147/150,"Y 87%, F 11%, E <1%, I <1%",81,,alignment_position,TYR81A
+A,82,,I,ILE,-1.095,9,b,s,147/150,"I 96%, V  2%, M <1%",82,,alignment_position,ILE82A
+A,83,,L,LEU,-0.867,8,b,,147/150,"L 56%, A 25%, S 10%, C  2%, G  1%, N  1%, V <1%, T <1%, M <1%",83,,alignment_position,LEU83A
+A,84,,T,THR,-0.83,8,e,f,147/150,"T 80%, S  8%, A  6%, C  3%, L <1%",84,,alignment_position,THR84A
+A,85,,Q,GLN,-1.158,9,e,f,147/150,"Q 99%, H <1%",85,,alignment_position,GLN85A
+A,86,,G,GLY,-1.114,9,e,f,149/150,"G 98%, A  1%",86,,alignment_position,GLY86A
+A,87,,P,PRO,-1.178,9,e,f,149/150,P,87,,alignment_position,PRO87A
+A,88,,L,LEU,-0.985,9,e,f,149/150,"L 95%, K  2%, T <1%, I <1%, N <1%, M <1%",88,,alignment_position,LEU88A
+A,89,,P,PRO,0.229,5,e,,149/150,"P 57%, R 12%, S  6%, E  5%, Q  3%, K  2%, A  2%, V  1%, G  1%, L  1%, N  1%, D  1%, T <1%, C <1%, I <1%, M <1%, F <1%",89,,alignment_position,PRO89A
+A,90,,N,ASN,0.036,5,e,,149/150,"N 46%, K 17%, H  8%, S  8%, A  3%, T  3%, G  2%, E  2%, D  2%, V  1%, L  1%, F  1%, R <1%, Q <1%",90,,alignment_position,ASN90A
+A,91,,T,THR,-1.131,9,e,f,149/150,"T 97%, S  1%, M <1%",91,,alignment_position,THR91A
+A,92,,C,CYS,0.48,5,b,,149/150,"C 38%, V 14%, S 10%, F  9%, T  7%, A  4%, I  4%, Y  2%, L  2%, K  2%, R  1%, M <1%, G <1%",92,,alignment_position,CYS92A
+A,93,,G,GLY,0.94,4,e,,149/150,"G 49%, S 10%, A  9%, C  6%, N  5%, V  4%, P  3%, E  3%, K  2%, D  2%, Q  2%, Y  2%",93,,alignment_position,GLY93A
+A,94,,H,HIS,-0.929,9,b,s,149/150,"H 52%, D 42%, E  2%, N <1%, S <1%, Q <1%, A <1%",94,,alignment_position,HIS94A
+A,95,,F,PHE,-1.075,9,b,s,149/150,"F 97%, M  1%, H <1%",95,,alignment_position,PHE95A
+A,96,,W,TRP,-1.107,9,b,s,149/150,"W 99%, I <1%",96,,alignment_position,TRP96A
+A,97,,E,GLU,-0.499,7,b,,149/150,"L 36%, R 26%, Q 16%, E 11%, K  2%, A  1%, I  1%, S  1%, D <1%, Y <1%, C <1%",97,,alignment_position,GLU97A
+A,98,,M,MET,-1.143,9,b,s,150/150,"M 98%, T <1%, L <1%",98,,alignment_position,MET98A
+A,99,,V,VAL,-0.581,7,b,,150/150,"V 64%, I 32%, T  1%, A  1%, M <1%, L <1%",99,,alignment_position,VAL99A
+A,100,,W,TRP,-1.178,9,b,s,150/150,W,100,,alignment_position,TRP100A
+A,101,,E,GLU,-0.928,9,e,f,150/150,"E 84%, Q 13%, H  1%, Y <1%",101,,alignment_position,GLU101A
+A,102,,Q,GLN,-0.855,8,e,f,150/150,"Q 89%, N  2%, E  2%, T  2%, L  1%, K <1%, C <1%, S <1%, Y <1%",102,,alignment_position,GLN102A
+A,103,,K,LYS,0.072,5,e,,150/150,"K 28%, N 22%, R  8%, G  8%, Q  8%, M  7%, H  6%, C  4%, S  2%, E  1%, D  1%, T <1%",103,,alignment_position,LYS103A
+A,104,,S,SER,-0.239,6,b,,150/150,"S 39%, T 29%, V 16%, C 10%, I  2%, A  2%",104,,alignment_position,SER104A
+A,105,,R,ARG,0.478,5,e,,150/150,"K 31%, R 18%, L 18%, T  6%, S  4%, H  4%, V  4%, M  2%, N  2%, E  2%, P  2%, A  1%, G  1%, Y <1%, C <1%",105,,alignment_position,ARG105A
+A,106,,G,GLY,-0.519,7,b,,150/150,"A 40%, V 21%, G 14%, I  9%, L  6%, T  2%, S  2%, N  1%, M <1%, E <1%, K <1%, Q <1%",106,,alignment_position,GLY106A
+A,107,,V,VAL,-0.615,7,b,,150/150,"I 56%, V 42%, L  1%",107,,alignment_position,VAL107A
+A,108,,V,VAL,-0.73,8,b,,150/150,"V 65%, I 21%, L 11%, A  1%, T <1%",108,,alignment_position,VAL108A
+A,109,,M,MET,-1.16,9,b,s,150/150,"M 99%, V <1%",109,,alignment_position,MET109A
+A,110,,L,LEU,-0.892,8,b,,150/150,"L 71%, T 20%, V  5%, M  1%, A <1%, I <1%",110,,alignment_position,LEU110A
+A,111,,N,ASN,-0.973,9,b,s,150/150,"N 55%, T 38%, S  2%, C  1%, A  1%, M <1%",111,,alignment_position,ASN111A
+A,112,,R,ARG,-0.5,7,e,,150/150,"R 64%, K 18%, N  5%, Q  4%, P  2%, G  2%, A <1%, T <1%, H <1%, D <1%",112,,alignment_position,ARG112A
+A,113,,V,VAL,0.353,5,b,,150/150,"V 49%, L 20%, I 14%, T  4%, C  4%, E  3%, A  2%, Q <1%, D <1%, F <1%, P <1%",113,,alignment_position,VAL113A
+A,114,,M,MET,-0.16,6,b,,150/150,"I 38%, V 36%, M 12%, E  2%, T  2%, L  2%, N  1%, A  1%, D  1%, F <1%, Y <1%, C <1%, R <1%",114,,alignment_position,MET114A
+A,115,,E,GLU,-1.178,9,e,f,150/150,E,115,,alignment_position,GLU115A
+A,116,,K,LYS,-0.242,6,e,,150/150,"K 55%, R 23%, N  6%, G  6%, S  2%, Q  1%, C  1%, H  1%, L  1%, Y  1%, D <1%",116,,alignment_position,LYS116A
+A,117,,G,GLY,-0.56,7,e,,150/150,"G 70%, N 10%, S  4%, K  4%, E  3%, D  2%, R  2%, Q  1%, T <1%, H <1%",117,,alignment_position,GLY117A
+A,118,,S,SER,-0.346,6,e,,150/150,"S 30%, R 30%, K 10%, Q  8%, T  6%, E  3%, A  2%, V  2%, L  2%, M  1%, C  1%, H <1%, G <1%",118,,alignment_position,SER118A
+A,119,,L,LEU,0.936,4,e,,149/150,"V 34%, E 19%, I 16%, T  6%, P  4%, L  4%, M  2%, K  2%, A  2%, R  2%, N  2%, H  1%, S  1%, C <1%, Q <1%, G <1%",119,,alignment_position,LEU119A
+A,120,,K,LYS,-1.015,9,e,f,149/150,"K 93%, R  2%, M  2%, T <1%, L <1%, Q <1%",120,,alignment_position,LYS120A
+A,121,,C,CYS,-1.105,9,b,s,149/150,"C 98%, G <1%, V <1%",121,,alignment_position,CYS121A
+A,122,,A,ALA,-0.169,6,e,,149/150,"A 36%, H 28%, G 14%, E  7%, D  3%, Y  3%, V  1%, F  1%, S  1%, L <1%, T <1%, Q <1%, W <1%",122,,alignment_position,ALA122A
+A,123,,Q,GLN,-0.359,6,e,,149/150,"Q 69%, R  6%, K  6%, L  3%, W  2%, P  2%, H  2%, D  2%, A  1%, E <1%, Y <1%, M <1%, S <1%, V <1%, T <1%",123,,alignment_position,GLN123A
+A,124,,Y,TYR,-1.143,9,e,f,149/150,"Y 99%, E <1%",124,,alignment_position,TYR124A
+A,125,,W,TRP,-0.988,9,e,f,149/150,"W 95%, F  3%, Y  1%",125,,alignment_position,TRP125A
+A,126,,P,PRO,-0.997,9,e,f,149/150,"P 89%, E  6%, G  1%, A  1%, I <1%",126,,alignment_position,PRO126A
+A,127,,Q,GLN,1.658,4,e,,149/150,"T 17%, L 14%, S 10%, Q  8%, P  8%, D  8%, E  8%, N  4%, A  4%, V  3%, H  1%, K  1%, Y  1%, M  1%, G  1%, I <1%, R <1%, C <1%, F <1%",127,,alignment_position,GLN127A
+A,128,,K,LYS,1.098,4,e,,147/150,"E 23%, G 14%, K  9%, A  8%, R  7%, T  7%, D  7%, S  5%, L  3%, Q  2%, P  2%, N  2%, V  2%, H  1%, I <1%, F <1%, Y <1%",128,,alignment_position,LYS128A
+A,129,,E,GLU,1.617,4,e,,148/150,"E 42%, G 10%, S  6%, D  6%, I  5%, T  4%, V  4%, K  2%, R  2%, L  2%, M  2%, P  2%, Q  2%, A  1%, H  1%, N  1%, C <1%",129,,alignment_position,GLU129A
+A,130,,E,GLU,1.069,4,e,,149/150,"E 41%, D 16%, G 16%, S  8%, N  3%, A  2%, Q  2%, K  2%, T  2%, Y  1%, V  1%, R  1%, I <1%, L <1%",130,,alignment_position,GLU130A
+A,131,,K,LYS,1.449,4,e,,149/150,"R 21%, K 10%, E 10%, S 10%, P  8%, D  7%, Q  6%, L  4%, T  4%, H  4%, G  4%, A  2%, N  2%, V  1%, F <1%, M <1%, C <1%, I <1%",131,,alignment_position,LYS131A
+A,132,,E,GLU,1.864,3,e,,149/150,"E 27%, T 12%, V 10%, Q 10%, S  8%, D  8%, K  6%, P  4%, L  4%, A  2%, H  1%, I  1%, M  1%, C <1%, G <1%, R <1%",132,,alignment_position,GLU132A
+A,133,,M,MET,0.533,5,e,,124/150,"M 39%, L 18%, E 11%, V  8%, A  6%, I  4%, R  3%, Q  2%, K  1%, S <1%, D <1%, T <1%, C <1%, F <1%",133,,alignment_position,MET133A
+A,134,,I,ILE,2.128,3,e,,124/150,"E 16%, V 13%, T 11%, L  9%, S  9%, Q  8%, I  6%, A  5%, K  5%, D  3%, M  2%, Y  1%, F  1%, N  1%, P <1%, C <1%, H <1%, R <1%",134,,alignment_position,ILE134A
+A,135,,F,PHE,-0.337,6,b,,84/150,"F 73%, L 20%, Y  2%, I  1%, M  1%, V  1%",135,,alignment_position,PHE135A
+A,136,,E,GLU,1.673,4,e,,99/150,"E 17%, R 15%, T 11%, K 10%, D  8%, S  8%, N  8%, P  5%, V  3%, A  2%, M  2%, I  2%, F  2%, Y  2%, H  1%, L  1%, Q  1%, C  1%",136,,alignment_position,GLU136A
+A,137,,D,ASP,0.171,5,e,,147/150,"D 44%, Y 17%, F 12%, E  8%, H  6%, A  2%, S  2%, Q  2%, N  1%, I <1%, C <1%, L <1%",137,,alignment_position,ASP137A
+A,138,,T,THR,-0.493,7,e,,149/150,"T 31%, G 30%, V 18%, D  5%, E  3%, H  3%, S  2%, Q  1%, A <1%, I <1%, C <1%, P <1%, K <1%",138,,alignment_position,THR138A
+A,139,,N,ASN,0.719,4,e,,148/150,"N 24%, G 24%, R  8%, D  8%, S  6%, H  5%, K  4%, Y  3%, E  3%, Q  2%, I  2%, C  1%, L  1%, T  1%, F <1%, A <1%, V <1%, W <1%",139,,alignment_position,ASN139A
+A,140,,L,LEU,-0.005,5,b,,148/150,"F 50%, L 32%, Y  9%, I  4%, M  1%, V  1%",140,,alignment_position,LEU140A
+A,141,,K,LYS,0.837,4,e,,147/150,"K 23%, L 12%, T 12%, V 10%, Q  7%, I  6%, S  5%, E  5%, C  4%, R  4%, H  2%, N  2%, A  1%, D <1%, G <1%, M <1%",141,,alignment_position,LYS141A
+A,142,,L,LEU,-0.742,8,b,,147/150,"V 74%, L 12%, I 12%, A <1%, C <1%",142,,alignment_position,LEU142A
+A,143,,T,THR,0.22,5,e,,148/150,"T 36%, R 18%, E 12%, K  6%, S  5%, H  4%, V  4%, Q  3%, D  2%, N  2%, I  2%, A  1%, Y <1%, F <1%, G <1%",143,,alignment_position,THR143A
+A,144,,L,LEU,0.219,5,b,,148/150,"L 52%, N 12%, T  8%, F  8%, Y  5%, Q  2%, S  2%, V  2%, I  1%, C  1%, R <1%, K <1%, A <1%, M <1%",144,,alignment_position,LEU144A
+A,145,,I,ILE,1.991,3,b,,148/150,"L 29%, V 27%, I 16%, T  8%, K  6%, M  4%, E  4%, A  2%, Q  1%, N <1%, S <1%",145,,alignment_position,ILE145A
+A,146,,S,SER,-0.143,6,e,,148/150,"S 59%, H  6%, E  6%, Q  5%, G  3%, N  3%, D  3%, T  2%, K  2%, R  2%, A  2%, C  1%, Y <1%",146,,alignment_position,SER146A
+A,147,,E,GLU,-0.019,5,e,,149/150,"E 56%, I 11%, V  9%, K  4%, T  4%, Q  3%, S  2%, C  2%, R  1%, Y  1%, M  1%, L  1%, D  1%, F <1%",147,,alignment_position,GLU147A
+A,148,,D,ASP,0.235,5,e,,149/150,"E 30%, D 27%, Q  9%, T  6%, I  6%, K  4%, R  4%, S  3%, N  2%, V  2%, L  1%, M <1%, G <1%",148,,alignment_position,ASP148A
+A,149,,I,ILE,1.361,4,e,,149/150,"V 19%, D 14%, T 11%, I 10%, E  8%, Q  8%, N  4%, M  4%, H  3%, W  3%, P  2%, R  2%, C  2%, G  2%, A  1%, S  1%, K <1%, L <1%",149,,alignment_position,ILE149A
+A,150,,K,LYS,1.189,4,e,,149/150,"K 27%, F 12%, N  9%, Y  8%, T  6%, C  6%, H  5%, Q  4%, L  4%, S  4%, A  2%, D  2%, E  1%, M  1%, G  1%, R  1%, V <1%, I <1%",150,,alignment_position,LYS150A
+A,151,,S,SER,0.467,5,e,,149/150,"S 36%, Q 12%, P 12%, E  8%, D  7%, T  5%, A  5%, G  4%, N  2%, H  2%, R  1%, M <1%, L <1%, K <1%",151,,alignment_position,SER151A
+A,152,,Y,TYR,0.245,5,e,,149/150,"Y 32%, D 30%, N 11%, H  8%, E  4%, C  2%, S  2%, F  2%, G  2%, A  2%, L  1%, K <1%, P <1%",152,,alignment_position,TYR152A
+A,153,,Y,TYR,-0.026,5,b,,149/150,"Y 67%, F 21%, W  4%, L  1%, M  1%, V  1%, I <1%, C <1%, S <1%, T <1%",153,,alignment_position,TYR153A
+A,154,,T,THR,-0.153,6,e,,149/150,"T 54%, V 11%, I 10%, K  9%, L  5%, S  2%, N  1%, R  1%, D  1%, F <1%, A <1%, M <1%, H <1%",154,,alignment_position,THR154A
+A,155,,V,VAL,0.05,5,b,,149/150,"V 40%, T 18%, I 18%, L 10%, E  4%, R  3%, K  2%, Q  1%, Y <1%, H <1%",155,,alignment_position,VAL155A
+A,156,,R,ARG,-0.848,8,e,f,149/150,"R 71%, S 12%, T  8%, H  3%, A  2%, L <1%, V <1%, Q <1%",156,,alignment_position,ARG156A
+A,157,,Q,GLN,1.553,4,e,,149/150,"V 14%, Q 12%, H 10%, T 10%, S  9%, E  8%, L  7%, K  6%, D  4%, R  3%, Y  3%, I  2%, W  2%, N  2%, G  1%, M <1%, A <1%",157,,alignment_position,GLN157A
+A,158,,L,LEU,-0.176,6,b,,149/150,"L 71%, F 20%, I  6%, Y <1%, M <1%",158,,alignment_position,LEU158A
+A,159,,E,GLU,1.428,4,e,,149/150,"E 41%, Q 10%, K 10%, R  8%, T  6%, L  4%, Y  4%, S  2%, V  2%, N  2%, M  2%, D  1%, C  1%, G <1%, H <1%, F <1%, I <1%, A <1%",159,,alignment_position,GLU159A
+A,160,,L,LEU,-0.457,7,b,,149/150,"L 79%, I 12%, V  6%, M <1%",160,,alignment_position,LEU160A
+A,161,,E,GLU,0.754,4,e,,148/150,"T 20%, E 18%, Q 15%, K  8%, R  6%, Y  6%, H  5%, C  3%, L  2%, F  2%, A  2%, I  2%, W  1%, V  1%, S  1%, D <1%, N <1%",161,,alignment_position,GLU161A
+A,162,,N,ASN,-0.504,7,e,,143/150,"N 67%, D 16%, H  3%, E  2%, S  2%, R  2%, F <1%, Y <1%, T <1%, Q <1%, W <1%, K <1%, A <1%, L <1%",162,,alignment_position,ASN162A
+A,163,,L,LEU,1.357,4,e,,143/150,"L 37%, T 20%, I 14%, M  4%, S  4%, K  4%, V  3%, N  2%, R  2%, D  1%, E  1%, Q <1%, A <1%, P <1%",163,,alignment_position,LEU163A
+A,164,,T,THR,1.13,4,e,,149/150,"K 20%, E 18%, S 16%, N  9%, Q  9%, T  6%, D  4%, R  4%, L  3%, A  2%, M  1%, G  1%, H  1%, P <1%, V <1%, Y <1%, C <1%",164,,alignment_position,THR164A
+A,165,,T,THR,-0.437,7,e,,150/150,"T 64%, S 18%, E  4%, G  3%, L  1%, N  1%, M  1%, D  1%, Q  1%, A <1%, I <1%, V <1%, P <1%",165,,alignment_position,THR165A
+A,166,,Q,GLN,1.341,4,e,,150/150,"G 42%, Q 10%, S 10%, D  9%, N  8%, E  5%, R  4%, T  2%, K  2%, L  2%, A  1%, H <1%, P <1%",166,,alignment_position,GLN166A
+A,167,,E,GLU,-0.332,6,e,,150/150,"E 76%, K  4%, D  4%, Q  4%, T  2%, N  2%, L  2%, V  1%, I <1%, P <1%, H <1%",167,,alignment_position,GLU167A
+A,168,,T,THR,0.615,4,e,,150/150,"S 29%, T 26%, K 12%, V  5%, E  5%, R  5%, I  4%, A  3%, C  2%, P  2%, W  1%, Y <1%, L <1%, Q <1%, M <1%",168,,alignment_position,THR168A
+A,169,,R,ARG,-0.987,9,e,f,150/150,"R 94%, H  2%, K  1%, L <1%, Q <1%, I <1%",169,,alignment_position,ARG169A
+A,170,,E,GLU,1.326,4,e,,150/150,"E 47%, T  9%, D  8%, N  6%, I  4%, V  3%, Q  3%, S  3%, L  3%, K  2%, R  2%, A  1%, C  1%, P  1%, M <1%, H <1%, F <1%",170,,alignment_position,GLU170A
+A,171,,I,ILE,-0.662,8,b,,150/150,"I 50%, V 46%, L  2%",171,,alignment_position,ILE171A
+A,172,,L,LEU,0.426,5,b,,150/150,"L 23%, S 16%, Y 14%, T  9%, C  5%, V  5%, I  5%, K  4%, M  3%, R  3%, A  2%, F  2%, H  1%, Q  1%, N <1%, E <1%, W <1%",172,,alignment_position,LEU172A
+A,173,,H,HIS,-0.848,8,b,,150/150,"H 78%, Q 20%, R <1%",173,,alignment_position,HIS173A
+A,174,,F,PHE,-0.088,5,b,,150/150,"F 65%, Y 16%, W  6%, L  4%, M  3%, I  2%, V  1%",174,,alignment_position,PHE174A
+A,175,,H,HIS,-0.802,8,b,,150/150,"H 68%, Q 18%, L  9%, N  2%, R <1%, M <1%, S <1%",175,,alignment_position,HIS175A
+A,176,,Y,TYR,-0.644,7,b,,150/150,"Y 77%, F 21%, D <1%, L <1%",176,,alignment_position,TYR176A
+A,177,,T,THR,-0.44,7,b,,150/150,"T 69%, L 10%, I  6%, M  6%, V  4%, S  1%, N <1%, Q <1%, F <1%, R <1%",177,,alignment_position,THR177A
+A,178,,T,THR,-0.469,7,b,,150/150,"T 50%, S 28%, A 11%, G  2%, V  1%, D  1%, E  1%, M <1%, H <1%, Q <1%, K <1%, R <1%",178,,alignment_position,THR178A
+A,179,,W,TRP,-1.178,9,b,s,150/150,W,179,,alignment_position,TRP179A
+A,180,,P,PRO,-1.024,9,e,f,150/150,"P 96%, R <1%, T <1%, G <1%, Y <1%, L <1%",180,,alignment_position,PRO180A
+A,181,,D,ASP,-1.138,9,e,f,150/150,"D 98%, E  1%",181,,alignment_position,ASP181A
+A,182,,F,PHE,-0.822,8,e,f,150/150,"F 66%, H 17%, Y 12%, N  2%, M <1%, S <1%, Q <1%",182,,alignment_position,PHE182A
+A,183,,G,GLY,-1.006,9,e,f,150/150,"G 96%, D  1%, L <1%, C <1%, R <1%",183,,alignment_position,GLY183A
+A,184,,V,VAL,-0.864,8,e,f,149/150,"V 86%, I  6%, T  3%, A  1%, L  1%, S <1%",184,,alignment_position,VAL184A
+A,185,,P,PRO,-1.149,9,e,f,150/150,"P 99%, G <1%",185,,alignment_position,PRO185A
+A,186,,E,GLU,0.269,5,e,,149/150,"E 40%, S 16%, D  8%, K  8%, Q  7%, T  4%, H  3%, A  3%, R  2%, G  1%, P <1%, I <1%, N <1%, V <1%, L <1%",186,,alignment_position,GLU186A
+A,187,,S,SER,-0.795,8,e,f,148/150,"S 81%, N  4%, T  4%, D  3%, C  1%, R  1%, P <1%, A <1%, E <1%, Y <1%, Q <1%, V <1%",187,,alignment_position,SER187A
+A,188,,P,PRO,-0.48,7,e,,149/150,"P 61%, A 24%, T  8%, S  2%, M  1%, I  1%, C <1%, G <1%, V <1%",188,,alignment_position,PRO188A
+A,189,,A,ALA,0.638,4,e,,148/150,"A 38%, T 10%, S 10%, K  8%, V  5%, D  4%, M  4%, L  4%, E  2%, N  2%, Q  2%, H  2%, G  1%, I  1%, P  1%, R <1%, W <1%",189,,alignment_position,ALA189A
+A,190,,S,SER,-0.215,6,e,,149/150,"S 41%, A 33%, P  6%, T  4%, V  2%, E  2%, L  2%, D  2%, H <1%, I <1%, K <1%, Q <1%, W <1%, F <1%, C <1%, N <1%",190,,alignment_position,SER190A
+A,191,,F,PHE,-0.579,7,b,,149/150,"F 63%, M 17%, L 14%, V  2%, I  2%, A <1%",191,,alignment_position,PHE191A
+A,192,,L,LEU,-0.642,7,b,,149/150,"L 87%, I  7%, V  3%, Y <1%, F <1%, M <1%",192,,alignment_position,LEU192A
+A,193,,N,ASN,0.537,5,e,,149/150,"N 40%, D 17%, E 11%, Q  6%, K  5%, R  4%, T  3%, G  2%, H  1%, S  1%, A  1%, Y  1%, C <1%, V <1%, F <1%, M <1%, L <1%",193,,alignment_position,ASN193A
+A,194,,F,PHE,-0.735,8,b,,149/150,"F 91%, L  4%, M  2%, C <1%, H <1%, V <1%",194,,alignment_position,PHE194A
+A,195,,L,LEU,-0.477,7,b,,149/150,"L 73%, R 12%, V  6%, I  3%, M  1%, Y <1%, K <1%, W <1%, E <1%",195,,alignment_position,LEU195A
+A,196,,F,PHE,0.911,4,e,,149/150,"F 34%, R 10%, Q 10%, E  8%, K  6%, A  6%, S  6%, G  4%, L  3%, N  3%, D  2%, H  1%, V <1%, Y <1%, M <1%",196,,alignment_position,PHE196A
+A,197,,K,LYS,0.774,4,e,,149/150,"K 43%, R 12%, H  7%, Q  6%, A  5%, L  5%, D  4%, E  3%, T  3%, S  2%, V  2%, M  2%, Y  1%, N <1%, G <1%",197,,alignment_position,LYS197A
+A,198,,V,VAL,-0.935,9,b,s,149/150,"V 91%, I  2%, A  2%, L  1%, M  1%, T <1%, S <1%, D <1%",198,,alignment_position,VAL198A
+A,199,,R,ARG,-0.695,8,e,f,149/150,"R 78%, K  6%, N  4%, L  4%, S  2%, Q  1%, H  1%, D  1%, C <1%",199,,alignment_position,ARG199A
+A,200,,E,GLU,1.32,4,e,,149/150,"E 40%, Q 12%, K  9%, A  8%, D  8%, R  4%, S  4%, L  3%, H  2%, V  2%, G  1%, I  1%, M <1%",200,,alignment_position,GLU200A
+A,201,,S,SER,-0.009,5,e,,148/150,"S 51%, H  6%, K  6%, T  6%, R  6%, A  4%, Q  4%, C  4%, L  2%, Y  2%, V  1%, G  1%, D <1%, F <1%, I <1%, N <1%, E <1%, X <1%",201,,alignment_position,SER201A
+A,202,,G,GLY,-0.326,6,e,,149/150,"G 53%, Q 20%, R  7%, I  3%, Y  3%, H  2%, A  1%, V  1%, N  1%, K  1%, S  1%, L <1%, E <1%, D <1%, F <1%",202,,alignment_position,GLY202A
+A,203,,S,SER,0.465,5,e,,144/150,"S 27%, A 21%, V 10%, C  9%, E  6%, R  4%, K  4%, L  3%, D  2%, N  2%, Q  2%, I  2%, G  1%, P  1%, Y <1%, T <1%",203,,alignment_position,SER203A
+A,204,,L,LEU,0.375,5,e,,142/150,"L 57%, S  7%, G  4%, Q  4%, K  3%, A  3%, P  3%, D  2%, T  2%, M  2%, F  2%, V  2%, E  1%, N  1%, R <1%",204,,alignment_position,LEU204A
+A,205,,S,SER,0.78,4,e,,125/150,"S 20%, G 16%, N 13%, D 12%, A 11%, M  7%, E  6%, L  4%, T  1%, K  1%, R  1%, Q <1%, Y <1%, V <1%",205,,alignment_position,SER205A
+A,206,,P,PRO,1.794,3,e,,118/150,"P 24%, V 16%, S 11%, L 11%, A  9%, T  5%, E  4%, N  4%, Q  4%, F  2%, R  1%, G  1%, D  1%, I <1%",206,,alignment_position,PRO206A
+A,207,,E,GLU,0.843,4,e,,149/150,"D 26%, E 20%, R 14%, G 11%, N  8%, Q  4%, L  4%, T  3%, K  2%, A  1%, S  1%, V  1%, P  1%, F <1%",207,,alignment_position,GLU207A
+A,208,,H,HIS,0.225,5,e,,149/150,"H 21%, G 21%, V 14%, Q  6%, N  6%, S  6%, Y  4%, D  4%, A  3%, T  3%, K  2%, M  2%, R  1%, E  1%, L <1%, P <1%, I <1%",208,,alignment_position,HIS208A
+A,209,,G,GLY,-0.498,7,e,,149/150,"G 62%, P 22%, C  3%, S  2%, E  2%, T  2%, D  1%, R <1%, I <1%, N <1%, A <1%",209,,alignment_position,GLY209A
+A,210,,P,PRO,-1.091,9,e,f,149/150,"P 97%, L  2%, A <1%",210,,alignment_position,PRO210A
+A,211,,V,VAL,0.059,5,b,,149/150,"I 24%, V 19%, A 18%, P 11%, L  7%, T  6%, S  6%, C  4%, M <1%",211,,alignment_position,VAL211A
+A,212,,V,VAL,-0.629,7,b,,149/150,"V 77%, I 16%, L  3%, T  2%",212,,alignment_position,VAL212A
+A,213,,V,VAL,-0.9,8,b,,149/150,"V 89%, I  9%, T <1%, L <1%",213,,alignment_position,VAL213A
+A,214,,H,HIS,-1.178,9,b,s,149/150,H,214,,alignment_position,HIS214A
+A,215,,C,CYS,-1.178,9,b,s,149/150,C,215,,alignment_position,CYS215A
+A,216,,S,SER,-1.164,9,b,s,150/150,"S 99%, F <1%",216,,alignment_position,SER216A
+A,217,,A,ALA,-1.127,9,b,s,150/150,"A 95%, D  3%, E <1%, T <1%",217,,alignment_position,ALA217A
+A,218,,G,GLY,-1.178,9,b,s,150/150,G,218,,alignment_position,GLY218A
+A,219,,I,ILE,-0.955,9,b,s,150/150,"I 85%, V 10%, C  2%, T <1%, S <1%, A <1%",219,,alignment_position,ILE219A
+A,220,,G,GLY,-1.178,9,b,s,150/150,G,220,,alignment_position,GLY220A
+A,221,,R,ARG,-1.137,9,e,f,150/150,"R 98%, C <1%, Q <1%",221,,alignment_position,ARG221A
+A,222,,S,SER,-1.071,9,e,f,150/150,"S 60%, T 40%",222,,alignment_position,SER222A
+A,223,,G,GLY,-1.178,9,b,s,150/150,G,223,,alignment_position,GLY223A
+A,224,,T,THR,-1.062,9,e,f,150/150,"T 92%, V  4%, A  2%, S <1%",224,,alignment_position,THR224A
+A,225,,F,PHE,-0.791,8,b,,149/150,"F 87%, L  8%, Y  4%",225,,alignment_position,PHE225A
+A,226,,C,CYS,-0.673,8,b,,149/150,"C 47%, I 23%, S 16%, A  6%, V  5%, M <1%",226,,alignment_position,CYS226A
+A,227,,L,LEU,-0.717,8,b,,149/150,"L 59%, T 22%, A  8%, V  4%, G  1%, C  1%, I  1%, F <1%, M <1%",227,,alignment_position,LEU227A
+A,228,,A,ALA,-0.825,8,b,,149/150,"V 56%, L 25%, I  9%, A  5%, M  2%, S <1%",228,,alignment_position,ALA228A
+A,229,,D,ASP,-1.072,9,b,s,149/150,"D 94%, E  2%, A <1%, L <1%, H <1%, Y <1%",229,,alignment_position,ASP229A
+A,230,,T,THR,-0.446,7,b,,149/150,"T 39%, I 20%, S 17%, M  5%, A  4%, C  3%, V  2%, R  2%, H  1%, Y  1%, G  1%, N <1%",230,,alignment_position,THR230A
+A,231,,C,CYS,-0.62,7,b,,149/150,"C 69%, V 12%, A  7%, L  6%, S  2%, I  2%, M <1%",231,,alignment_position,CYS231A
+A,232,,L,LEU,-0.657,8,b,,149/150,"L 75%, I 10%, M  5%, V  4%, F  1%, Y <1%, W <1%, E <1%, S <1%, R <1%",232,,alignment_position,LEU232A
+A,233,,L,LEU,-0.314,6,e,,149/150,"V 35%, S 20%, L 13%, N  5%, Q  4%, R  4%, A  2%, K  2%, C  2%, I  2%, M  1%, D  1%, T <1%, H <1%, G <1%, E <1%",233,,alignment_position,LEU233A
+A,234,,L,LEU,-0.288,6,e,,149/150,"L 53%, R 19%, Q  8%, I  4%, M  4%, H  3%, E  1%, Y  1%, A <1%, F <1%, D <1%, K <1%, N <1%",234,,alignment_position,LEU234A
+A,235,,M,MET,-0.322,6,b,,145/150,"M 35%, L 28%, I 24%, V  5%, G  2%, A  1%, F  1%, C <1%, Y <1%",235,,alignment_position,MET235A
+A,236,,D,ASP,-0.2,6,e,,145/150,"E 52%, D 19%, S 11%, A  6%, K  4%, Q  4%, G  1%, L <1%",236,,alignment_position,ASP236A
+A,237,,K,LYS,0.281,5,e,,145/150,"K 41%, D 22%, R  6%, Q  6%, L  5%, E  4%, M  2%, A  2%, H  2%, I  1%, S  1%, C <1%, T <1%, V <1%, G <1%",237,,alignment_position,LYS237A
+A,238,,R,ARG,0.423,5,e,,144/150,"R 29%, N 11%, V  9%, G  7%, I  7%, T  6%, E  6%, K  5%, H  4%, S  2%, D  2%, C  1%, A  1%, F  1%, Y  1%, Q <1%, L <1%",238,,alignment_position,ARG238A
+A,239,,K,LYS,0.945,4,e,,91/150,"K 45%, G 17%, R  7%, A  6%, N  4%, E  3%, Q  3%, H  2%, L  2%, M  2%, V  2%, W  1%, T  1%, S  1%",239,,alignment_position,LYS239A
+A,240,,D,ASP,1.032,4,e,,83/150,"D 49%, E 13%, L  9%, N  8%, S  2%, T  2%, C  2%, A  2%, K  2%, I  1%, G  1%, F  1%, Q  1%, Y  1%, V  1%",240,,alignment_position,ASP240A
+A,241,,P,PRO,1.162,4,e,,68/150,"P 66%, G  7%, R  5%, E  4%, M  4%, L  4%, W  1%, A  1%, T  1%, K  1%, Y  1%",241,,alignment_position,PRO241A
+A,242,,S,SER,0.345,5,e,,139/150,"S 31%, G 23%, D 11%, N  8%, E  7%, K  5%, Q  2%, L  1%, V  1%, F  1%, P  1%, R <1%, C <1%, T <1%, A <1%, H <1%",242,,alignment_position,SER242A
+A,243,,S,SER,0.273,5,e,,140/150,"S 37%, T 20%, K  7%, P  5%, A  4%, D  4%, E  3%, L  2%, Y  2%, G  2%, Q  2%, R  2%, C  1%, N  1%, V  1%, I <1%, H <1%",243,,alignment_position,SER243A
+A,244,,V,VAL,-0.424,7,b,,145/150,"V 64%, I 18%, L  4%, A  4%, C  2%, P  1%, F  1%, D  1%, G <1%, S <1%",244,,alignment_position,VAL244A
+A,245,,D,ASP,-0.385,6,e,,145/150,"D 64%, N 17%, R  5%, S  3%, Y  3%, T  2%, E  1%, P  1%, H <1%, K <1%",245,,alignment_position,ASP245A
+A,246,,I,ILE,-0.309,6,b,,145/150,"I 62%, V 30%, P  3%, L  2%, A <1%, F <1%",246,,alignment_position,ILE246A
+A,247,,K,LYS,0.837,4,e,,145/150,"R 25%, K 24%, Q 13%, A  4%, L  4%, P  3%, C  3%, Y  3%, F  3%, S  2%, I  2%, T  2%, E  1%, N  1%, H  1%, V  1%, M <1%, D <1%",247,,alignment_position,LYS247A
+A,248,,K,LYS,0.808,4,e,,145/150,"Q 20%, K 15%, D 15%, G 14%, E 11%, S  9%, A  5%, R  2%, N  2%, H  1%, M <1%, I <1%",248,,alignment_position,LYS248A
+A,249,,V,VAL,-0.428,7,b,,145/150,"V 38%, T 26%, I 17%, L  5%, M  4%, Y  2%, Q  1%, S  1%, F <1%, C <1%, A <1%",249,,alignment_position,VAL249A
+A,250,,L,LEU,-0.863,8,b,,145/150,"L 60%, V 35%, I  2%, T <1%, F <1%",250,,alignment_position,LEU250A
+A,251,,L,LEU,0.266,5,e,,145/150,"L 48%, E 13%, R 12%, V  4%, K  4%, C  2%, A  2%, I  2%, M  2%, Q  2%, H  1%, S  1%, N <1%, T <1%, F <1%, Y <1%",251,,alignment_position,LEU251A
+A,252,,E,GLU,0.406,5,e,,145/150,"E 30%, D 20%, R 14%, K  8%, N  5%, H  5%, S  4%, A  2%, Q  2%, T  2%, G  1%, C <1%, I <1%, Y <1%",252,,alignment_position,GLU252A
+A,253,,M,MET,-0.718,8,b,,145/150,"M 71%, I 15%, L 11%, F  1%, V <1%",253,,alignment_position,MET253A
+A,254,,R,ARG,-1.178,9,e,f,145/150,R,254,,alignment_position,ARG254A
+A,255,,K,LYS,0.601,4,e,,145/150,"K 27%, R 14%, S 14%, T  9%, E  8%, D  6%, H  4%, Q  4%, L  2%, A  2%, N  1%, M  1%, Y  1%, G <1%, C <1%",255,,alignment_position,LYS255A
+A,256,,F,PHE,-0.193,6,e,,145/150,"Y 38%, Q 35%, F  6%, H  6%, S  4%, D  4%, C  1%, A <1%, K <1%, E <1%",256,,alignment_position,PHE256A
+A,257,,R,ARG,-1.178,9,e,f,145/150,R,257,,alignment_position,ARG257A
+A,258,,M,MET,-0.596,7,b,,145/150,"M 58%, A 26%, V  3%, P  3%, C  1%, Q  1%, R <1%, K <1%, Y <1%, N <1%, H <1%, F <1%, L <1%, S <1%",258,,alignment_position,MET258A
+A,259,,G,GLY,-0.158,6,e,,145/150,"G 61%, F 12%, Y 10%, L  4%, H  2%, M  2%, N  1%, S  1%, D  1%, A  1%, E <1%, R <1%",259,,alignment_position,GLY259A
+A,260,,L,LEU,-0.934,9,b,s,145/150,"L 60%, S 18%, M 17%, A  1%, C <1%, V <1%, I <1%",260,,alignment_position,LEU260A
+A,261,,I,ILE,-0.992,9,b,s,145/150,"I 77%, V 21%, F <1%",261,,alignment_position,ILE261A
+A,262,,Q,GLN,-1.114,9,e,f,145/150,"Q 96%, K  1%, R  1%, T <1%",262,,alignment_position,GLN262A
+A,263,,T,THR,-1.062,9,e,f,145/150,"T 85%, M 10%, N  1%, V  1%, A <1%, S <1%",263,,alignment_position,THR263A
+A,264,,A,ALA,0.217,5,e,,144/150,"P 50%, A 15%, W  8%, E  5%, K  4%, S  4%, V  3%, H  2%, L  2%, Q  1%, R  1%, F <1%",264,,alignment_position,ALA264A
+A,265,,D,ASP,-0.138,6,e,,144/150,"D 66%, E 14%, G  4%, Q  4%, A  2%, N  2%, S  1%, Y <1%, V <1%, K <1%, P <1%, C <1%, T <1%",265,,alignment_position,ASP265A
+A,266,,Q,GLN,-1.157,9,e,f,144/150,"Q 99%, I <1%",266,,alignment_position,GLN266A
+A,267,,L,LEU,-0.937,9,b,s,144/150,"L 55%, Y 36%, F  6%, M <1%, W <1%",267,,alignment_position,LEU267A
+A,268,,R,ARG,-0.406,7,e,,144/150,"R 54%, V 11%, Y  8%, I  6%, E  4%, K  2%, Q  2%, D  2%, M  2%, L  1%, A  1%, H <1%, C <1%, G <1%, S <1%",268,,alignment_position,ARG268A
+A,269,,F,PHE,-0.898,8,b,,144/150,"F 94%, L  2%, Y  1%, C <1%, V <1%",269,,alignment_position,PHE269A
+A,270,,S,SER,-0.753,8,b,,144/150,"S 50%, C 28%, L  6%, V  6%, I  4%, A  2%, T  1%",270,,alignment_position,SER270A
+A,271,,Y,TYR,-0.496,7,b,,144/150,"Y 65%, H 18%, F  5%, L  4%, W  3%, C  1%, T <1%",271,,alignment_position,TYR271A
+A,272,,L,LEU,0.274,5,b,,144/150,"L 32%, M 27%, Q 10%, R  5%, T  5%, K  4%, E  3%, A  2%, V  1%, D  1%, H  1%, I <1%, N <1%, C <1%, F <1%, W <1%",272,,alignment_position,LEU272A
+A,273,,A,ALA,-0.965,9,b,s,143/150,"A 89%, C  3%, T  2%, V  2%, S <1%, G <1%, L <1%",273,,alignment_position,ALA273A
+A,274,,V,VAL,-0.609,7,b,,143/150,"V 46%, I 35%, L 14%, C  1%, M <1%, T <1%",274,,alignment_position,VAL274A
+A,275,,I,ILE,0.094,5,b,,141/150,"I 51%, L 21%, A  7%, V  7%, M  4%, K  1%, N  1%, H <1%, F <1%, Y <1%, R <1%, S <1%, Q <1%",275,,alignment_position,ILE275A
+A,276,,E,GLU,-0.8,8,e,f,135/150,"E 87%, D  5%, A  1%, Q  1%, Y  1%, K  1%, T <1%",276,,alignment_position,GLU276A
+A,277,,G,GLY,-0.411,7,e,,131/150,"G 58%, Y 21%, A  6%, V  3%, H  3%, E  3%, I <1%, S <1%, K <1%",277,,alignment_position,GLY277A
+A,278,,A,ALA,-0.34,6,b,,129/150,"A 65%, L  8%, S  5%, G  4%, V  4%, I  3%, Y  2%, R  1%, F  1%, T <1%, N <1%, M <1%, H <1%",278,,alignment_position,ALA278A
+A,279,,K,LYS,0.023,5,e,,113/150,"K 58%, R 15%, Q 15%, H  4%, N  3%, M  1%, L <1%, E <1%",279,,alignment_position,LYS279A
+A,280,,F,PHE,2.987,2,e,,93/150,"R 13%, Y 12%, C 12%, F 11%, L  7%, K  7%, A  6%, Q  6%, S  5%, H  2%, G  2%, I  2%, E  2%, V  2%, D  2%, N  1%, T  1%",280,,alignment_position,PHE280A
+A,281,,I,ILE,0.256,5,b,,93/150,"I 55%, L 15%, V  4%, H  4%, T  3%, F  3%, S  3%, N  3%, K  3%, R  3%, G  1%",281,,alignment_position,ILE281A
+A,282,,M,MET,1.363,4,e,,85/150,"M 27%, L 25%, K 12%, G  8%, R  4%, N  4%, F  4%, T  3%, S  2%, D  2%, P  1%, Q  1%, H  1%",282,,alignment_position,MET282A
+A,283,,G,GLY,1.51,4,e,,83/150,"G 49%, K  9%, P  8%, D  7%, T  4%, E  4%, S  4%, N  3%, A  2%, M  1%, V  1%, H  1%, L  1%",283,,alignment_position,GLY283A
+A,284,,D,ASP,0.702,4,e,,82/150,"D 57%, N  9%, L  9%, E  4%, P  3%, T  2%, A  2%, M  2%, S  2%, K  2%, G  2%",284,,alignment_position,ASP284A
+A,285,,S,SER,2.061,3,e,,81/150,"S 38%, A 14%, T 13%, N  7%, P  4%, W  3%, D  2%, G  2%, K  1%, E  1%, Y  1%, F  1%, V  1%, H  1%, R  1%, L  1%, I  1%, C  1%",285,,alignment_position,SER285A
+A,286,,S,SER,0.762,4,e,,79/150,"S 50%, P 12%, N  7%, T  6%, K  5%, F  5%, G  2%, E  2%, D  2%, L  1%, I  1%, A  1%, Q  1%",286,,alignment_position,SER286A
+A,287,,V,VAL,1.34,4,e,,77/150,"V 36%, L 20%, I 11%, A  7%, E  6%, M  3%, T  3%, N  1%, P  1%, G  1%, K  1%, S  1%, F  1%, Q  1%",287,,alignment_position,VAL287A
+A,288,,Q,GLN,0.467,5,e,,75/150,"Q 65%, D 10%, E  9%, S  4%, A  2%, P  2%, K  1%, T  1%, G  1%, V  1%",288,,alignment_position,GLN288A
+A,289,,D,ASP,2.46,3,e,,61/150,"N 22%, E 21%, K 18%, D  9%, Q  9%, V  3%, I  3%, A  3%, M  1%, T  1%, S  1%, R  1%, P  1%",289,,alignment_position,ASP289A
+A,290,,Q,GLN,1.678,4,e,,61/150,"Q 31%, S 19%, R 14%, E  4%, K  4%, M  4%, N  4%, L  3%, C  3%, W  1%, G  1%, V  1%, I  1%, F  1%",290,,alignment_position,GLN290A
+A,291,,W,TRP,2.298,3,e,,60/150,"W 61%, E 10%, N  6%, S  5%, D  5%, I  3%, R  1%, M  1%, L  1%, K  1%, C  1%",291,,alignment_position,TRP291A
+A,292,,K,LYS,0.811,4,e,,63/150,"K 38%, R 22%, E 19%, Q  6%, S  4%, T  3%, P  3%, G  1%, M  1%",292,,alignment_position,LYS292A
+A,293,,E,GLU,0.197,5,e,,65/150,"E 64%, S  7%, K  6%, L  4%, V  4%, I  4%, N  3%, Q  1%, M  1%, G  1%",293,,alignment_position,GLU293A
+A,294,,L,LEU,0.348,5,b,,64/150,"L 64%, I 17%, M  4%, S  3%, V  3%, F  1%, G  1%, A  1%, R  1%, P  1%",294,,alignment_position,LEU294A
+A,295,,S,SER,-0.327,6,e,,64/150,"S 73%, Y  7%, N  6%, D  4%, G  3%, A  1%, H  1%, L  1%",295,,alignment_position,SER295A
+A,296,,H,HIS,0.482,5,e,,64/150,"K 29%, N 28%, R 18%, S  9%, H  3%, D  3%, E  3%, T  1%, G  1%, V  1%",296,,alignment_position,HIS296A
+A,297,,E,GLU,0.669,4,e,,63/150,"E 69%, D  9%, S  3%, Y  3%, K  3%, G  1%, T  1%, V  1%, H  1%, A  1%, Q  1%, R  1%",297,,alignment_position,GLU297A
+A,298,,D,ASP,0.192,5,e,,62/150,"D 50%, E 19%, N  9%, V  8%, S  3%, T  3%, A  1%, I  1%, Q  1%, R  1%",298,,alignment_position,ASP298A
+A,299,,L,LEU,2.403,3,e,,59/150,"Q 23%, D 22%, L 20%, A  6%, N  5%, F  3%, P  3%, E  3%, H  3%, K  1%, M  1%, S  1%, V  1%, R  1%",299,,alignment_position,LEU299A
+A,300,,E,GLU,2.151,3,e,,50/150,"E 42%, D 14%, A  8%, T  8%, S  8%, P  4%, L  4%, F  2%, Y  2%, H  2%, V  2%, R  2%, I  2%",300,,alignment_position,GLU300A
+A,301,,P,PRO,0.093,5,e,,53/150,"P 77%, E  9%, S  3%, H  3%, T  1%, D  1%, A  1%",301,,alignment_position,PRO301A
+A,302,,P,PRO,1.729,3,e,,52/150,"P 32%, T 13%, A 11%, D 11%, S  7%, K  5%, G  5%, E  3%, V  3%, I  1%, L  1%",302,,alignment_position,PRO302A
+A,303,,P,PRO,1.343,4,e,,56/150,"E 32%, S 19%, L 14%, P 12%, A  7%, F  5%, D  5%, M  1%, Q  1%",303,,alignment_position,PRO303A
+A,304,,E,GLU,0.76,4,e,,57/150,"E 36%, D 26%, F 15%, P  8%, V  3%, L  1%, G  1%, Q  1%, A  1%, Y  1%",304,,alignment_position,GLU304A
+A,305,,H,HIS,0.227,5,e,,58/150,"S 24%, E 24%, T 17%, H 15%, P 12%, R  1%, Q  1%, C  1%, L  1%",305,,alignment_position,HIS305A
+A,306,,I,ILE,5.055,1,e,,11/150,"I 18%, S 18%, T 18%, L 18%, V  9%, A  9%, R  9%",306,,alignment_position,ILE306A
+A,307,,P,PRO,-0.187,6,e,,57/150,"P 70%, S 12%, A  7%, R  1%, Y  1%, L  1%, T  1%, H  1%, V  1%",307,,alignment_position,PRO307A
+A,308,,P,PRO,-0.611,7,e,,57/150,"P 91%, S  1%, N  1%, T  1%, A  1%, L  1%",308,,alignment_position,PRO308A
+A,309,,P,PRO,-0.232,6,e,,55/150,"P 70%, S 16%, A  5%, N  5%, T  1%",309,,alignment_position,PRO309A
+A,310,,P,PRO,0.691,4,e,,54/150,"P 55%, L 16%, T  9%, K  7%, S  3%, A  1%, G  1%, H  1%, Q  1%",310,,alignment_position,PRO310A
+A,311,,R,ARG,-0.086,5,e,,54/150,"P 42%, Q 22%, R 18%, L  9%, I  5%, N  1%",311,,alignment_position,ARG311A
+A,312,,P,PRO,-0.304,6,e,,50/150,"P 76%, R 12%, M  6%, Q  2%, T  2%, S  2%",312,,alignment_position,PRO312A
+A,313,,P,PRO,-0.847,8,e,f,47/150,"P 85%, T 10%, Q  4%",313,,alignment_position,PRO313A
+A,314,,K,LYS,0.342,5,e,,34/150,"K 32%, R 26%, P 20%, A  8%, Q  5%, H  2%, I  2%",314,,alignment_position,LYS314A
+A,315,,R,ARG,0.406,5,e,,26/150,"R 69%, S  7%, L  3%, I  3%, T  3%, A  3%, P  3%, C  3%",315,,alignment_position,ARG315A
+A,316,,I,ILE,2.016,3,e,,16/150,"T 31%, P 25%, S 18%, I  6%, A  6%, G  6%, D  6%",316,,alignment_position,ILE316A
+A,317,,L,LEU,5.108,1,e,,15/150,"L 33%, T 26%, S 20%, P 13%, V  6%",317,,alignment_position,LEU317A
+A,318,,E,GLU,0.733,4,e,,25/150,"E 64%, D 20%, P  8%, K  4%, T  4%",318,,alignment_position,GLU318A
+A,319,,P,PRO,1.618,4,e,,24/150,"P 33%, K 25%, R 20%, M 12%, S  8%",319,,alignment_position,PRO319A
+A,320,,H,HIS,1.58,4,e,,21/150,"H 47%, Y 23%, N  9%, K  4%, F  4%, S  4%, C  4%",320,,alignment_position,HIS320A
+A,321,,N,ASN,-0.376,6,e,,22/150,"N 86%, I  4%, R  4%, M  4%",321,,alignment_position,ASN321A

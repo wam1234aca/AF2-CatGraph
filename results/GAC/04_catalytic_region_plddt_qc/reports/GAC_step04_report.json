@@ -1,0 +1,26 @@
+{
+  "target_id": "GAC",
+  "status": "success",
+  "config_path": "/home/wms/AF2-test/AF2-CatGraph-test5/projects/GAC/config.gui.yaml",
+  "input_complex_table": "results/GAC/03_clash_filter/tables/GAC_step03_passed_complex_index.csv",
+  "input_complex_column": "complex_pdb_path",
+  "plddt_pdb_column": "auto",
+  "output_dir": "results/GAC/04_catalytic_region_plddt_qc",
+  "n_input_complexes": 240,
+  "n_passed": 218,
+  "n_failed": 22,
+  "rule": "mean catalytic-region pLDDT > 90 and p10 catalytic-region pLDDT > 80",
+  "radius_angstrom": 6.0,
+  "residue_plddt_atom": "CA",
+  "ligand_selection": {
+    "include_resnames": [
+      "GLC"
+    ]
+  },
+  "files": {
+    "summary": "results/GAC/04_catalytic_region_plddt_qc/tables/GAC_step04_catalytic_region_plddt_summary.csv",
+    "residues": "results/GAC/04_catalytic_region_plddt_qc/tables/GAC_step04_catalytic_region_residues.csv",
+    "passed": "results/GAC/04_catalytic_region_plddt_qc/tables/GAC_step04_passed_complex_index.csv",
+    "failed": "results/GAC/04_catalytic_region_plddt_qc/tables/GAC_step04_failed_complex_index.csv"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "target_id": "PTP1B",
+  "status": "completed",
+  "n_candidate_structures": 17,
+  "n_export_rows": 17,
+  "export_mode": "copy",
+  "candidate_structures_table": "/home/wms/AF2-test/AF2-CatGraph/results/PTP1B/08_chemical_equivalence/tables/PTP1B_step08_candidate_structures.csv",
+  "export_dir": "/home/wms/AF2-test/AF2-CatGraph/results/PTP1B/08_chemical_equivalence/candidate_exports",
+  "export_index": "/home/wms/AF2-test/AF2-CatGraph/results/PTP1B/08_chemical_equivalence/candidate_exports/tables/PTP1B_step08_candidate_export_index.csv"
+}

@@ -1,0 +1,36 @@
+merged_class,canonical_edge,global_frequency,class_support_count,class_size,class_support_frequency,support_status
+class_1,K143 | Polar contact | ATP phosphate 3 unit,0.07386363636363637,3,3,1.0,supported
+class_3,K143 | Polar contact | ATP phosphate 3 unit,0.07386363636363637,1,1,1.0,singleton_evidence
+class_5,K143 | Polar contact | ATP phosphate 3 unit,0.07386363636363637,1,1,1.0,singleton_evidence
+class_6,K143 | Polar contact | ATP phosphate 3 unit,0.07386363636363637,1,1,1.0,singleton_evidence
+class_6,S11 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.028409090909090908,1,1,1.0,singleton_evidence
+class_8,K143 | Polar contact | ATP phosphate 3 unit,0.07386363636363637,1,1,1.0,singleton_evidence
+class_9,K143 | Polar contact | ATP phosphate 3 unit,0.07386363636363637,2,2,1.0,supported
+class_10,G12 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.011363636363636364,2,2,1.0,supported
+class_10,K143 | Polar contact | ATP phosphate 3 unit,0.07386363636363637,2,2,1.0,supported
+class_10,S11 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.028409090909090908,2,2,1.0,supported
+class_11,K143 | Polar contact | ATP phosphate 3 unit,0.07386363636363637,1,1,1.0,singleton_evidence
+class_13,D9 | Polar contact | dTMP phosphate unit,0.022727272727272728,1,1,1.0,singleton_evidence
+class_17,S11 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.028409090909090908,1,1,1.0,singleton_evidence
+class_20,K143 | Polar contact | ATP phosphate 3 unit,0.07386363636363637,1,1,1.0,singleton_evidence
+class_28,D9 | Polar contact | dTMP phosphate unit,0.022727272727272728,1,1,1.0,singleton_evidence
+class_33,N144 | Polar contact | ATP phosphate 3 unit,0.011363636363636364,1,1,1.0,singleton_evidence
+class_33,R90 | Polar contact | ATP phosphate 2 unit,0.017045454545454544,1,1,1.0,singleton_evidence
+class_35,D9 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.09090909090909091,1,1,1.0,singleton_evidence
+class_38,D9 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.09090909090909091,1,1,1.0,singleton_evidence
+class_38,R90 | Polar contact | ATP phosphate 2 unit,0.017045454545454544,1,1,1.0,singleton_evidence
+class_39,D9 | Polar contact | dTMP phosphate unit,0.022727272727272728,1,1,1.0,singleton_evidence
+class_41,N144 | Polar contact | ATP phosphate 3 unit,0.011363636363636364,1,1,1.0,singleton_evidence
+class_42,D9 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.09090909090909091,2,2,1.0,supported
+class_46,D9 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.09090909090909091,4,4,1.0,supported
+class_47,D9 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.09090909090909091,1,1,1.0,singleton_evidence
+class_50,D9 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.09090909090909091,1,1,1.0,singleton_evidence
+class_51,D9 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.09090909090909091,1,1,1.0,singleton_evidence
+class_53,D9 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.09090909090909091,1,1,1.0,singleton_evidence
+class_53,D9 | Polar contact | dTMP phosphate unit,0.022727272727272728,1,1,1.0,singleton_evidence
+class_58,G10 | Polar contact | ATP phosphate 3 unit,0.005681818181818182,1,1,1.0,singleton_evidence
+class_59,D9 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.09090909090909091,1,1,1.0,singleton_evidence
+class_59,R90 | Polar contact | ATP phosphate 2 unit,0.017045454545454544,1,1,1.0,singleton_evidence
+class_61,D9 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.09090909090909091,1,1,1.0,singleton_evidence
+class_64,S11 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.028409090909090908,1,1,1.0,singleton_evidence
+class_65,D9 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.09090909090909091,2,2,1.0,supported

@@ -1,0 +1,10 @@
+Type: hydrophobic_interactions	Ligand: C2	Protein: VAL413A	LigandSerial: 2319	LigandNodeKey: GLC:B:1:C2
+Type: hydrogen_bonds	Ligand: O1	Protein: SER215A	LigandSerial: 2318	LigandNodeKey: GLC:B:1:O1
+Type: hydrogen_bonds	Ligand: O3	Protein: GLU310A	LigandSerial: 2325	LigandNodeKey: GLC:B:1:O3
+Type: hydrogen_bonds	Ligand: N2	Protein: GLU310A	LigandSerial: 2322	LigandNodeKey: GLC:B:1:N2
+Type: hydrogen_bonds	Ligand: O2	Protein: ASN317A	LigandSerial: 2324	LigandNodeKey: GLC:B:1:O2
+Type: hydrogen_bonds	Ligand: O2	Protein: TYR343A	LigandSerial: 2324	LigandNodeKey: GLC:B:1:O2
+Type: hydrogen_bonds	Ligand: N2	Protein: CYS347A	LigandSerial: 2322	LigandNodeKey: GLC:B:1:N2
+Type: hydrogen_bonds	Ligand: O1	Protein: TYR395A	LigandSerial: 2318	LigandNodeKey: GLC:B:1:O1
+Type: hydrogen_bonds	Ligand: N1	Protein: TYR395A	LigandSerial: 2316	LigandNodeKey: GLC:B:1:N1
+Type: hydrogen_bonds	Ligand: O1	Protein: VAL413A	LigandSerial: 2318	LigandNodeKey: GLC:B:1:O1

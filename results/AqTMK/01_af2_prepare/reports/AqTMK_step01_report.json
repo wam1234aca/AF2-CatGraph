@@ -1,0 +1,30 @@
+{
+  "target_id": "AqTMK",
+  "step": "01_af2_prepare",
+  "input_af2_dir": "/home/wms/AF2-test/AF2-CatGraph/data/AqTMK/01_af2_new",
+  "n_input_pdb": 320,
+  "n_passed_global_plddt": 320,
+  "n_failed_global_plddt_or_error": 0,
+  "global_plddt_min": 80.0,
+  "plddt_filter_scope_requested": "source_if_available",
+  "af2_preprocess_manifest": "/home/wms/AF2-test/AF2-CatGraph/data/AqTMK/01_af2_new/af2_preprocess_manifest.csv",
+  "af2_preprocess_manifest_status": "ok",
+  "n_source_af2_paths_resolved": 320,
+  "n_source_af2_scores_used": 320,
+  "n_input_scores_used": 0,
+  "global_mean_plddt_min_observed": 91.49266666666666,
+  "global_mean_plddt_max_observed": 96.61969230769233,
+  "global_mean_plddt_average": 94.03964567307693,
+  "keep_original_names": false,
+  "structure_id_number_source": "input_order",
+  "standard_structure_id_prefix": "AqTMK_AF2",
+  "standardized_pdb_mode": "copy",
+  "alignment_enabled": false,
+  "alignment_reference_pdb": null,
+  "output_dir": "results/AqTMK/01_af2_prepare",
+  "notes": [
+    "Step 01 is protein-only.",
+    "No docking, ligand naming, clash filtering, pocket pLDDT, or PLIP analysis is performed in this step.",
+    "Ligand, metal, and cofactor standardization starts after complex generation in Step 02."
+  ]
+}

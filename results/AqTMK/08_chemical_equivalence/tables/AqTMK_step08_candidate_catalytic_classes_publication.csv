@@ -1,0 +1,9 @@
+Merged class,Original classes,Structures,Structure IDs,Rare edges present
+Class 1,Class 1; Class 2,3,AqTMK_1;AqTMK_12;AqTMK_30,K143 | Polar contact | ATP phosphate 3 unit
+Class 3,Class 4,1,AqTMK_65,K143 | Polar contact | ATP phosphate 3 unit
+Class 5,Class 6,1,AqTMK_10,K143 | Polar contact | ATP phosphate 3 unit
+Class 9,Class 11; Class 16,2,AqTMK_44;AqTMK_140,K143 | Polar contact | ATP phosphate 3 unit
+Class 13,Class 17,1,AqTMK_228,D9 | Polar contact | dTMP phosphate unit
+Class 33,Class 43,1,AqTMK_111,N144 | Polar contact | ATP phosphate 3 unit;R90 | Polar contact | ATP phosphate 2 unit
+Class 39,Class 50,1,AqTMK_223,D9 | Polar contact | dTMP phosphate unit
+Class 41,Class 53,1,AqTMK_231,N144 | Polar contact | ATP phosphate 3 unit

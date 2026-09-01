@@ -1,0 +1,28 @@
+{
+  "target_id": "AqTMK",
+  "status": "success",
+  "config_path": "/home/wms/AF2-test/AF2-CatGraph/projects/AqTMK/config.gui.yaml",
+  "input_complex_table": "results/AqTMK/03_clash_filter/tables/AqTMK_step03_passed_complex_index.csv",
+  "input_complex_column": "complex_pdb_path",
+  "plddt_pdb_column": "auto",
+  "output_dir": "results/AqTMK/04_catalytic_region_plddt_qc",
+  "n_input_complexes": 297,
+  "n_passed": 176,
+  "n_failed": 121,
+  "rule": "mean catalytic-region pLDDT > 90 and p10 catalytic-region pLDDT > 80",
+  "radius_angstrom": 6.0,
+  "residue_plddt_atom": "CA",
+  "ligand_selection": {
+    "include_resnames": [
+      "ATP",
+      "TMP",
+      "MG"
+    ]
+  },
+  "files": {
+    "summary": "results/AqTMK/04_catalytic_region_plddt_qc/tables/AqTMK_step04_catalytic_region_plddt_summary.csv",
+    "residues": "results/AqTMK/04_catalytic_region_plddt_qc/tables/AqTMK_step04_catalytic_region_residues.csv",
+    "passed": "results/AqTMK/04_catalytic_region_plddt_qc/tables/AqTMK_step04_passed_complex_index.csv",
+    "failed": "results/AqTMK/04_catalytic_region_plddt_qc/tables/AqTMK_step04_failed_complex_index.csv"
+  }
+}

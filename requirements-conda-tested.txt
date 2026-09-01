@@ -1,0 +1,19 @@
+# Exact Conda package versions recorded from the validated workflow stack.
+# Used by install_af2_catgraph.sh with --override-channels -c conda-forge.
+python=3.10.13
+numpy=1.26.4
+pandas=2.2.3
+scipy=1.15.2
+matplotlib=3.10.1
+networkx=3.4.2
+rdkit=2024.09.6
+openbabel=3.1.1
+plip=2.3.1
+openpyxl=3.1.5
+pyyaml=6.0.3
+tqdm=4.67.1
+biopython=1.85
+libstdcxx-ng=14.2.0
+pip=25.0
+setuptools=75.8.0
+wheel=0.45.1

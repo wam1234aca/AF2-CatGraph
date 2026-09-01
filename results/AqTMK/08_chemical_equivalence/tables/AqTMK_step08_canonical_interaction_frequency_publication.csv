@@ -1,0 +1,29 @@
+Interaction,Frequency,Category
+K13 | Polar contact | ATP phosphate 2 unit,1.0,Common
+K13 | Polar contact | ATP phosphate 3 unit,1.0,Common
+T14 | Polar contact | ATP phosphate 2 unit,1.0,Common
+T15 | Polar contact | ATP phosphate 1 unit,1.0,Common
+G10 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.9943181818181818,Common
+R90 | Polar contact | dTMP phosphate unit,0.9943181818181818,Common
+S11 | Polar contact | ATP phosphate 2 unit,0.9715909090909091,Common
+R90 | Polar contact | ATP phosphate 3 unit,0.9375,Common
+R47 | Polar contact | dTMP phosphate unit,0.9090909090909091,Common
+T14 | Metal contact | Mg2+ ion,0.9090909090909091,Common
+D9 | Polar contact | ATP phosphate 3 unit,0.875,Common
+G12 | Polar contact | ATP phosphate 2 unit,0.7897727272727273,Other
+R35 | Polar contact | dTMP phosphate unit,0.26136363636363635,Other
+R145 | Polar contact | dTMP phosphate unit,0.2159090909090909,Other
+R145 | Polar contact | ATP phosphate 3 unit,0.21022727272727273,Other
+G12 | Polar contact | ATP phosphate 1–2 bridging oxygen,0.19886363636363635,Other
+K143 | Polar contact | ATP phosphate 1 unit,0.19886363636363635,Other
+K143 | Polar contact | ATP phosphate 2 unit,0.19318181818181818,Other
+K13 | Polar contact | dTMP phosphate unit,0.17045454545454544,Other
+T14 | Polar contact | ATP phosphate 3 unit,0.11363636363636363,Other
+D9 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.09090909090909091,Rare
+K143 | Polar contact | ATP phosphate 3 unit,0.07386363636363637,Rare
+S11 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.028409090909090908,Rare
+D9 | Polar contact | dTMP phosphate unit,0.022727272727272728,Rare
+R90 | Polar contact | ATP phosphate 2 unit,0.017045454545454544,Rare
+G12 | Polar contact | ATP phosphate 2–3 bridging oxygen,0.011363636363636364,Rare
+N144 | Polar contact | ATP phosphate 3 unit,0.011363636363636364,Rare
+G10 | Polar contact | ATP phosphate 3 unit,0.005681818181818182,Rare

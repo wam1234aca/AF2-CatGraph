@@ -1,0 +1,4 @@
+docking_order,source_ligand_pdb_path,active_ligand_pdb_path,selection_branch,residue_names_in_file_order
+1,/home/wms/AF2-test/AF2-CatGraph/data/AqTMK/02_templates/ATP.pdb,/home/wms/AF2-test/AF2-CatGraph/data/AqTMK/02_templates/ATP.pdb,untrimmed_input,ATP
+2,/home/wms/AF2-test/AF2-CatGraph/data/AqTMK/02_templates/TMP.pdb,/home/wms/AF2-test/AF2-CatGraph/data/AqTMK/02_templates/TMP.pdb,untrimmed_input,TMP
+3,/home/wms/AF2-test/AF2-CatGraph/data/AqTMK/02_templates/MG.pdb,/home/wms/AF2-test/AF2-CatGraph/data/AqTMK/02_templates/MG.pdb,untrimmed_input,MG

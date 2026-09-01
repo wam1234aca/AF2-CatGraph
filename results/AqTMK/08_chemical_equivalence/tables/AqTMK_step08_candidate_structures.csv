@@ -1,0 +1,12 @@
+structure_id,merged_class,merged_class_display,original_classes,original_classes_display,rare_edges_present,source_pdb_path
+AqTMK_1,class_1,Class 1,class_1;class_2,Class 1; Class 2,K143 | Polar contact | ATP phosphate 3 unit,/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/05_plip_interaction_graphs/plip_outputs/AqTMK_1/AqTMK_1_complex_protonated.pdb
+AqTMK_12,class_1,Class 1,class_1;class_2,Class 1; Class 2,K143 | Polar contact | ATP phosphate 3 unit,/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/05_plip_interaction_graphs/plip_outputs/AqTMK_12/AqTMK_12_complex_protonated.pdb
+AqTMK_30,class_1,Class 1,class_1;class_2,Class 1; Class 2,K143 | Polar contact | ATP phosphate 3 unit,/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/05_plip_interaction_graphs/plip_outputs/AqTMK_30/AqTMK_30_complex_protonated.pdb
+AqTMK_65,class_3,Class 3,class_4,Class 4,K143 | Polar contact | ATP phosphate 3 unit,/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/05_plip_interaction_graphs/plip_outputs/AqTMK_65/AqTMK_65_complex.pdb
+AqTMK_10,class_5,Class 5,class_6,Class 6,K143 | Polar contact | ATP phosphate 3 unit,/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/05_plip_interaction_graphs/plip_outputs/AqTMK_10/AqTMK_10_complex.pdb
+AqTMK_44,class_9,Class 9,class_11;class_16,Class 11; Class 16,K143 | Polar contact | ATP phosphate 3 unit,/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/05_plip_interaction_graphs/plip_outputs/AqTMK_44/AqTMK_44_complex_protonated.pdb
+AqTMK_140,class_9,Class 9,class_11;class_16,Class 11; Class 16,K143 | Polar contact | ATP phosphate 3 unit,/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/05_plip_interaction_graphs/plip_outputs/AqTMK_140/AqTMK_140_complex_protonated.pdb
+AqTMK_228,class_13,Class 13,class_17,Class 17,D9 | Polar contact | dTMP phosphate unit,/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/05_plip_interaction_graphs/plip_outputs/AqTMK_228/AqTMK_228_complex_protonated.pdb
+AqTMK_111,class_33,Class 33,class_43,Class 43,N144 | Polar contact | ATP phosphate 3 unit;R90 | Polar contact | ATP phosphate 2 unit,/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/05_plip_interaction_graphs/plip_outputs/AqTMK_111/AqTMK_111_complex.pdb
+AqTMK_223,class_39,Class 39,class_50,Class 50,D9 | Polar contact | dTMP phosphate unit,/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/05_plip_interaction_graphs/plip_outputs/AqTMK_223/AqTMK_223_complex.pdb
+AqTMK_231,class_41,Class 41,class_53,Class 53,N144 | Polar contact | ATP phosphate 3 unit,/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/05_plip_interaction_graphs/plip_outputs/AqTMK_231/AqTMK_231_complex.pdb

@@ -1,0 +1,6 @@
+Type: hydrogen_bonds	Ligand: N2	Protein: GLN214A	LigandSerial: 2322	LigandNodeKey: GLC:B:1:N2
+Type: hydrogen_bonds	Ligand: O2	Protein: ASN317A	LigandSerial: 2324	LigandNodeKey: GLC:B:1:O2
+Type: hydrogen_bonds	Ligand: O2	Protein: TYR343A	LigandSerial: 2324	LigandNodeKey: GLC:B:1:O2
+Type: hydrogen_bonds	Ligand: N2	Protein: CYS347A	LigandSerial: 2322	LigandNodeKey: GLC:B:1:N2
+Type: hydrogen_bonds	Ligand: O1	Protein: TYR395A	LigandSerial: 2318	LigandNodeKey: GLC:B:1:O1
+Type: hydrogen_bonds	Ligand: N1	Protein: TYR395A	LigandSerial: 2316	LigandNodeKey: GLC:B:1:N1

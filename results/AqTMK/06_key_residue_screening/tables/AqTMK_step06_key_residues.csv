@@ -1,0 +1,4 @@
+residue_key,chain,resseq,icode,resname,consurf_grade,consurf_score,consurf_mapping_status,consurf_mapping_method,source_residue_key,n_structures_with_distance,distance_contact_count,distance_contact_frequency,min_distance_min,min_distance_median,min_distance_mean,graph_occurrence_count,graph_occurrence_frequency,conservation_pass,distance_frequency_pass,graph_frequency_pass,key_residue
+THR15A,A,15,,THR,9,-1.016,,,,176,174,0.9886363636363636,2.0323230550284075,2.4907032208626645,2.512609657276055,176,1.0,True,True,True,True
+LYS13A,A,13,,LYS,9,-1.11,,,,176,152,0.8636363636363636,2.006317273015412,2.8036950336427466,2.718195644711699,176,1.0,True,True,True,True
+THR14A,A,14,,THR,8,-0.759,,,,176,168,0.9545454545454546,2.147394933401865,2.750988549423009,2.7385781030384746,176,1.0,True,True,True,True

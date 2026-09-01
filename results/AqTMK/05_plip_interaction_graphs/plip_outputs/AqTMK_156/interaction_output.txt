@@ -1,0 +1,16 @@
+Type: hydrogen_bonds	Ligand: O8	Protein: ASP9A	LigandSerial: 1588	LigandNodeKey: ATP:B:1:O8
+Type: hydrogen_bonds	Ligand: O8	Protein: GLY10A	LigandSerial: 1588	LigandNodeKey: ATP:B:1:O8
+Type: hydrogen_bonds	Ligand: O7	Protein: SER11A	LigandSerial: 1587	LigandNodeKey: ATP:B:1:O7
+Type: hydrogen_bonds	Ligand: O5	Protein: GLY12A	LigandSerial: 1584	LigandNodeKey: ATP:B:1:O5
+Type: hydrogen_bonds	Ligand: O7	Protein: LYS13A	LigandSerial: 1587	LigandNodeKey: ATP:B:1:O7
+Type: hydrogen_bonds	Ligand: O7	Protein: THR14A	LigandSerial: 1587	LigandNodeKey: ATP:B:1:O7
+Type: hydrogen_bonds	Ligand: O11	Protein: THR14A	LigandSerial: 1592	LigandNodeKey: ATP:B:1:O11
+Type: hydrogen_bonds	Ligand: O4	Protein: THR15A	LigandSerial: 1583	LigandNodeKey: ATP:B:1:O4
+Type: hydrogen_bonds	Ligand: O4	Protein: THR15A	LigandSerial: 1583	LigandNodeKey: ATP:B:1:O4
+Type: salt_bridges	Ligand: P2	Protein: LYS13A	LigandSerial: 1585	LigandNodeKey: ATP:B:1:P2
+Type: salt_bridges	Ligand: P3	Protein: LYS13A	LigandSerial: 1589	LigandNodeKey: ATP:B:1:P3
+Type: salt_bridges	Ligand: P3	Protein: ARG90A	LigandSerial: 1589	LigandNodeKey: ATP:B:1:P3
+Type: metal_complexes	Ligand: MG	Protein: THR14A	LigandSerial: 1599	LigandNodeKey: MG:B:203:MG
+Type: salt_bridges	Ligand: P4	Protein: LYS13A	LigandSerial: 1595	LigandNodeKey: TMP:C:1:P4
+Type: salt_bridges	Ligand: P4	Protein: ARG47A	LigandSerial: 1595	LigandNodeKey: TMP:C:1:P4
+Type: salt_bridges	Ligand: P4	Protein: ARG90A	LigandSerial: 1595	LigandNodeKey: TMP:C:1:P4

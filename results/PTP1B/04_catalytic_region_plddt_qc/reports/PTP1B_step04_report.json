@@ -1,0 +1,26 @@
+{
+  "target_id": "PTP1B",
+  "status": "success",
+  "config_path": "/home/wms/AF2-test/AF2-CatGraph/projects/PTP1B/config.gui.yaml",
+  "input_complex_table": "results/PTP1B/03_clash_filter/tables/PTP1B_step03_passed_complex_index.csv",
+  "input_complex_column": "complex_pdb_path",
+  "plddt_pdb_column": "auto",
+  "output_dir": "results/PTP1B/04_catalytic_region_plddt_qc",
+  "n_input_complexes": 309,
+  "n_passed": 306,
+  "n_failed": 3,
+  "rule": "mean catalytic-region pLDDT > 90 and p10 catalytic-region pLDDT > 80",
+  "radius_angstrom": 6.0,
+  "residue_plddt_atom": "CA",
+  "ligand_selection": {
+    "include_resnames": [
+      "LIG"
+    ]
+  },
+  "files": {
+    "summary": "results/PTP1B/04_catalytic_region_plddt_qc/tables/PTP1B_step04_catalytic_region_plddt_summary.csv",
+    "residues": "results/PTP1B/04_catalytic_region_plddt_qc/tables/PTP1B_step04_catalytic_region_residues.csv",
+    "passed": "results/PTP1B/04_catalytic_region_plddt_qc/tables/PTP1B_step04_passed_complex_index.csv",
+    "failed": "results/PTP1B/04_catalytic_region_plddt_qc/tables/PTP1B_step04_failed_complex_index.csv"
+  }
+}

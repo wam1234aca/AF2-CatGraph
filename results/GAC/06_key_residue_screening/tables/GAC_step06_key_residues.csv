@@ -1,0 +1,7 @@
+residue_key,chain,resseq,icode,resname,consurf_grade,consurf_score,consurf_mapping_status,consurf_mapping_method,source_residue_key,n_structures_with_distance,distance_contact_count,distance_contact_frequency,min_distance_min,min_distance_median,min_distance_mean,graph_occurrence_count,graph_occurrence_frequency,conservation_pass,distance_frequency_pass,graph_frequency_pass,key_residue
+ASN317A,A,317,,ASN,9,-0.661,,,,218,218,1.0,2.0758309179699577,2.505336894447452,2.506559133914044,218,1.0,True,True,True,True
+SER215A,A,215,,SER,9,-0.656,,,,218,218,1.0,1.9966061203953083,2.2353527084091436,2.2346861936535456,216,0.9908256880733946,True,True,True,True
+GLU310A,A,310,,GLU,9,-0.631,,,,218,217,0.9954128440366973,2.015260529063178,2.4433880387222224,2.4459537839832945,211,0.9678899082568807,True,True,True,True
+VAL413A,A,413,,VAL,9,-0.609,,,,218,213,0.9770642201834863,2.0065766867976906,2.2593077722474937,2.282613650005584,217,0.9954128440366973,True,True,True,True
+TYR395A,A,395,,TYR,9,-0.627,,,,218,207,0.9495412844036697,2.000682383588159,2.3381825223645825,2.417996007049491,218,1.0,True,True,True,True
+TYR343A,A,343,,TYR,9,-0.581,,,,218,193,0.8853211009174312,2.0144331708944834,2.819222369193848,2.8324247238342446,216,0.9908256880733946,True,True,True,True

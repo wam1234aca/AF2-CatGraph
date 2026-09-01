@@ -1,0 +1,58 @@
+{
+  "target_id": "GAC",
+  "status": "completed",
+  "config": "/home/wms/AF2-test/AF2-CatGraph/projects/GAC/config.gui.yaml",
+  "output_dir": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/07_ged_classification",
+  "input_graph_dir": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/05_plip_interaction_graphs/ged_input_files",
+  "use_step07_filter": true,
+  "step07_passed_table": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/06_key_residue_screening/tables/GAC_step06_passed_complex_index.csv",
+  "n_step07_passed_rows": 208,
+  "n_graphs_selected": 208,
+  "n_graphs_skipped": 10,
+  "n_classes": 13,
+  "stable_class_labels": {
+    "enabled": false,
+    "reference_manifest": null,
+    "minimum_jaccard": null,
+    "n_reference_labels_reused": 0,
+    "n_new_labels_appended": 0,
+    "n_reference_labels_absent": 0
+  },
+  "ged": {
+    "executable": "/home/wms/AF2-test/AF2-CatGraph-test5/external/Graph_Edit_Distance/ged",
+    "method": "pair",
+    "algorithm": "astar",
+    "lower_bound": "LSa",
+    "threshold": 1.0,
+    "timeout_seconds": 300,
+    "max_workers": 2,
+    "require_same_edge_count": true,
+    "memory_limit_mb": null,
+    "max_total_memory_mb": null,
+    "pair_batch_size": null,
+    "cache_ged": false,
+    "stream_pairwise_results": true,
+    "classification_rule": "GED < threshold",
+    "class_naming": {
+      "prefix": "class",
+      "separator": "_"
+    }
+  },
+  "tables": {
+    "selected_graphs": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/07_ged_classification/tables/GAC_step07_selected_graphs.csv",
+    "skipped_graphs": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/07_ged_classification/tables/GAC_step07_skipped_graphs.csv",
+    "graph_classes": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/07_ged_classification/tables/GAC_step07_graph_classes.csv",
+    "representative_pairwise_ged": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/07_ged_classification/tables/GAC_step07_representative_pairwise_ged.tsv",
+    "class_summary": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/07_ged_classification/tables/GAC_step07_class_summary.csv",
+    "representatives": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/07_ged_classification/tables/GAC_step07_representatives.csv",
+    "stable_class_label_audit": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/07_ged_classification/tables/GAC_step07_stable_class_label_audit.csv",
+    "class_label_registry": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/07_ged_classification/tables/GAC_step07_class_label_registry.csv"
+  },
+  "directories": {
+    "working_filtered_graphs": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/07_ged_classification/work/filtered_graphs",
+    "classes": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/07_ged_classification/classes"
+  },
+  "reports": {
+    "log": "/home/wms/AF2-test/AF2-CatGraph/results/GAC/07_ged_classification/reports/GAC_step07_ged_classification.log"
+  }
+}

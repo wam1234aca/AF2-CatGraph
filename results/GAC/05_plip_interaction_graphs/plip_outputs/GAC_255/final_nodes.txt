@@ -1,0 +1,16 @@
+LocalIndex	NodeKey	GED_Label	Type	Serial	Residue
+0	GLC:B:1:C1	C1	ligand	2317	GLC:B:1
+1	GLC:B:1:C2	C2	ligand	2319	GLC:B:1
+2	GLC:B:1:C3	C3	ligand	2320	GLC:B:1
+3	GLC:B:1:C4	C4	ligand	2321	GLC:B:1
+4	GLC:B:1:C5	C5	ligand	2323	GLC:B:1
+5	GLC:B:1:N1	N1	ligand	2316	GLC:B:1
+6	GLC:B:1:N2	N2	ligand	2322	GLC:B:1
+7	GLC:B:1:O1	O1	ligand	2318	GLC:B:1
+8	GLC:B:1:O2	O2	ligand	2324	GLC:B:1
+9	GLC:B:1:O3	O3	ligand	2325	GLC:B:1
+10	GLN214A	GLN214A	protein		
+11	ASN317A	ASN317A	protein		
+12	TYR343A	TYR343A	protein		
+13	CYS347A	CYS347A	protein		
+14	TYR395A	TYR395A	protein		

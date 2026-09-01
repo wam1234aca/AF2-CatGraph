@@ -1,0 +1,103 @@
+{
+  "target_id": "AqTMK",
+  "status": "completed",
+  "config": "/home/wms/AF2-test/AF2-CatGraph/projects/AqTMK/config.gui.yaml",
+  "output_dir": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening",
+  "input_complex_table": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/04_catalytic_region_plddt_qc/tables/AqTMK_step04_passed_complex_index.csv",
+  "input_complex_column": "complex_pdb_path",
+  "graph_contact_node_source": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/05_plip_interaction_graphs/tables/AqTMK_step05_interaction_edges.csv",
+  "n_structures": 176,
+  "conservation": {
+    "source": "/home/wms/AF2-test/AF2-CatGraph/data/AqTMK/07_conservation/AqTMK.zip",
+    "source_type": "zip_archive",
+    "selected_file": "test_consurf_grades.txt",
+    "default_chain": "A",
+    "grades_format": "legacy_compact",
+    "n_rows_parsed": 195,
+    "n_rows_with_pdb_annotation": 0,
+    "n_rows_skipped_unmapped_pdb_position": 0
+  },
+  "conservation_mapping_audit": {
+    "enabled": true,
+    "status": "mapped",
+    "n_source_rows": 195,
+    "n_target_residues": 195,
+    "n_mapped_rows": 195,
+    "n_unmapped_rows": 0,
+    "n_mapped_target_residues": 195,
+    "n_conflict_rows": 0,
+    "target_residue_coverage": 1.0,
+    "source_row_coverage": 1.0,
+    "mapping_methods": {
+      "sequence_alignment": 195
+    },
+    "chain_map": {},
+    "residue_number_offset": {},
+    "inspected_complex_pdb": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/02_template_guided_docking/complexes/AqTMK_1_complex.pdb",
+    "n_protein_residues_in_inspected_complex": 195,
+    "n_consurf_residues": 195,
+    "n_exact_residue_key_matches": 195,
+    "n_chain_insensitive_matches": 195,
+    "protein_residue_coverage_exact": 1.0,
+    "consurf_residue_coverage_exact": 1.0,
+    "n_consurf_rows_mapped": 195,
+    "n_consurf_rows_unmapped": 0,
+    "contact_coverage": {
+      "enabled": true,
+      "n_contact_residues": 12,
+      "n_mapped_contact_residues": 12,
+      "n_missing_contact_residues": 0,
+      "contact_residue_coverage": 1.0,
+      "minimum_required": 0.9,
+      "status": "passed",
+      "missing_contact_residues": []
+    }
+  },
+  "thresholds": {
+    "consurf_grade_min": 8,
+    "residue_ligand_distance_max": 3.0,
+    "distance_contact_frequency_min": 0.8,
+    "graph_occurrence_frequency_min": 0.8,
+    "require_graph_occurrence": true
+  },
+  "structure_filter": {
+    "enabled": true,
+    "require_key_residues": "all",
+    "contact_definition": "graph"
+  },
+  "n_consurf_residues": 195,
+  "n_residues_scored": 195,
+  "n_residues_within_distance_cutoff": 12,
+  "n_key_residues": 3,
+  "key_residues": [
+    "THR15A",
+    "LYS13A",
+    "THR14A"
+  ],
+  "n_structures_passed_key_residue_filter": 176,
+  "n_structures_failed_key_residue_filter": 0,
+  "tables": {
+    "consurf_scores_normalized": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/tables/AqTMK_step06_consurf_scores_normalized.csv",
+    "consurf_mapping": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/tables/AqTMK_step06_consurf_mapping.csv",
+    "per_structure_residue_contacts": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/tables/AqTMK_step06_per_structure_residue_contacts.csv",
+    "residue_scores": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/tables/AqTMK_step06_residue_scores.csv",
+    "distance_cutoff_residue_details": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/tables/AqTMK_step06_within_3A_residue_details.csv",
+    "distance_cutoff_residue_details_publication": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/tables/AqTMK_step06_within_3A_residue_details_publication.csv",
+    "distance_cutoff_residue_details_html": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/reports/AqTMK_step06_within_3A_residue_details.html",
+    "key_residues": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/tables/AqTMK_step06_key_residues.csv",
+    "structure_key_residue_filter": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/tables/AqTMK_step06_structure_key_residue_filter.csv",
+    "passed_complex_index": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/tables/AqTMK_step06_passed_complex_index.csv",
+    "failed_complex_index": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/tables/AqTMK_step06_failed_complex_index.csv",
+    "node_level_grouping": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/tables/AqTMK_step06_node_level_grouping.csv",
+    "node_level_grouping_publication": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/tables/AqTMK_step06_node_level_grouping_publication.csv",
+    "node_level_grouping_per_structure": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/tables/AqTMK_step06_node_level_grouping_per_structure.csv",
+    "node_level_grouping_html": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/reports/AqTMK_step06_node_level_grouping.html",
+    "node_level_grouping_markdown": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/reports/AqTMK_step06_node_level_grouping.md"
+  },
+  "lists": {
+    "key_residues": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/lists/AqTMK_step06_key_residues.txt",
+    "passed_structure_ids": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/lists/AqTMK_step06_passed_structure_ids.txt",
+    "failed_structure_ids": "/home/wms/AF2-test/AF2-CatGraph/results/AqTMK/06_key_residue_screening/lists/AqTMK_step06_failed_structure_ids.txt"
+  },
+  "warnings": []
+}

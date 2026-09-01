@@ -1,0 +1,14 @@
+Type: hydrophobic_interactions	Ligand: C2	Protein: TYR46A	LigandSerial: 2445	LigandNodeKey: LIG:B:1:C2
+Type: hydrophobic_interactions	Ligand: C4	Protein: TYR46A	LigandSerial: 2447	LigandNodeKey: LIG:B:1:C4
+Type: hydrophobic_interactions	Ligand: C7	Protein: ALA217A	LigandSerial: 2455	LigandNodeKey: LIG:B:1:C7
+Type: hydrophobic_interactions	Ligand: C7	Protein: ILE219A	LigandSerial: 2455	LigandNodeKey: LIG:B:1:C7
+Type: hydrophobic_interactions	Ligand: C7	Protein: GLN262A	LigandSerial: 2455	LigandNodeKey: LIG:B:1:C7
+Type: hydrogen_bonds	Ligand: N1	Protein: ASP48A	LigandSerial: 2443	LigandNodeKey: LIG:B:1:N1
+Type: hydrogen_bonds	Ligand: O3	Protein: CYS215A	LigandSerial: 2453	LigandNodeKey: LIG:B:1:O3
+Type: hydrogen_bonds	Ligand: O4	Protein: SER216A	LigandSerial: 2454	LigandNodeKey: LIG:B:1:O4
+Type: hydrogen_bonds	Ligand: O4	Protein: ALA217A	LigandSerial: 2454	LigandNodeKey: LIG:B:1:O4
+Type: hydrogen_bonds	Ligand: O2	Protein: GLY218A	LigandSerial: 2452	LigandNodeKey: LIG:B:1:O2
+Type: hydrogen_bonds	Ligand: O2	Protein: ILE219A	LigandSerial: 2452	LigandNodeKey: LIG:B:1:O2
+Type: hydrogen_bonds	Ligand: O2	Protein: GLY220A	LigandSerial: 2452	LigandNodeKey: LIG:B:1:O2
+Type: hydrogen_bonds	Ligand: O3	Protein: ARG221A	LigandSerial: 2453	LigandNodeKey: LIG:B:1:O3
+Type: salt_bridges	Ligand: P1	Protein: ARG221A	LigandSerial: 2451	LigandNodeKey: LIG:B:1:P1

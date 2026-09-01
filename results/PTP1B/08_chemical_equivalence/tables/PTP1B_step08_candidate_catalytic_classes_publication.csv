@@ -1,0 +1,10 @@
+Merged class,Original classes,Structures,Structure IDs,Rare edges present
+Class 3,Class 4,1,PTP1B_152,D181 | Polar contact | Phosphate unit
+Class 6,Class 9,1,PTP1B_73,D181 | Polar contact | Phosphate unit;F182 | π contact | Aromatic ring unit
+Class 8,Class 12,2,PTP1B_181;PTP1B_290,Q262 | Polar contact | N1 site
+Class 9,Class 13,1,PTP1B_208,D181 | Polar contact | Phosphate unit;F182 | π contact | Aromatic ring unit
+Class 11,Class 21; Class 39; Class 45,4,PTP1B_16;PTP1B_28;PTP1B_72;PTP1B_88,F182 | π contact | Aromatic ring unit
+Class 15,Class 32; Class 49; Class 66,4,PTP1B_134;PTP1B_156;PTP1B_248;PTP1B_301,Q262 | Polar contact | N1 site
+Class 17,Class 41; Class 43,2,PTP1B_35;PTP1B_55,F182 | π contact | Aromatic ring unit
+Class 18,Class 42,1,PTP1B_44,D181 | Polar contact | Phosphate unit
+Class 25,Class 60,1,PTP1B_262,Q262 | Polar contact | N1 site

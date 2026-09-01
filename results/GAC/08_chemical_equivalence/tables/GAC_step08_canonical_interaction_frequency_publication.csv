@@ -1,0 +1,16 @@
+Interaction,Frequency,Category
+E310 | Polar contact | Carboxylate oxygen unit,1.0,Common
+N317 | Polar contact | Carboxylate oxygen unit,1.0,Common
+S215 | Polar contact | O1 site,1.0,Common
+V413 | Hydrophobic contact | Aliphatic carbon unit,1.0,Common
+V413 | Polar contact | O1 site,1.0,Common
+Y343 | Polar contact | Carboxylate oxygen unit,1.0,Common
+Y395 | Polar contact | N1 site,1.0,Common
+N264 | Polar contact | Carboxylate oxygen unit,0.9615384615384616,Common
+E310 | Polar contact | N2 site,0.9471153846153846,Common
+Y395 | Polar contact | O1 site,0.8653846153846154,Common
+Y178 | Polar contact | N2 site,0.0673076923076923,Rare
+Q214 | Polar contact | N2 site,0.052884615384615384,Rare
+C347 | Polar contact | N2 site,0.038461538461538464,Rare
+F247 | Hydrophobic contact | Aliphatic carbon unit,0.03365384615384615,Rare
+C347 | Polar contact | Carboxylate oxygen unit,0.004807692307692308,Rare

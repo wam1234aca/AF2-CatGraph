@@ -1,0 +1,13 @@
+# Keep source changes observable even when Streamlit is started directly by a
+# deployment platform instead of through `catcongraph gui`.
+[server]
+runOnSave = true
+fileWatcherType = "auto"
+
+[theme]
+base = "light"
+primaryColor = "#08736D"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F6FAF8"
+textColor = "#173331"
+font = "sans serif"

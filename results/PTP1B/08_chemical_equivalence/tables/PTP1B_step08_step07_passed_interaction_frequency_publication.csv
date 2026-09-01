@@ -1,0 +1,22 @@
+Interaction,Frequency,Category
+A217 | Hydrophobic contact | Aromatic ring unit,1.0,High-frequency
+A217 | Polar contact | Phosphate unit,1.0,High-frequency
+C215 | Polar contact | Phosphate unit,1.0,High-frequency
+I219 | Polar contact | Phosphate unit,1.0,High-frequency
+R221 | Polar contact | Phosphate unit,1.0,High-frequency
+S216 | Polar contact | Phosphate unit,1.0,High-frequency
+Y46 | Hydrophobic contact | Aliphatic carbon unit,1.0,High-frequency
+G218 | Polar contact | Phosphate unit,0.9932432432432432,High-frequency
+Y46 | Hydrophobic contact | Aromatic ring unit,0.9898648648648649,High-frequency
+G220 | Polar contact | Phosphate unit,0.9459459459459459,High-frequency
+D48 | Polar contact | N1 site,0.9155405405405406,High-frequency
+I219 | Hydrophobic contact | Aromatic ring unit,0.6824324324324325,Other
+Q262 | Polar contact | Phosphate unit,0.39864864864864863,Other
+F182 | Hydrophobic contact | Aromatic ring unit,0.23986486486486486,Other
+Q262 | Hydrophobic contact | Aromatic ring unit,0.11824324324324324,Other
+Q262 | Polar contact | N1 site,0.033783783783783786,Low-frequency
+F182 | π contact | Aromatic ring unit,0.02702702702702703,Low-frequency
+D181 | Polar contact | Phosphate unit,0.013513513513513514,Low-frequency
+R47 | Polar contact | N1 site,0.0033783783783783786,Low-frequency
+V49 | Hydrophobic contact | Aromatic ring unit,0.0033783783783783786,Low-frequency
+Y46 | π contact | Aromatic ring unit,0.0033783783783783786,Low-frequency

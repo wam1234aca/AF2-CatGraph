@@ -1,0 +1,90 @@
+# Minimal AF2-CatGraph project configuration.
+# Replace every REQUIRED path before running Preflight.
+
+config_schema: public_01_09
+
+project:
+  target_id: MY_ENZYME
+  output_root: results/MY_ENZYME
+
+inputs:
+  af2_dir: data/MY_ENZYME/01_af2
+  template_protein_pdb: data/MY_ENZYME/02_templates/template_protein.pdb
+  ligand_pdbs:
+    - data/MY_ENZYME/02_templates/substrate.pdb
+    # Add cofactors/metals in their Step02 placement order.
+
+step01:
+  global_plddt_min: 80.0
+
+step02:
+  input_source: step01
+  alignment_mode: auto
+  multi_ligand_mode: sequential
+  output_naming: short_pdb_rank
+
+step03:
+  clash:
+    clash_max: 10
+    delta: 0.5
+
+step04:
+  catalytic_region:
+    ligand_resnames: [LIG]
+    distance_cutoff: 6.0
+    mean_plddt_min: 90.0
+    quantile10_plddt_min: 80.0
+
+step05:
+  plip_executable: plip
+  run_plip: true
+  save_intermediate_files: true
+
+step06:
+  conservation_file: data/MY_ENZYME/07_conservation/MY_ENZYME_consurf.zip
+  ligand:
+    include_resnames: [LIG]
+  thresholds:
+    consurf_grade_min: 8
+    residue_ligand_distance_max: 3.0
+    occurrence_frequency_min: 0.80
+    require_graph_occurrence: true
+
+step07:
+  ged:
+    executable: /REQUIRED/PATH/TO/Graph_Edit_Distance/ged
+    threshold: 1.0
+    timeout_seconds: 300
+    max_workers: 2
+    require_same_edge_count: true
+
+step08:
+  enabled: true
+  canonicalization:
+    # universal_rules automatically applies the 12 S4 rules;
+    # conservative_manual keeps atom-level labels unless manual units are added.
+    contact_unit_mode: universal_rules
+    equivalence_mode: standard
+    use_builtin_ligand_units: false
+    manual_ligand_units: {}
+    recommendations:
+      enabled: true
+      require_acceptance: false
+      accepted_recommendation_ids: []
+      rejected_recommendation_ids: []
+    auto_detect_ligand_units: true
+
+step09:
+  plot:
+    formats: [svg, png]
+  layout:
+    entity_order: [LIG]
+    entity_spacing: 6.2
+
+# Optional and disabled by default. This changes the ligand atoms entering
+# downstream analysis, so enable it only when the study design requires it.
+step10_optional:
+  enabled: false
+  timing: before_docking
+  atom_selection:
+    rules: []

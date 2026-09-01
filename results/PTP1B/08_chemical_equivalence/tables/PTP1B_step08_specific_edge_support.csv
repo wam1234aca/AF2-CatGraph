@@ -1,0 +1,17 @@
+merged_class,canonical_edge,global_frequency,class_support_count,class_size,class_support_frequency,support_status
+class_3,D181 | Polar contact | Phosphate unit,0.013513513513513514,1,1,1.0,singleton_evidence
+class_6,D181 | Polar contact | Phosphate unit,0.013513513513513514,1,1,1.0,singleton_evidence
+class_6,F182 | π contact | Aromatic ring unit,0.02702702702702703,1,1,1.0,singleton_evidence
+class_8,Q262 | Polar contact | N1 site,0.033783783783783786,2,2,1.0,supported
+class_9,D181 | Polar contact | Phosphate unit,0.013513513513513514,1,1,1.0,singleton_evidence
+class_9,F182 | π contact | Aromatic ring unit,0.02702702702702703,1,1,1.0,singleton_evidence
+class_11,F182 | π contact | Aromatic ring unit,0.02702702702702703,4,4,1.0,supported
+class_15,Q262 | Polar contact | N1 site,0.033783783783783786,4,4,1.0,supported
+class_17,F182 | π contact | Aromatic ring unit,0.02702702702702703,2,2,1.0,supported
+class_18,D181 | Polar contact | Phosphate unit,0.013513513513513514,1,1,1.0,singleton_evidence
+class_25,Q262 | Polar contact | N1 site,0.033783783783783786,1,1,1.0,singleton_evidence
+class_28,V49 | Hydrophobic contact | Aromatic ring unit,0.0033783783783783786,1,1,1.0,singleton_evidence
+class_34,Q262 | Polar contact | N1 site,0.033783783783783786,2,2,1.0,supported
+class_37,Q262 | Polar contact | N1 site,0.033783783783783786,1,1,1.0,singleton_evidence
+class_37,Y46 | π contact | Aromatic ring unit,0.0033783783783783786,1,1,1.0,singleton_evidence
+class_39,R47 | Polar contact | N1 site,0.0033783783783783786,1,1,1.0,singleton_evidence

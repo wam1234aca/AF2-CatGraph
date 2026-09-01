@@ -1,0 +1,16 @@
+Type,Residue,Screen,Structures
+Type1,"D9, G10, S11, G12, K13, T14, T15, R35, R47, R90, K143, R145",Retained,5
+Type2,"D9, G10, S11, G12, K13, T14, T15, R47, R90, K143, R145",Retained,25
+Type3,"D9, G10, S11, G12, K13, T14, T15, R35, R90, K143, R145",Retained,2
+Type4,"D9, G10, S11, G12, K13, T14, T15, R35, R47, R90, R145",Retained,2
+Type5,"D9, G10, S11, G12, K13, T14, T15, R35, R47, R90, K143",Retained,1
+Type6,"D9, G10, S11, G12, K13, T14, T15, R35, R47, R90",Retained,26
+Type7,"D9, G10, S11, G12, K13, T14, T15, R47, R90, R145",Retained,6
+Type8,"D9, G10, S11, G12, K13, T14, T15, R90, K143, R145",Retained,2
+Type9,"D9, G10, S11, G12, K13, T14, T15, R47, R90, N144",Retained,2
+Type10,"D9, G10, S11, G12, K13, T14, T15, R47, R90",Retained,87
+Type11,"D9, G10, S11, G12, K13, T14, T15, R35, R90",Retained,9
+Type12,"D9, G10, S11, G12, K13, T14, T15, R35, R47",Retained,1
+Type13,"G10, S11, G12, K13, T14, T15, R47, R90",Retained,5
+Type14,"D9, G10, S11, G12, K13, T14, T15, R90",Retained,2
+Type15,"G10, S11, G12, K13, T14, T15, R90",Retained,1

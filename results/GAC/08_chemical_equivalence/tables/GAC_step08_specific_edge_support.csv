@@ -1,0 +1,13 @@
+merged_class,canonical_edge,global_frequency,class_support_count,class_size,class_support_frequency,support_status
+class_1,F247 | Hydrophobic contact | Aliphatic carbon unit,0.03365384615384615,1,1,1.0,singleton_evidence
+class_1,Y178 | Polar contact | N2 site,0.0673076923076923,1,1,1.0,singleton_evidence
+class_2,Y178 | Polar contact | N2 site,0.0673076923076923,11,11,1.0,supported
+class_3,F247 | Hydrophobic contact | Aliphatic carbon unit,0.03365384615384615,4,4,1.0,supported
+class_4,C347 | Polar contact | N2 site,0.038461538461538464,6,6,1.0,supported
+class_5,C347 | Polar contact | Carboxylate oxygen unit,0.004807692307692308,1,1,1.0,singleton_evidence
+class_5,F247 | Hydrophobic contact | Aliphatic carbon unit,0.03365384615384615,1,1,1.0,singleton_evidence
+class_7,Q214 | Polar contact | N2 site,0.052884615384615384,11,11,1.0,supported
+class_8,Y178 | Polar contact | N2 site,0.0673076923076923,2,2,1.0,supported
+class_9,F247 | Hydrophobic contact | Aliphatic carbon unit,0.03365384615384615,1,1,1.0,singleton_evidence
+class_10,C347 | Polar contact | N2 site,0.038461538461538464,1,1,1.0,singleton_evidence
+class_13,C347 | Polar contact | N2 site,0.038461538461538464,1,1,1.0,singleton_evidence

@@ -1,0 +1,34 @@
+{
+  "target_id": "GAC",
+  "config_path": "/home/wms/AF2-test/AF2-CatGraph-test5/projects/GAC/config.gui.yaml",
+  "input_complex_table": "results/GAC/02_template_guided_docking/tables/GAC_step02_complex_index.csv",
+  "input_complex_column": "complex_pdb_path",
+  "output_dir": "results/GAC/03_clash_filter",
+  "n_input_complexes": 264,
+  "n_passed": 240,
+  "n_failed": 24,
+  "clash_max": 10,
+  "delta": 0.5,
+  "clash_method": "collision_py_exact",
+  "neighbor_search_cutoff": 5.0,
+  "collision_py_exact_semantics": {
+    "parser": "Bio.PDB.PDBParser(QUIET=True)",
+    "protein_side": "blank hetfield plus water hetfield W",
+    "ligand_side": "nonblank non-water hetfield",
+    "hydrogens_included": true,
+    "legacy_radius_fallback_angstrom": 1.5,
+    "strict_pair_rule": "distance < protein_radius + ligand_radius - delta",
+    "pass_rule": "clash_count <= clash_max",
+    "ligand_selection_config_ignored": true,
+    "ignore_hydrogen_config_ignored": true,
+    "ignore_water_config_ignored": true
+  },
+  "ignore_hydrogen": false,
+  "ignore_water": true,
+  "files": {
+    "summary": "results/GAC/03_clash_filter/tables/GAC_step03_clash_summary.csv",
+    "pairs": "results/GAC/03_clash_filter/tables/GAC_step03_clash_pairs.csv",
+    "passed": "results/GAC/03_clash_filter/tables/GAC_step03_passed_complex_index.csv",
+    "failed": "results/GAC/03_clash_filter/tables/GAC_step03_failed_complex_index.csv"
+  }
+}

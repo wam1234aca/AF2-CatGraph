@@ -1,0 +1,5 @@
+Merged class,Original classes,Structures,Structure IDs,Rare edges present
+Class 1,Class 1,1,GAC_1,F247 | Hydrophobic contact | Aliphatic carbon unit;Y178 | Polar contact | N2 site
+Class 2,Class 2,11,GAC_3;GAC_6;GAC_14;GAC_17;GAC_36;GAC_38;GAC_103;GAC_112;GAC_117;GAC_139;GAC_237,Y178 | Polar contact | N2 site
+Class 3,Class 3,4,GAC_4;GAC_60;GAC_205;GAC_253,F247 | Hydrophobic contact | Aliphatic carbon unit
+Class 4,Class 4,6,GAC_105;GAC_128;GAC_129;GAC_171;GAC_179;GAC_254,C347 | Polar contact | N2 site
