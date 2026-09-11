@@ -1,6 +1,9 @@
 # AF2-CatGraph
 
-AF2-CatGraph is a workflow for identifying catalytically relevant enzyme conformations from AlphaFold2-MSA perturbation ensembles. The workflow integrates reference-guided protein–ligand complex construction, global and local structural screening, protein–ligand interaction-graph generation, core-residue selection, graph edit distance (GED)-based classification, ligand contact-unit grouping, and candidate selection based on recurrent ligand-binding interactions and low-frequency reaction-center contacts. AF2-CatGraph provides an interpretable and auditable approach for identifying candidate catalytic conformations from predicted enzyme structural ensembles.
+AF2-CatGraph: a catalytic-state prediction framework that combines AF2 ensemble generation through MSA perturbation, enzyme–ligand complex construction, and residue–ligand interaction graphs to prioritize catalytically relevant conformations. A user-friendly web interface for AF2-CatGraph analysis is available at https://www.af2catgraph.xyz/. 
+
+
+![AF2-CatGraph workflow](assets/workflow-overview.png)
 
 ## Workflow
 
