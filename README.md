@@ -3,7 +3,7 @@
 AF2-CatGraph: a catalytic-state prediction framework that combines AF2 ensemble generation through MSA perturbation, enzyme–ligand complex construction, and residue–ligand interaction graphs to prioritize catalytically relevant conformations. A user-friendly web interface for AF2-CatGraph analysis is available at https://www.af2catgraph.xyz/. 
 
 
-![AF2-CatGraph workflow](assets/workflow-overview.png)
+![AF2-CatGraph workflow](assets/workflow.png)
 
 ## Workflow
 
