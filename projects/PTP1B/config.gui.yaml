@@ -61,7 +61,7 @@ step05:
     source: input_conect_then_rdkit_same_residue
     allow_cross_residue_rdkit_connectivity: false
 step06:
-  conservation_file: /home/wms/AF2-test/AF2-CatGraph/data/PTP1B/07_conservation/6B90.zip
+  conservation_file: /home/wms/AF2-test/AF2-CatGraph/data/PTP1B/07_conservation/PTP1B.zip
   conservation:
     mapping:
       enabled: true
