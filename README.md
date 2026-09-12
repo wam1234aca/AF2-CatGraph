@@ -205,7 +205,7 @@ Additional archive and residue-mapping guidance is provided in [docs/CONSURF_WEB
 ## Quick start
 
 ### GUI
-![workflow-overview](assets/GUI_Work.png)
+![workflow-overview](assets/GUI_work.png)
 
 
 Activate the environment and launch the graphical interface:
