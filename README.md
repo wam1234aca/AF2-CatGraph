@@ -449,4 +449,4 @@ results/           generated outputs (ignored by Git)
 
 ## License
 
-See [LICENSE](LICEN)
+See [LICENSE](LICENSE)
