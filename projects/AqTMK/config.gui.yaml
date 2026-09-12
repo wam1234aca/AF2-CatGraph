@@ -6,12 +6,12 @@ project:
   target_id: AqTMK
   output_root: results/AqTMK
 inputs:
-  af2_dir: /home/wms/AF2-test/AF2-CatGraph/data/AqTMK/01_af2_new/
-  template_protein_pdb: /home/wms/AF2-test/AF2-CatGraph/data/AqTMK/02_templates/template.pdb
+  af2_dir: data/AqTMK/01_af2_new/
+  template_protein_pdb: data/AqTMK/02_templates/template.pdb
   ligand_pdbs:
-  - /home/wms/AF2-test/AF2-CatGraph/data/AqTMK/02_templates/ATP.pdb
-  - /home/wms/AF2-test/AF2-CatGraph/data/AqTMK/02_templates/TMP.pdb
-  - /home/wms/AF2-test/AF2-CatGraph/data/AqTMK/02_templates/MG.pdb
+  - data/AqTMK/02_templates/ATP.pdb
+  - data/AqTMK/02_templates/TMP.pdb
+  - data/AqTMK/02_templates/MG.pdb
 step01:
   global_plddt_min: 80.0
   plddt_atom: CA
@@ -66,7 +66,7 @@ step05:
     source: input_conect_then_rdkit_same_residue
     allow_cross_residue_rdkit_connectivity: false
 step06:
-  conservation_file: /home/wms/AF2-test/AF2-CatGraph/data/AqTMK/07_conservation/AqTMK.zip
+  conservation_file: data/AqTMK/07_conservation/AqTMK.zip
   conservation:
     mapping:
       enabled: true
@@ -102,7 +102,7 @@ step06:
 step07:
   use_step07_filter: true
   ged:
-    executable: /home/wms/AF2-test/AF2-CatGraph/external/Graph_Edit_Distance/ged
+    executable: external/Graph_Edit_Distance/ged
     threshold: 1.0
     max_workers: 2
     timeout_seconds: 300
