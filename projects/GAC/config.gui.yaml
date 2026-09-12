@@ -6,9 +6,9 @@ project:
   target_id: GAC
   output_root: results/GAC
 inputs:
-  af2_dir: /home/wms/AF2-test/AF2-CatGraph/data/GAC/01_af2_new/
-  template_protein_pdb: /home/wms/AF2-test/AF2-CatGraph/data/GAC/02_templates/template.pdb
-  ligand_pdb: /home/wms/AF2-test/AF2-CatGraph/data/GAC/02_templates/ligand.pdb
+  af2_dir: data/GAC/01_af2_new/
+  template_protein_pdb: data/GAC/02_templates/template.pdb
+  ligand_pdb: data/GAC/02_templates/ligand.pdb
 step01:
   global_plddt_min: 75.0
   plddt_atom: CA
@@ -61,7 +61,7 @@ step05:
     source: input_conect_then_rdkit_same_residue
     allow_cross_residue_rdkit_connectivity: false
 step06:
-  conservation_file: /home/wms/AF2-test/AF2-CatGraph/data/GAC/07_conservation/GAC.zip
+  conservation_file: data/GAC/07_conservation/GAC.zip
   conservation:
     mapping:
       enabled: true
@@ -97,7 +97,7 @@ step06:
 step07:
   use_step07_filter: true
   ged:
-    executable: /home/wms/AF2-test/AF2-CatGraph/external/Graph_Edit_Distance/ged
+    executable: external/Graph_Edit_Distance/ged
     threshold: 1.0
     max_workers: 2
     timeout_seconds: 300
