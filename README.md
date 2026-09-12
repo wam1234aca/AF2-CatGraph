@@ -295,7 +295,7 @@ Each main step can also be run separately. For example:
 
 ```bash
 af2-catgraph step06 \
-  --config /home/wms/AF2-test/AF2-CatGraph/projects/GAC/config.gui.yaml \
+  --config projects/GAC/config.gui.yaml \
   --clean
 ```
 
@@ -449,4 +449,4 @@ results/           generated outputs (ignored by Git)
 
 ## License
 
-See [LICENSE](LICEN
+See [LICENSE](LICEN)
